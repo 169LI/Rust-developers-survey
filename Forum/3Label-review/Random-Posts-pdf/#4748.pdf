@@ -1,0 +1,260 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 5 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/pixel)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 741.3646 44.76646 752.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/gkoz)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 178.1146 45.18646 189.3646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/Annots [ 4 0 R 6 0 R ] /Contents 31 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 30 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/oli_obk)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 785.4708 53.10646 796.7208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://stackoverflow.com/questions/32300132/why-cant-i-store-a-value-and-a-reference-to-that-value-in-the-same-struct?rq=1)
+>> /Border [ 0 0 0 ] /Rect [ 227.1065 764.7208 548.264 775.9708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/pixel)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 732.7208 44.76646 743.9708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/lifetime-issue-for-a-struct-x-optionally-owning-another-struct-y-that-has-a-reference-to-x/22098)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 646.8708 118.7965 658.1208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/lifetime-issue-for-a-struct-x-optionally-owning-another-struct-y-that-has-a-reference-to-x/22098)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 635.6208 118.384 646.8708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/lifetime-issue-for-a-struct-x-optionally-owning-another-struct-y-that-has-a-reference-to-x/22098)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 624.3708 130.9015 635.6208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/lifetime-issue-for-a-struct-x-optionally-owning-another-struct-y-that-has-a-reference-to-x/22098)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 613.1208 33.34896 624.3708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/strange-lifetime-issue-with-reference-to-another-struct-member/93325)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 590.6208 115.459 601.8708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/strange-lifetime-issue-with-reference-to-another-struct-member/93325)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 579.3708 116.3065 590.6208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/strange-lifetime-issue-with-reference-to-another-struct-member/93325)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 568.1208 55.84896 579.3708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/need-help-storing-a-value-with-lifetime-in-a-struct/84227)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 545.6208 128.809 556.8708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/need-help-storing-a-value-with-lifetime-in-a-struct/84227)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 534.3708 86.69646 545.6208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/lifetime-in-future-confusion/62048)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 523.1208 117.9715 534.3708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/help-regarding-lifetime/27138)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 500.6208 103.369 511.8708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.discourse.org)
+>> /Border [ 0 0 0 ] /Rect [ 71.03146 416.6208 104.369 427.8708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/Annots [ 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 
+  18 0 R 19 0 R 20 0 R 21 0 R 22 0 R ] /Contents 32 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 30 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+24 0 obj
+<<
+/Outlines 26 0 R /PageMode /UseNone /Pages 30 0 R /Type /Catalog
+>>
+endobj
+25 0 obj
+<<
+/Author () /CreationDate (D:20251207211038+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20251207211038+08'00') /Producer (xhtml2pdf <https://github.com/xhtml2pdf/xhtml2pdf/>) 
+  /Subject () /Title (Structure with a field whose lifetime depends on a second field - help - The Rust Programming Language Forum) /Trapped /False
+>>
+endobj
+26 0 obj
+<<
+/Count 3 /First 27 0 R /Last 27 0 R /Type /Outlines
+>>
+endobj
+27 0 obj
+<<
+/Count -1 /Dest [ 7 0 R /Fit ] /First 28 0 R /Last 28 0 R /Parent 26 0 R /Title (Structure with a field whose lifetime depends on a second field )
+>>
+endobj
+28 0 obj
+<<
+/Count -1 /Dest [ 23 0 R /Fit ] /First 29 0 R /Last 29 0 R /Parent 27 0 R /Title (Related topics )
+>>
+endobj
+29 0 obj
+<<
+/Dest [ 23 0 R /Fit ] /Parent 28 0 R /Title (Related topics )
+>>
+endobj
+30 0 obj
+<<
+/Count 2 /Kids [ 7 0 R 23 0 R ] /Type /Pages
+>>
+endobj
+31 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1620
+>>
+stream
+Gb"/'>E@K-'RnqHEKl52WQ<TL$O1p&LtYR)b!S(Fe-.!q"!4\!m3/'@=Bb*Amhsla(g(9#fr$<.a3<YhGHRI^'Fan0ZbPN+i-c,b\tMA`kY6T]`.m,=pnN'+p$*#O[+K6(M.O0_(:4O'QlXAeZQ%(%hU-_*\;!FH#8UD:b3'::0g;t#mBg.(,+qtp\.g#d;^'q'+UG[!jcXf1JKA^*"=532%F?D]7[S*dVU4Q&*'U8u_5B[p',F#&4GAhISu->HiC5),oG2a[Z4hsV!PKS_@X"5LGPfp3?'AA;5.m[ta0jW5HX"0A6&hsH#PGF%5odq=cZ;/TiXT^,L6_#e&>r6(C79IndT.frHEWKRXO;d>,#CHWQioPD@,VL8+Uf]&"VD!#c["kK&2EU7Hn8_[hfs_jlo&Rc?$a)KD/oq)q`LC@JDP=&D4Q;#c^SR"T*LE>/>I.!%3HlF99ru>9e[%1C'*c@ef9BT>O/5C`i\Eoj%p[`=p5Q.s+nd)bee<*$578-4:\j)&1PV)(sFrf!C8OQH,O4CXUEs,h3u^jIsUL[;R"fN:#*1f*A>u]]VL^'hJYYC8EG!+,OripGV:+fc=V38kRXi]8le"BO:T+e__oWXhb&7pI?q1-.M!S!XBV.hTe*C7`Cc"P'5M<AVh=L8k5mY_V,!b+/tBkVYN(9l`N)ZnCfD9Cno-@3>FKlIcQa7r>1N,H8(9hCC\1#uQ56)&iHX3U,9R2Wd!SuNO,6btg+NbL*g65!Q<*+:l4C$rl6;+(KknmK_rH\Q-TEc2Zt]kl3@5e?hgR/hRcHIh7-N`IGf%FPMQGGcj0Df&,A"e`AB=`Zof___bUKe:eugipiD=O_=Ur^aag/W\[Spp6l%fN5E'&.P!o/gAAOViWQ+Gd&S+cf0]NdGR9S@XXPk\Hp5>sWdT1VCR&*H.l3!TW0jegfBlQ,=7D<L*mZ:qtnK[Lcen="DiGQ<ItWfKk.ZE-VA,32g+ik_-2C5Ld9.+&L;'\FOh=W@eQ@iotEf:?tNG1u)k*.V:X\cI@XWD]2"p*%fL%JqO/K54<js-a,upR3MnMl+,/:II8:iAS$1[U'YAI0Ci*C_UJ?9Xt55@*>&m7KW#a-4hS-0M,<c%U,<)Y@Hh3I&>iqg-\jr^9Ou--aX?6,QiKk`#L*JJUt8;d\lqfa.,`C4X;T=R6JX;:LV>b.R51/-IA(^m^6tt+2fr@Xs9;@D/6g$*K]+AZZ"NffZcaK8jSCrOg'O_rS#WOM@P/QAHbElUTCJllT5=WT$-n45uI'C?eb"UA!0S=p3I(Zqbo'@2kH[&U^FuC:`M?[-N^%jdcgAUoihT!B[?l"`++ga&9I822">=kM5p!hNDajHRQqg"(5i@kpd+4<N6B&F>jnb4'A"N%XS3;:C"m8VqWU]7[I"O!V[a>cZaP#eXnf]j'T_-Ho$Y.dhMO4#@s\;N6`d),dRYX?d*WkRSMAU+ipDQcmtt5X]LXj_&Y!5)PWY77Ej60S7P*O[_Q[ic)9qGY!N6J0jm1>ss)g_"gYI,MD;T-XDJF9.ddFGt8b&o@4kWUGqosH(NaO5oD378"YVG\GFE-#T:m2gYV(bpL#b#cRL@7W*cFWka&sIsh?K`Kil9FTlg'7~>endstream
+endobj
+32 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1867
+>>
+stream
+Gb!;eD/\/e&H88.ESm2p#q*INX^?gr[7q7?94D]X:gd[Ag1DR&Sj_>VJGo3_-!?N8bEe;.D%kQ!.$AoEptS#&MLpJq[.o[D!'cJ$qpuN1K@'h#+9G$!nE]<!muo:"d&K#4#T'*%+E/=;6I'Rej#2U4>.,""iKUmW5/E(irN(OZ**YpSTTn)e97/2oT=FU":@XfJiUjmO0_u23qT_F;.Ni!`#3,M'ECCrljdk]r-OF+(7(@g:_AjC?^/t=V_bD)T:BKu.@+k`W$c$JXs%74u$J8Q=i3g/@Q86&W-I.-%eAL`V::QYn0=pj3;#%p;UnM_/UA4,?B"BfA+iVX9c'm@k9Je#Zm^9X5D_tC\HBEi5WVfi<Ytbs7Uq+SJ06/;4]6'mT8Xupi?sf9oS_u('3euEhV$"&8DVuN6R,(+TP8=EUE.ToF3;6%b9Dk9<nN'S^Ht3j=0I`BW1t>m%fAHaO3QEe:/L0ihc?<\@^kW97_o91=/A\<Rl/[ls?4l<3^DHW+-q@PefTRbnd/U&S#N>G.l6,%R?h:p,oJH#nm(%Z2;WToD]U6Sne]H=DktJ7;[EV[]N(]t^/7%<$,%mWl>]=>HBk(+/i*+5^^.5?-AR^`Fa9/6/V+3RtO-ULn7qPAR+\j7",?loTDe!no\[L>$62Dp#NRbQ*ICi1IR2p/A)^KO^?jY7U,+aY85V?SZ2RLAij-&kD3.^2Z>i*A29BhF!G=jGp+nOLCW==g8F[]FpX>fl9T,kuWDTMbsH'`TJS6ZasBXK)oRq[4@Y#R"^]#(6N*T_]8M#d4C#.9ldA0WNu+XsK.PQk(!!!0QG.0Z\T6JP:W#YkHQG8RcJ`_EJ<*JqqmZSCXU4gN6l)l9(R-\?Gr91-0)aD82>[E>s4>@Ta&Emu`l6LW%1A?;[^J(JG+2gs?rf`=ui#G:'?h3XXPk4\oP@q>4(S,9'=)hU4kil@>eLB4gr3tDUt<&ShPWG`a0'&+=X)A9XS+NMK<h6^f3P&d>]eA5,B]%a)F_aLUi/o_lD0=o)WLW%r>]M%q.e.ZEcgns*OollR.9!"6n51V1SdqQCt8^qA::G2`iSkX\i8MTgJFg#Q4T;A4,AH"jXl]*(AEjmDTi<M0p^kLQi#n(-F.s60[m3g:;'eal#V@HX='W7f*Yn=9KDnSO6]Ztal!Y>M,!/,2I3td3j1+C?jb%u@AG$!X^M78l\.8e;rokkuFHR6)&n.0mtQe:6ca'mOpK7]_h5P@R]Q1R8Y^+l$LV@)=+(0G?.X+Rf[W`L?NAVdqD>g72f7*mTe4oZH1C+PMBUQoa^Vqo(,I7+L6#CSu:La_+3EAPD$JYDIbSWPK.P-$%V=:9@iYWcP"mboSe&+-JkP.nsg%9TJC]BDS'X.=8]7^qoWeFGbmgTEoFTjLd*Nei7,d@8o]KMc[T#A][q46XqE(V<nK#%:s*;q'uBK7]:uZ/:VjA?sFaC`FQ+ls$Uc:ibf_(j#2fB+mBt`8HM?-_5DH*"g/FaJ;pOJ6t^imOE<[jKS'HYC,7Q)<^$<N'0Pt]X8V@;cB*DD3!MLo)WiPNgiiA6bgb$EA7WR0FY^4?$0Bd^=-;6NesO0XXGbrQ,ES%e;Biuc4`U<'"[8MH2%,Z"(u:ef3g[YS:73H?[tX/]AK+m:=u/gF8LH^jT3->mQFA4hkgKBF6ab]GC"UrI(u1im$fI#9YU=*)E#K+[6"=-jrkn(pJnLhGf0u]`BS:,HE:SH4N]lZ@e!GR#e0CKo:Le(,F-Mpqr[$1ALeca-INf]g>.<@H\o2[AjMO]9qsZ,s7dC\V71qIf.+[ThX19ZQ`7a`4A(rCrkJc:B5jnl""UM)36pppiLO5qRjc_n""LQo`l:)]4.Q3ZAK2+T~>endstream
+endobj
+xref
+0 33
+0000000000 65535 f 
+0000000073 00000 n 
+0000000124 00000 n 
+0000000231 00000 n 
+0000000343 00000 n 
+0000000530 00000 n 
+0000000635 00000 n 
+0000000821 00000 n 
+0000001050 00000 n 
+0000001239 00000 n 
+0000001512 00000 n 
+0000001700 00000 n 
+0000001979 00000 n 
+0000002257 00000 n 
+0000002536 00000 n 
+0000002815 00000 n 
+0000003065 00000 n 
+0000003316 00000 n 
+0000003567 00000 n 
+0000003806 00000 n 
+0000004046 00000 n 
+0000004263 00000 n 
+0000004474 00000 n 
+0000004651 00000 n 
+0000004975 00000 n 
+0000005062 00000 n 
+0000005423 00000 n 
+0000005497 00000 n 
+0000005666 00000 n 
+0000005787 00000 n 
+0000005871 00000 n 
+0000005938 00000 n 
+0000007650 00000 n 
+trailer
+<<
+/ID 
+[<7abf46b2bef44d814cf021287166373b><7abf46b2bef44d814cf021287166373b>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 25 0 R
+/Root 24 0 R
+/Size 33
+>>
+startxref
+9609
+%%EOF

@@ -1,0 +1,268 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 7 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/russellw)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 741.3646 56.42896 752.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/accessing-struct-methods-from-their-dyn-trait-binding/90623)
+>> /Border [ 0 0 0 ] /Rect [ 125.6315 720.6146 301.949 731.8646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/2e71828)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 581.3646 58.53646 592.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/russellw)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 440.3646 56.42896 451.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/steffahn)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 286.1146 56.03146 297.3646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/Annots [ 4 0 R 5 0 R 6 0 R 8 0 R 9 0 R ] /Contents 32 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 31 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/system)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 738.4708 53.09896 749.7208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/how-can-i-modify-some-struct-behind-an-enum/85357)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 663.8708 126.709 675.1208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/how-can-i-modify-some-struct-behind-an-enum/85357)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 652.6208 86.29896 663.8708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/rust-matching-on-enum-members-behind-mutable-reference/70500)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 630.1208 107.5465 641.3708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/rust-matching-on-enum-members-behind-mutable-reference/70500)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 618.8708 112.9615 630.1208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/rust-matching-on-enum-members-behind-mutable-reference/70500)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 607.6208 60.02646 618.8708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/pattern-match-and-type-cast-of-a-mut-reference/11003)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 585.1208 130.069 596.3708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/pattern-match-and-type-cast-of-a-mut-reference/11003)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 573.8708 80.86896 585.1208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/enum-implementing-function-that-mutates-itself/28363)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 551.3708 122.9665 562.6208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/enum-implementing-function-that-mutates-itself/28363)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 540.1208 87.12396 551.3708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/implement-generic-struct-with-different-method-variants/112678)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 517.6208 125.8765 528.8708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/implement-generic-struct-with-different-method-variants/112678)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 506.3708 110.884 517.6208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.discourse.org)
+>> /Border [ 0 0 0 ] /Rect [ 71.03146 422.3708 104.369 433.6208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/Annots [ 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 
+  21 0 R 22 0 R 23 0 R ] /Contents 33 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 31 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+25 0 obj
+<<
+/Outlines 27 0 R /PageMode /UseNone /Pages 31 0 R /Type /Catalog
+>>
+endobj
+26 0 obj
+<<
+/Author () /CreationDate (D:20251207211040+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20251207211040+08'00') /Producer (xhtml2pdf <https://github.com/xhtml2pdf/xhtml2pdf/>) 
+  /Subject () /Title (Get a mutable reference to a struct inside an enum - help - The Rust Programming Language Forum) /Trapped /False
+>>
+endobj
+27 0 obj
+<<
+/Count 3 /First 28 0 R /Last 28 0 R /Type /Outlines
+>>
+endobj
+28 0 obj
+<<
+/Count -1 /Dest [ 10 0 R /Fit ] /First 29 0 R /Last 29 0 R /Parent 27 0 R /Title (Get a mutable reference to a struct inside an enum )
+>>
+endobj
+29 0 obj
+<<
+/Count -1 /Dest [ 24 0 R /Fit ] /First 30 0 R /Last 30 0 R /Parent 28 0 R /Title (Related topics )
+>>
+endobj
+30 0 obj
+<<
+/Dest [ 24 0 R /Fit ] /Parent 29 0 R /Title (Related topics )
+>>
+endobj
+31 0 obj
+<<
+/Count 2 /Kids [ 10 0 R 24 0 R ] /Type /Pages
+>>
+endobj
+32 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2056
+>>
+stream
+Gb"/(=`<%a&:XAW)!%Ak!eo_b;F]C`Bp6=tRP]k-$4&?:e5G(TggtZNfKt]"hO,[4q4oR>5QJ^1\Cul4c10'(g&i.@4StP4!&#\glRNK.+!qkMTbG<(%D82NHoZG4IpP(g:RiOIKd0,nfC?mIJ87)u4a?8"4\k>JSfbf%5s+Yromt'$a9eUeNh?M.(cejVc"0rW*tM0RD^AKO,bkVl37W(h-PV==N1GbMCa\I-$mmui%umRI+0F[oQ)0R`Gf/UT@<2p^P]"Xa0_o6\\?l;a:C,U"$gdiBnD`)E!ZrB5_&LE\i[5Q$,n;++7UsC"LLXs:L#KW3&jXcc4?mceM_T7H`*:+NBe1C/CdEKoCLBss2*3BLBV'4gA]g]IfPPBZUbrEl`/Fe^^u_,KLP[fZ@di`>%A!AMCX.k'%akTE'*`eSn&LHXq"ouQ)e4+iS8CV1^u%h`3EgV4^?Z"k#`jS)iF[7>++S7542CC-nWO6k(e9oHI:qX;)gqj2]m/:-a,]?=LtV/>;&I)U#+6qJFk0OQRH4K"L#KSj7'!!DC!)F/=R@*;jE7V;"u<;QW,jRJbSCh+bsW#=6I'94"a)jkd9gUAnPIq@YBF2gV_eQI`D_nU'VrV(W#$2(Z^aZr70*eH5gI+7V$R@9O)7f8Fs%#Ce@Frcr74&&[(!PHqsBG^r^nVl@:+YI@]u[qpU&3NL.^!p=epd.c)QZ.KO#>tg._WX`5XO3>jrV[0%TW5Zt#=F$]L0aWeX(17e#fkS7sc"fE_(C*tR>@S4s7`Z2FSr:C$?1qos+#ptf4Zf^a?ne#dp(OC<'fjAp3>LL3&f;'T_PRM<.`[k,22^8/bJadUE,TOS9:EFDj.kE9U]^g*iVW_YMD*1kmK[H?7>.[POcBJ]:'lo],Q;*48KUR+HESf(Kf1Uo9NqiEh#kim$I\f!_b>*N\i**khO(*GUT;o'niAe#'+c#U3[,NC$hTC8:TSq5EdlRiT7P_`OT0GBj[>gq7@PGgL!09!Sj-)df4'&S?-;QYmDn:Z_Y&u@f3Vlr<Q88Z!8_k!Ob3$[s71']H@=dtY7$tiQ_apJF\&L3sU5V1C#oJ'fY`E/s&"%I-Qd8Jf"WYSW4RTBY;XlDaE`EYt+*[0,f1EB:*f6(>RD^cI(3%O*b)G-QEV]cYCDE"Ya[>I$D`)Gu7#RM7pLlHJ?]mC>/(BY=7etORIjHF5V62*__8dioid0LAs6:3D>:%oips7gO;L%oK?#"+,\;cC0HE8ri<?nsEf]Wel)j*bu0g3C8S7e_2piK<T;KUs1Z,>@<MDfek/o=VK#d&hO7($.aPg=@ZcK4fTY$_qAGY2-e!KeJ;QaPpPp(gKO$U":XM2JE]Q=h3kn[`V^QY3e_+\%XV=K&LjH0LrMk^U+O<gmX#]]57?=l/i:[n?/dFP$9;fCK@q/Dej?"H#J"nXA8@[@c$#A2a%Gnd1PJ`V,*m]mT\_d?\Oe.FCW/V7gXB[]-qT[2"u:opY-Ie-YtVX%Ds=d\Or=\OZ,`6%!qN(n+Gb0].dV_gIH[g#uI(>I!kCaf)g5*^'EeI?p5NeY3V$n1#H8miT3'mCHOY%#:!7[D/G6N#G0:"B*F=?PWZ&%ie=ct>fM%tmhF?NC@ps^1PF'.WC\Jo6=da2`9<6?P[d]ImsX9i'=T>8?H;jd,dI:shpad3=>"Nir#e>K%t!>p`]\Cs>qGm<hd\->%d>=_j@WobNjXjLaI8Z0m8[!9q8gtfE'79#Pp/)Hg@A0`dhF[im_,k.2d_qYNF5-C0`bEKJ*k$ZlG^"C$738,J+Q^g<Mb.7q]"4#c(UVn>?KXOE[iQ;"Kgs3iRfWFc'a[:)o'YBQ8El$6Q7eo(%0sa&,ns(Dm`\]2/?+<,%bqZ$=]jn/SO=/FKK$NF.ME9eC<"^g`K[HdbQJSdYP*.TPFd]hP+4\36g0(1W)ghR%bd*[gZNgoi,:cT)2?_4ri0tG[,lCI>YoJh%o_$b_K-RrLNKl>McsCs/U8q%T9uC`#mH:Z]?(fYX@X31HT^9IPQqn<U/D-ilO&WZ.EdfeT_#u1Mh=d*;g$Yp(fp~>endstream
+endobj
+33 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1649
+>>
+stream
+Gb!;egMZ%0&:Ml+b[Xg%XE]jU'kiMI]A;9c/N/I5^(_t0R?#tcifto2Ib9/=8;^u(A(d)VUY-KEAW!8ncchdpdM*[KdJA?W!;ns2ms_)u)2on-"VEH"J[_D\:M703VGFmn:UonI#L`4".lbSSS_Fi2C"#DE_^TY8Z0)H993WZn&a!Tp-ilq3F`E&,3(W%0W1<^L5JfF."/C@+p$qdr[i_'"+#b*fcVi;1(k$bHF$<gQn>o^?:gKeQDJO%Cp=MdC6j>P-fjJ(uhtrRXqODU22u6l]XDmP1_jR?R1jABESY^Si&`NT7K`i5?d_u]sQ5K#piheU$@TaP5e?D"EoHqij22:EP<T%3aEu;ZBi-XmG$+SQ%`$_1;nBk2O@'Z2\?kF.cQ6o6kUSBN'QOl%L!scj)&oUO(b/$ad`*m's=0m-Ci(jM;SSP!.R?]`HA2BK;#cUui9ro`8X_Bar0I_(5+GWah.ZD[$!jWf?/4ifU$=_28k6HA#mKQo[irk-Y_.ljbThhI<Co3\tgo37i\F:EN[53]U+ga,VC::HKb]E':a4c?YL.-N'F!48fm'j+/ZE<''GGW3]D)CZaRVf<O[@#KJ/iQ;o/WI=E=f*i<kRa'bXqef8F==g<s5iCq*fM'b9L[mQN((`;=o:Xf7F>\O1U77Zi!qrmHQe<;E[GW7?:@>Y*1'qL4+hlFinLT4g4sSkNhUkkV[9."WkcLnD,V0@H\RA8r8JrR.f>1<n4P($e0=n+cP@(G.=?Xk)sbTYMC_V$R(SAOS)bX?<2X6ADCR6%T/NJ;%Y`qIGh(7JOgA@?(-5F_=JT`!A#:`I=_"=h,a*JVV-/T4BcN,<I?CcD+"+tA*U;uWYmq<m6h+BJ7oKsnL>N?91[@(A#bNqrkYq3bO2DA`d,C@I@VS###)'+nmuV!K_7h$5*@bGlM<FV[G*O"`>l1\BH33Dm#R1&1=X29o[u!]u<*mA(IZr35&$]kfkA$`3Pt#METH3mZ$CYG;@Y+J#3E[m/KHM\.dTY*I`,RZXFc8o(QM'rR[oLuhn!CHSYr"U'a];^ug$gPNTnFF2bC0j/mJt[)WL-2\6=.qO-=0Yi2JE=4<YC*RAEaOU6!fBrmHf-s8Y-Cn%30.LSdr_^R$M0p`%BKS4R30H:QFE<"YZ`G2H5K'Nni`k[R,A"kn/"mMcI0'Y&`[#9VZ>eh29QQ6W9mTUC,AF;"8(H&31gPVd>2m/PLJHpK?+Z-[NMimQ3+;-$UU:=63plV,:C;Ns=2+j)3sNI9#^n.]b-d`5i0Ud)TD4O!2=M/+p`R8l`$hVqi[N[$e?P`4]iT"]:0"9X?It_d%tr.0aJUdNMBY8&%YZg6q^Y8_=i[Vh2^pDdTK8$H0WHR<jVk[5=;UQ6t@Jj_aJ&VSo%dNmlSHkKY*L6%uuUgjA)ZY>s\FGd_p@6\O(II^1!7pJ#kT,Q.:=@UH.<\a_ZLG+?kXJ(t="LE;;A2crL2B)1_2Fr3TL6c?%t*oU+S(WYIs?)bjof',KuE7t'?i&1%W]<Qn.j*8pAj[k#m7(?=o>S#I$DWPSZ#O:\u[&n*ZeH&]pdF'<NHdOKu%GMu2"Xa4'4=m13CI?&o\qmXI0>?B&quRoR(0GX[(-&HH,N(VQL\FZKB*M==*I<^S`ca?=%h<-]@/~>endstream
+endobj
+xref
+0 34
+0000000000 65535 f 
+0000000073 00000 n 
+0000000124 00000 n 
+0000000231 00000 n 
+0000000343 00000 n 
+0000000533 00000 n 
+0000000773 00000 n 
+0000000962 00000 n 
+0000001067 00000 n 
+0000001257 00000 n 
+0000001447 00000 n 
+0000001695 00000 n 
+0000001884 00000 n 
+0000002115 00000 n 
+0000002347 00000 n 
+0000002590 00000 n 
+0000002833 00000 n 
+0000003076 00000 n 
+0000003310 00000 n 
+0000003545 00000 n 
+0000003780 00000 n 
+0000004015 00000 n 
+0000004260 00000 n 
+0000004504 00000 n 
+0000004681 00000 n 
+0000004993 00000 n 
+0000005080 00000 n 
+0000005428 00000 n 
+0000005502 00000 n 
+0000005659 00000 n 
+0000005780 00000 n 
+0000005864 00000 n 
+0000005932 00000 n 
+0000008080 00000 n 
+trailer
+<<
+/ID 
+[<760500a52f83e1823d95d8d40b7c79c0><760500a52f83e1823d95d8d40b7c79c0>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 26 0 R
+/Root 25 0 R
+/Size 34
+>>
+startxref
+9821
+%%EOF

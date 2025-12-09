@@ -1,0 +1,344 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 6 0 R /F4 8 0 R /F5 9 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/blonk)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 741.3646 47.27146 752.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/margo-a-simple-cargo-registry-using-static-files)
+>> /Border [ 0 0 0 ] /Rect [ 86.86396 720.6146 121.8815 731.8646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/rust-lang/cargo/blob/master/credential/cargo-credential-macos-keychain/src/lib.rs)
+>> /Border [ 0 0 0 ] /Rect [ 127.3115 539.8646 156.0815 551.1146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /ZapfDingbats /Name /F5 /Subtype /Type1 /Type /Font
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/shepmaster)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 368.6146 68.52646 379.8646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/blonk)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 242.3646 47.27146 253.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/shepmaster)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 48.36456 68.52646 59.61456 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/Annots [ 4 0 R 5 0 R 7 0 R 10 0 R 11 0 R 12 0 R ] /Contents 42 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 41 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://us1.discourse-cdn.com/flex019/uploads/rust_lang/original/3X/0/f/0f0b368c02621f58d695f32ab9a3c5aca531f323.png)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 764.7208 107.939 775.9708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://us1.discourse-cdn.com/flex019/uploads/rust_lang/original/3X/c/e/ced7896bef130d6d7dabff245fffc84857d53769.png)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 751.4708 107.939 762.7208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/blonk)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 642.2208 47.27146 653.4708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/ehuss)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 555.4708 49.35646 566.7208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://doc.rust-lang.org/cargo/reference/config.html#registryglobal-credential-providers)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 468.7208 191.3465 479.9708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/blonk)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 447.9708 47.27146 459.2208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/system)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 395.2208 53.09896 406.4708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/margo-a-simple-cargo-registry-using-static-files/115412)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 320.6208 111.7015 331.8708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/margo-a-simple-cargo-registry-using-static-files/115412)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 309.3708 107.9515 320.6208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/cargo-registry-authentication-within-docker-container/105014)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 286.8708 124.219 298.1208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/cargo-registry-authentication-within-docker-container/105014)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 275.6208 105.0415 286.8708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+25 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/how-to-set-up-git-credentials-to-be-used-by-cargo-for-access-to-a-custom-registry-in-a-non-interactive-way/114239)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 253.1208 132.559 264.3708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+26 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/how-to-set-up-git-credentials-to-be-used-by-cargo-for-access-to-a-custom-registry-in-a-non-interactive-way/114239)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 241.8708 132.1465 253.1208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+27 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/how-to-set-up-git-credentials-to-be-used-by-cargo-for-access-to-a-custom-registry-in-a-non-interactive-way/114239)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 230.6208 105.454 241.8708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+28 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/how-to-set-up-git-credentials-to-be-used-by-cargo-for-access-to-a-custom-registry-in-a-non-interactive-way/114239)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 219.3708 97.12146 230.6208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+29 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/difficulty-with-cargo-registry-authentication-in-linux/112112)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 196.8708 119.614 208.1208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+30 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/difficulty-with-cargo-registry-authentication-in-linux/112112)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 185.6208 102.9715 196.8708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+31 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/how-to-force-cargo-to-use-an-internal-server-registry/132849)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 163.1208 124.2265 174.3708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+32 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/how-to-force-cargo-to-use-an-internal-server-registry/132849)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 151.8708 111.694 163.1208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+33 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.discourse.org)
+>> /Border [ 0 0 0 ] /Rect [ 71.03146 67.87081 104.369 79.12081 ] /Subtype /Link /Type /Annot
+>>
+endobj
+34 0 obj
+<<
+/Annots [ 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 
+  24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R ] /Contents 43 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 41 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+35 0 obj
+<<
+/Outlines 37 0 R /PageMode /UseNone /Pages 41 0 R /Type /Catalog
+>>
+endobj
+36 0 obj
+<<
+/Author () /CreationDate (D:20251207211023+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20251207211023+08'00') /Producer (xhtml2pdf <https://github.com/xhtml2pdf/xhtml2pdf/>) 
+  /Subject () /Title (Using credential providers [for custom registries] - help - The Rust Programming Language Forum) /Trapped /False
+>>
+endobj
+37 0 obj
+<<
+/Count 3 /First 38 0 R /Last 38 0 R /Type /Outlines
+>>
+endobj
+38 0 obj
+<<
+/Count -1 /Dest [ 13 0 R /Fit ] /First 39 0 R /Last 39 0 R /Parent 37 0 R /Title (Using credential providers [for custom registries] )
+>>
+endobj
+39 0 obj
+<<
+/Count -1 /Dest [ 34 0 R /Fit ] /First 40 0 R /Last 40 0 R /Parent 38 0 R /Title (Related topics )
+>>
+endobj
+40 0 obj
+<<
+/Dest [ 34 0 R /Fit ] /Parent 39 0 R /Title (Related topics )
+>>
+endobj
+41 0 obj
+<<
+/Count 2 /Kids [ 13 0 R 34 0 R ] /Type /Pages
+>>
+endobj
+42 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 3582
+>>
+stream
+Gb!;fCNJ7]&cM-)Z,;uik_=ZpJkr4Wl?M<SNMj0)\bTWE17-oFM$UU-_*^'VTte9Rn&9o'5mr!LVB+>&Ku_1#hQqRS0'#nP?`s4m7mu6?dD[&kg]:]_a;m</\p@$,?bQ7%`I%N,MlR(]`uC%oA"*,gc=#d[\9IDK9BWH@i_93?3uHB=Kg#%dY:gSRN1Jp@3Z1d_XuCMN/j>SV6Mg3UN,U;Z-I-]qU+9L63`l^NY^mI#`"q'bOu7Bc2Ng8bBh%P(]hUs0"_pbMKj*YK/a86io&qB*rG(cao,VrG7s=74EU8+[H]uRenHSc-b.ZKHRgu<NmS+^HjGdgAD_N.lmW^dqNu^7Ep)SA8of_?qa;I_.d`hfbo/J4D>lC%qDgims;ItCb.8KMPY`q^OT2mur+(<M.-#t$%=VAgJk=9b\S3#]p`-qR'%\;e8er:*u7p,5>S>#ZklR0ton9!t4TiO*rc0s)]I*FXAp1Vep%.X;E)oYq$>h?tUK_E5d1P0K@q[q4li/G=H\7j^/m_77;Tun7:Ws#r5r3\9#2F0sg-BVb_&;f_>D-\2YgkY>G0[OI!Z-'0;H0RFh[m%Skf=0>'m_lq/$FU8ZeOHJVGcD8Vn<\5Aj%,u69FdaMVmXf@jOo8Dfb[ea'lA)6K4'.&,,I,'Y9iUA;P4Rh8K-KL,+Lg]AGScq%](,8LJ)cUd6^_XE"$o'$3NChK]14MTC;sr^+WD`4>p=XUHkV9:N38fL9<1m[AIdPL9q:#J5g'IN8ff0b#:ku;6KW:KjAjrLZU)o1+_\5i)Z^#B\7P)Lfl9]\XB_;ZrlfD`X;>,M`4r[dI&NdYERo%-5skV.c+Ib^iP1e<eS#*k\>$1F/\ZK`l%u_f;'URK]3ib%[!2Ik3;cDp#%&"LJJsoopnVUs4EdihoJ>LXarV"\'3[KjPo(h<o1up8+X&52ZH78I8e>uR8?Q1k\[kolsh#mN'hWW`mPAuJ\TM[TTFhp'A)hG6r;lZQM,"($2b68W/*F!+u-#lo/P;meijdc>D>-M'R/]LDQC^?E7bD=YId=0\X(EXGQ!\e+dH/_!:aMg@_(R55MC>Ak@GodSY"`[S\Gb&"":@b86g3J(,jf_TP$_EC*?e*"-^bZ@B#NfFf6+HV`b*0,F3r(/ZIZ5YW5U,:<R$:>ZNN4`d0IUbD5hY6eCRLK>Xp?a'o!IlOPAsS`;XZ6]<r)5l'+2g9i*mIWO\]:)X48ngi#5bDQaP0QHsaE\ARqq\PfLTfUE\AXL6:m&*V-G'7W<mLA6U/b_FUIiX:Q=#*<gJm+Uk9Cn*C;MGT/Pk-F/"Y?"!Oc?l9jrhh=QE**F1gK#d\;]OC8:X>sC>jjTc8*C!/r7Cb`,P[\Fgd;Qo\G:[NYte1r#VS&kSLgF!4hRc*BHX*-NZ;MST1-hJ!JFhmNWD.-JpQrL-5mOAnD4I*K(V2#ecH-"Pkk""fR+1R$,BsOf"f9A]G!:MSn6k]3.&V+B':7'KE=i+s0-C'Kk6r0D$WMdtL?SGY!pW$[^gX7jZ2R?Y-QP4L$Dqm!t@DXtmGH<<4R5Ql6A5F.(?k("%Eo7Y)8^V.]A*n2"O/$8n!0?<K[R"O7",*5n*4fMY6P#d0hTAn?!%q"uqKPgI.2U!.7mmBs\WVWMg>G%GmBV9Ue!ig2b.7__.GqpFEr$AGdu;kd@(nr:@5p'V%rPH)1OT9j>!*\W0eK[*R87tq,dP\Y:HZ&kKEV2#;aeNP!8e2@bkUTlV%VF'-;f?T4g\1'F!#.Ur0d>lB'Bi%f"'EM3S$d?d"@'NPsr(p]]a'nfL[^uY:XWS%SY.\`]^;pJU@qeC6SQ@]_MT71qQU\).%P^#G(.`QnJU"Rd>.R5'L?3em@.*,L.7"6dp(W,N%5Tt.pg$lEllCK#Q3U0#S#7h1&HbtGk7m)kh*PHg!9cW`NX<l4WlQYl46Z1+Jtp0O_)Qb*q"goZV6(gY']Xo./nDMWkZuR4+=aIH'K3KuQ+1^oQllS1&+'b9+"l5Ne2G>Of'Xfd4Mjfi4`eS29qA;SBUaH9.[hYEF+/jq+]V,&<L@KLa@bdYRK*UmYj7t68krK5mI^_9K@-JS0e,su60tVhHg4N0J!9HY6!u^GEdW82Ft>#M)`2P$AHqBqko3@tSdYpOrNG[(R2:h`+<)kcm4JkC'YTCa:nFL_jX_*paTVfqZIAUeRXqRLI:3'U!b0e([M0:6;,22PR(>T[S>FL.g/,l$F<+Z]ea[bcmjEFNQ6NAe%7jmW"0R'g>ue*1XFK?r:(^7;9br3CnEfpILBXf2C,3$#1__Q,a!&O<FhGDef2D0(-Je_@16Tr/8T9%&q&L<ZM=edp!N#uk^ZD!#>$Vbe;r\6?5g)X0L)DcO='$&NgKUt$MZ]S1PtB$Up[2j=pMK58N!E.JB6ktNdjGY/:QL);Vh3deBH0N!B^Hq<EP%,-\GTeCb8[<9mJ:>BIY``Q%r#^:9eQ!=a\(+GVa,R2Rhi1s'R5:>=K;t51pmHrFXp6V>.;b/fu$;o:MlShh(J.QXTrTsX%%uPYn"'6^2Qo'0+oDj4;;OYi?p&:W>"Le]#-G%`/JnaftG7OkBKROot?++T&6DlUHb//(SVl.>]>'`<d:aA#V\ji/dLe[nFNMY@^p<5MM<dd[9r7j%?9j=dcEQYCdcM-jTWeJQ5bYaC/:kH8fp:12'pjr`b#J%")Wqiehj]a?!CCfJN*T.GoniVljls=]sc4s1U#n@4^1_UG;bhr*@kgifa8#mU!9=CC=^VA^9Q6Uao-llKUaJ=hBt@gD4p\'LAlN03KL&0B,3V=X@MW.$I$D>1kj)*5+"]o)?JmlqgT_q-H-6Ye:W9s3MY0:RSak._4n,T!C@1"C2QX(%lCS<E5@/<1D_oINXU"U,9)E7VC4rM;4/gNFSS)t<A]0Gl^V&<f,Bb&ZI\rN0aY6>Vk'QuI,;TGTt]1"<0$@Z>:HJtXm:s.Frq.P7o&)=0?B?/8;]6"GQLZ][?>tC3%A`lQ7LH(TW1#&a#2KtD@$_'=e_^$f8+./,W`K3:Qs2Po[1+'A<&P*]6]Z=86Z;&P5M1M,QTH#^]>`AJI:YVLBJ_4SuHc&#UESRgX[;b,sh71&&jcM08YZ`^@%`!ctJL1#\D"OM)8q&+8uIAW*`$$#JdSD48''4h!dW+bO&*?B[[7fmTD5RM^gMXT'0Lm'AJ_gUjJbP*GpIVK?Ui$(]trTXY&kq\rl&Zhf$@*"s_`*Pb5?_dZ?5d7C(kGFD*g'i5F-)Z4I23\c"AVWTS)O)09U5cYW!iTp-175/]aP#&kdJiJn1h^4NY8.uULUX7BPc3!=Dc.r0gPP/RTg#FG=b;##;;_TRK)>k)0WXR_.ZbF":!eFcW:<DPEdT++dj=DFg;:U.1`\oO``61VF?iki@4(OhZOKT$J2Wq3/k28@0(^)Y@0,E<l59,+=l"XjI$Q`1jhU=R!e<;r;"Dei\NCc;ACAUYEb3QNEcL??b"[etaX`NL]"CIDkHlkGa=D4C_fKR9%(X;]YE\q%sdWc52rfh+K<0B^Q[>qXI8HCSg.=k\(HiU-a,>-<KpK)@hg]bk+:B$eoBp76A2'Kq2!C:ft7LL0lpX67IB~>endstream
+endobj
+43 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2897
+>>
+stream
+Gb!;f>BAOW(4Q"]^ij=f:<#U,hO0^(Rb_ShlZP4D\pa*9+VKqLP6=O/<qYqU!0g$r\ep[59cM-Y"9RMlIG[$i'L<6,&G)>+#^np,hu,eOERB#gLlZs@^-dAl?i>0@&Uqi:[Mr`&&,d'YNe?0+o3gt*AV*CI*Pmlu&N;t5/(hAD9J?lD3"?$I/lj(Q2YtE*%eQ;4o2Eu^om^(,Vj0ZUR7P:sUNedd9@;7fAhu&>]gP)7\jKCn,;j*^Xf5cM`!$c"6OV<&)8+N2DdT4.(GpTCFno]mq7'e,-q\I:&(J\*eRgr,d`B<],BCWW=:5n_33k;^Hf`_3WtO9BfFQsi5R!$S*$d4H4d)Sd"*G_U#@>ap1K%T#,ej$.-uaRp&PUQd^:2\5%kQ!'J(2J^[5OWFU*(AM9pcLY=D;jSh3J,VMr!$6We.]!<.Ac(8*uq5ehaQg122!)RC?@dDKu')cW*Fl[^HBi/X@Wm?r@\T["d>=>;LMlZ/8@2]1"43@ebDQ5Be<"Ge.\'or4\M"1VEM%BAeWk#r2$/Xe(;&9sAEXl2cN9.iiiM>(gg6mo4624***hkE-UO9".<&XTe3&kuJ#)p*U<JS<tkYs_rfnc<GFHcDjmB%U!;-SJ=HasitA02e#_j&u2[63UBRgruIkC1scJhOmH8&6HZdC!*6A2L,dZ2))(149[fYpTLeYB)G:7/O=UYJQ^1UKpI`[^d]Td00r'k>a,agk["qpY*h0*]_D]ANpGSqkRDO3!X7/t3PM>1#>@l*9SeDIIpmV_DSLml#t(I"6k<:uA;APa;Dj62VZc'o#-jm)$"D4on_F`TH97+$#e+$W$G!b!h<GmZBBW`YSbK50`Jg.qC[SCXTXY..!+7XS/RTOK8nbgIT]qr9c"O]d#/\%/9ERQ*9pIH2O)1Yfm>b/KI<`F*gK?lkLqS_t-klph9!#d0b7hIQV9.hm**C\4!@YPiG0&?-B(JL7"%Xca)Tomc^]u9Cf#h.ee1$,1lsj=^#/ms%414^q<G9NW/eLN4="7iRA;3>XeFXk#'7a>V4S?LU)PRioJgRBQ^g<)IE\RSUO\D1_!@Cck;q$+ZU@PG6Fs_]j^7,J2=UU=I;W'W6C9jg@b,7n]h,Le,j;H=<mNh#]&l6+r%if/(KXJ1iku+!g`ZNqU[;eU2TUsQK'pUJVSi$\IEiDS$p%8d<7Toq`9@6Vf(EL[4m>*6i^uTH-A)aJ"p.R0>l\O+ljg*e!hX8srE[WAlmP#W-]/]4pf`ok1E`]-=*I,3)c;'h^5eLp59%77rU<+.Ro%p7LXerIr:asn?k(XO)?F*Vmi5W#n<n``Ka;*6Z1Ur$8E"n!MFk-CfAT(c9/aW>!Y?12b//c/.#d@iMXW;BcG@N!$p>,WNeU08V]%U:B$6Mu2;:#R;Waqr:#!/fR>,5k2CMX`db+jju=Kt7?K@6HOP9)AR;?;M!%!YMSn9#)6!*+MM!-M.c?-lQl&J/A3VgI`h1>?*Ai2$qKS_5qBcukl8JiX;AFjWgafjSM@U0.Wa^"pAJW`$hn_o]]PPOg8Gf>CJT![0(\&k^WN1&F-Ng*o7C7oi;Kc1jls`n#HjnYM;=Pc,]r/:]mVFVE-c60kE6fX00PEDT,kE,hm[H`!*-dlUU!MLGRI.Nc3),nU/<"QGS2n1I`\"97[[LA7Z@D<gfOTJb9!7Nu4ikcP0ehLD]n#neoFYmDu57lf9O/g`*D\1gUbNUhqj,Clj1?ePiU]E!_X;!Zr?f&rrk3BqYue'h$30eV2.V*05im+u.;?JiY?&32A%NO)>l]6g'Moi\=Og0T%q4/hBdprJji3]J6R?mXk]#V4220BUj>"(HQVB&Y2sfsZ!.93_C^Z\@2Aji5FF6Md8UG7)[*V+3X,Z4ZY5W]37b\S99I`<YIW?f7I<GlbC1'`o\%>%WKZfF*:[6o4.[<ITFFS)DX"\q(k[L'$D''\q.,O8?3sh1Ie2EPr6U3o>-/TK7FBLL,tCXJ&8:KSQEeB2AB1,H05jl<=cS;6Od9((/kBg'2`2LR+cMb*3e?Zkf5m&WR.`Ds?FnP-q"XCjt]+j`3*f&gkq\d1aR^`9:rdYcRs"MR9X.cP&Trc2Ocs>N+b9Nm@h2O5.PO%3`Eu!'gu12botAdpf6\qVs63k0QG,,(3k167<Q_YcJlI:fH;CMGW;B&tKQ[3QnH:E,":d;^0Vq#3COA8AaO"WI$m:8;)1ec1?'<D@]/pd)!(2Mp_$1l,D:\TonQfGWhlB3s%o2`5t&,*@TkBJKp(2TH=2*SS0GD2)cQYK*SsA#5\AHh4i8/DlBY^#HgmQHD9/U^;4@$oX'fnS%IDW/b=p8EuIKNU%a8,j`Sls5T7#!:l9;395%P.Y(RYa36Sc5-mUo"`ICkh8Y!!-*uDLQEK]MMMN0nR,f7;p-$1b8"qjIO30jARA9*bh*";#Oa%)%`gJ%T*5+V8Oajh$gFH+_Nbhf+:/&Q.QhXRoII/jbj5A_aVnEhZ%\3KET!:`DMpO)9hIN]#jbtI4Ra1uZ/0`,8A*D,;0W[g;7<6#)lW#K=J=DZ\8EKsWL9;ZM/6hmUP("'ak2MnXpcbA[7<kh)t>q:=&C&f/B%X.J/nu"mOSX1u:b0,W,K'/^Fp\"3uK]r9gA0<kf/RX#iGgP`efKXC#^Af1#6e"M^hT:-6_Y$'Kg.+gZceb=4mEe'qnFYn]Nta.;Ffuro0^IrjD;un/*'"o:HFE?P+7_b,Gu#0EM4+r7Yj3hC4Im<'rp_NRi\5fnqg<(%`c>CW@\;:1:GMj!p'LC:k3-A#B[#a.+u)NY+W'_A"JfngC&b[/aRMOMX0YSE"u_a,!pmF04f)D3CL/Poh0.;=Y3RQDVP:'O',t36TS`Z*kTa^J=D&!=J'pj`3N[S'&1dDi%C3\&Nir?dYQOrK~>endstream
+endobj
+xref
+0 44
+0000000000 65535 f 
+0000000073 00000 n 
+0000000144 00000 n 
+0000000251 00000 n 
+0000000363 00000 n 
+0000000550 00000 n 
+0000000780 00000 n 
+0000000885 00000 n 
+0000001137 00000 n 
+0000001252 00000 n 
+0000001335 00000 n 
+0000001528 00000 n 
+0000001716 00000 n 
+0000001909 00000 n 
+0000002166 00000 n 
+0000002434 00000 n 
+0000002702 00000 n 
+0000002890 00000 n 
+0000003078 00000 n 
+0000003320 00000 n 
+0000003508 00000 n 
+0000003697 00000 n 
+0000003935 00000 n 
+0000004173 00000 n 
+0000004415 00000 n 
+0000004658 00000 n 
+0000004953 00000 n 
+0000005249 00000 n 
+0000005544 00000 n 
+0000005840 00000 n 
+0000006083 00000 n 
+0000006327 00000 n 
+0000006570 00000 n 
+0000006812 00000 n 
+0000006989 00000 n 
+0000007350 00000 n 
+0000007437 00000 n 
+0000007785 00000 n 
+0000007859 00000 n 
+0000008016 00000 n 
+0000008137 00000 n 
+0000008221 00000 n 
+0000008289 00000 n 
+0000011963 00000 n 
+trailer
+<<
+/ID 
+[<267f3d4063a66df1046a338f5ebcd7ea><267f3d4063a66df1046a338f5ebcd7ea>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 36 0 R
+/Root 35 0 R
+/Size 44
+>>
+startxref
+14952
+%%EOF

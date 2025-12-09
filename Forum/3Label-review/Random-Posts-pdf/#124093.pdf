@@ -1,0 +1,373 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 5 0 R /F4 7 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/AmakeSasha)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 741.3646 73.94896 752.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/kornel)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 397.1146 49.76896 408.3646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/jofas)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 250.1146 45.18646 261.3646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://rust-lang.github.io/async-book/03_async_await/01_chapter.html#async-lifetimes)
+>> /Border [ 0 0 0 ] /Rect [ 259.979 229.3646 315.4115 240.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://rust-lang.github.io/rfcs/3668-async-closures.html#inability-to-express-higher-ranked-async-function-signatures)
+>> /Border [ 0 0 0 ] /Rect [ 44.35396 133.3646 111.449 144.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/Annots [ 4 0 R 6 0 R 8 0 R 9 0 R 10 0 R ] /Contents 44 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 43 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=013189f0c02af808a633c36dcafcab28)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 549.2208 69.36646 560.4708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/quinedot)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 515.2208 58.11646 526.4708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/AmakeSasha)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 315.7208 73.94896 326.9708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/AmakeSasha)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 274.2208 73.94896 285.4708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/jofas)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 187.4708 45.18646 198.7208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=044174d534a733f2f34dde28c970f3d5)
+>> /Border [ 0 0 0 ] /Rect [ 354.5615 166.7208 383.7365 177.9708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=9e0563e310cd6084ed8f7d225fc58740)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 134.7208 58.52146 145.9708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/AmakeSasha)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 100.7208 73.94896 111.9708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/system)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 45.97081 53.09896 57.22081 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/Annots [ 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R ] /Contents 45 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 43 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/how-to-pass-async-function-which-accepts-parameter-with-lifetime-to-other-function/97907)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 752.3708 119.6365 763.6208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/how-to-pass-async-function-which-accepts-parameter-with-lifetime-to-other-function/97907)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 741.1208 127.129 752.3708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/how-to-pass-async-function-which-accepts-parameter-with-lifetime-to-other-function/97907)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 729.8708 112.1365 741.1208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+25 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/help-one-type-is-more-general-than-the-other/126105)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 707.3708 132.139 718.6208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+26 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/help-one-type-is-more-general-than-the-other/126105)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 696.1208 74.62896 707.3708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+27 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/understanding-rusts-opaque-types/102057)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 673.6208 123.994 684.8708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+28 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/understanding-rusts-opaque-types/102057)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 662.3708 46.27146 673.6208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+29 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/async-function-as-an-argument-one-type-is-more-general-than-the-other/108096)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 639.8708 135.8965 651.1208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+30 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/async-function-as-an-argument-one-type-is-more-general-than-the-other/108096)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 628.6208 127.564 639.8708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+31 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/async-function-as-an-argument-one-type-is-more-general-than-the-other/108096)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 617.3708 57.94896 628.6208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+32 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/how-to-pass-a-closure-that-returns-a-future-as-function-argument/64387)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 606.1208 116.719 617.3708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+33 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/how-to-pass-a-closure-that-returns-a-future-as-function-argument/64387)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 594.8708 122.1415 606.1208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+34 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/how-to-pass-a-closure-that-returns-a-future-as-function-argument/64387)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 583.6208 64.19646 594.8708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+35 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.discourse.org)
+>> /Border [ 0 0 0 ] /Rect [ 71.03146 499.6208 104.369 510.8708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+36 0 obj
+<<
+/Annots [ 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 
+  32 0 R 33 0 R 34 0 R 35 0 R ] /Contents 46 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 43 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+37 0 obj
+<<
+/Outlines 39 0 R /PageMode /UseNone /Pages 43 0 R /Type /Catalog
+>>
+endobj
+38 0 obj
+<<
+/Author () /CreationDate (D:20251207211023+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20251207211023+08'00') /Producer (xhtml2pdf <https://github.com/xhtml2pdf/xhtml2pdf/>) 
+  /Subject () /Title (Passing an async function and then running it on a async thread - help - The Rust Programming Language Forum) /Trapped /False
+>>
+endobj
+39 0 obj
+<<
+/Count 3 /First 40 0 R /Last 40 0 R /Type /Outlines
+>>
+endobj
+40 0 obj
+<<
+/Count -1 /Dest [ 11 0 R /Fit ] /First 41 0 R /Last 41 0 R /Parent 39 0 R /Title (Passing an async function and then running it on a async thread )
+>>
+endobj
+41 0 obj
+<<
+/Count -1 /Dest [ 36 0 R /Fit ] /First 42 0 R /Last 42 0 R /Parent 40 0 R /Title (Related topics )
+>>
+endobj
+42 0 obj
+<<
+/Dest [ 36 0 R /Fit ] /Parent 41 0 R /Title (Related topics )
+>>
+endobj
+43 0 obj
+<<
+/Count 3 /Kids [ 11 0 R 21 0 R 36 0 R ] /Type /Pages
+>>
+endobj
+44 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2669
+>>
+stream
+Gau`U>BAOW(4Q"]^f.AB$Hnna9&"5Bc,Miu8Z#4VQd08&"-J\`Qin6+[%^.hhtJ,[@SrA,aGP2*8P"EJiOOF#6BAYGf/*HI3?c/_acBLEnU**!&MJ5m14MYtbqD7f]Rt]?^"\U<+<6/H'"P1*:P/YmmQL9bF0Abe->qc;,I5"]T"P*T"c&SP'98g/LucJ^`m2MTgL_lZ+"i'MYN9QZ7,nlI_cG(a9#(ol3,qF/@C8\0a^DhkjF+!aq-AlcUj8R&20hRb\tj+2Y(S@tB4V"`S8e!$R=C9L]eb8R4"fB#i]D]%2g:*;SHP&s*JtXn+AjhaJp`,.FaSBg]j9q1kdc`:#B!p[*''e8CW,l8=b']?M#'25$DjMf:po=<=d;,#WIUU'+aV$cOX92#-.N-bl[=((),20GL+mYfdDUCEPsa_=fQb<>iXsrN,:<oFi'%R?Z0S%.rem:QZO^#PBNKujq)@C]Prg]"OSJ=F+W8OVVuVE]Vi?e2@QP6o`d,P]CU0Wm$see0,%2bYjuuG)'%if/1't+#Bo2l/>rN%;cZ''e:_uE)(Ibkknd\350qm-#=n0e`N'_c,4t7mtR&lU&W\.B'jmU`20ec[.A:(b3a\nrQB6)R+S]A^=qS@.N_**Gi^uuD'o-3KO>k+8\_0=EU0D4;)5A7isI.=;Erk'Hmfp<Jb)B<SNDO=tj]j8pd8mO>:C>JhhlJd>`T0'e'm9@/<r6Y89F>B?I<*k2XB-.sdmb)rd1t?;&]TqOC1$'J/9SfFLnF[sbge3Xk"!J1LU-sCRFN4st*tS#"<E/!Y%ZOt!B[iM=[kuW1ag[EK\F?tKR+C7X'sj;XkS>/<+"t17@GagKpK\]PJ&&0:*B%Xl9D6+OFSFCh6f$T_Lo"VU#m((X;Ni[J&mF_-NmN@l:j##LdFK5?"P(J#+A/caK^C.?`A@CU&58Xo<D)J2&NM'dY^R.R[mFCS!!NqP\sW(@+E)7UFC4Jjr.Aa91=CM)CVQZJAeM_`ftqH6RE6O^[SFtMZj8PUS$%cKCINuAack:ICSi6f;FQt;6JC`=kh:a,UT0e\@&`oaXrB6:dP[i`kE>COf$04X\md_F]@^sKllk6WUOf+L]NF5Ojc3<Hl"nk)a?OT/ES<GLVgYj5eVfG1[JekZZiA)"++pP*);'-i-beo"r\nLcY(br<.f\pR9ZFDX$B9m\le0+mI10"U#2BU.aA.tq1_$]]5u]Y:$!:G@Q4b]((&3L\;j`O]TBpV*J@?aLa+eV7AlZ'E=2Vl-Fgh1d>.S\LP]1Z"9p\OVK%X216AhRt=TpMKA!sTLBUXCVF"K4G$m_aY6u#8YON=u20hH?H=A.e:cfin?dKZiffSKE[-tO,eHe?j!D"WGSgjjoC=?7dB3(gF%G0!li:dd[Gh,"I5"7/[NJYU`6AquW'!\gQI>+id+)i<Z((@,Bb;'@D)"l"A*%C%*M"r1%T_Ff\*)+%V]F,=aFZViNZOso3FHA?6:15F(JNi3gfoa]<"(pW#"/-YV!<,[^d?pjGN\?<#CJT/UAKuC/4/,!+LTatqXZB\i[VYj=2p1b@:Rl)JU$@ctCf7o1Im*k5V''&>:DOF3VGS=iL+^c>^C-7-$$k0&_bQ[A[b8Jq16SCm54(=F!jBlNW`;Qh*i+ogBAaaSsLYJ9!b?UkDN#o2l,B`#U`j]b/a,`\cL^?'(4=s%<#;JV?Okr1Q[_//05P-ncc#8+#b4OiSV8B1r"Q"/=f?t';hW#Nq+RjI(l`DZgIiLX`U[`i(W#Qm[ZlsSiZ/)@r\r?0sn@UNr)`^c?FqO=;XJgHTL7-6e+)71Yg35[ZFQn0DHXl[gDZ\8N@P&K[mW`XV"he[q#p#XN!=5lH!;<i1p*Bc++4Et<P,]l'#XhY0gndPbLj''S]AF?XUt'1UB0])i(8Xsr)ejj'O;t:6-7]H"\R[Qi5Rdf3hW2j$Mcbr4(p&oIjr@r'h@d@>$Y$EYghVmR<GBsC[@:J,2.3IFLV.dQQ.nkr&uNf/Q'cWp6-C3;B=*BK,0Y5EI:PT@h:7/09A4rkH\WunhIb,Y(>.G#"9-tkdX/dQK/5ud3T["_G?u,WN[@'M9ZEhj^kB/=$d\[H<ge:hGa5(N#)r^HN:MIG/lN$3TasKe;F/!m[S0!g%$dtES2P<i;ugE;B@Zj)D&=4oplj1AdQuH'h9!B7,!bGb^==6g=h![p0G/%j"b*Dkql?'=ON5'L)21]++Ng"H19!@YS10/aTiVqNVP1YU/X2IN;"0fS@Z:VTag1?jhkP&YTG$+i0f/U:TgcdW2E`e6r.6]h*Ag2Zj3Y][X#f#t0Y#+79H'+H8t%Qc"ON/f69tZWm]''Ai'U0J0n]+3ilpTlQ=Kk(mKY<S-3;4hd-3A];eLVL3^YDoH)FUVh=#EOnNO#o9:C9sq:fCWCIs)jV'pUe,p#0B\_t))PcDicFap$V,#AS*e*+Ig&Kd8<c#)D'OXq`m2=$J89lZrq2SHM5YB8@]Og-5tUh]D$To#`jqBD?#%p'5.;+8tP!0Y6^DG@9,XS/c#Wf_eBh`n-.HFkDP>\g31pUA-""G]K5@u/`Zh=S/C9%>2e1>ZD$lfop&DFrl(1PJYRc*UWWY8FM@%F%LWCkJ;f$]m4011PZ+^"oL;*EmrD(j4Ae&7\#dK)j_8`2[i.\MBtA_[j<Q08<j#<<~>endstream
+endobj
+45 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2034
+>>
+stream
+Gb!Smqet4I&H9@m`F/l&FA#V4%mSRO6e4._L[<F-__B;%91uXo7NtipMJE@nhfk=_UAP:&2o@NVM8Y1J]An,0I8gKZn:stmUC?(m5!2"V5[<N6JG>-8r<ml'^\@`aC]#LMfl#F3r3kL;T^=fmht-?j[:',t8DW<J=rqYcR/RWb0N;R#4kKG!:)Eg))%bfkRgY1N#9>2=Tkm^n`>D?BaW<eK*LoBCOX^jY;5q]iL#I<"I8Z%is/XDt8mEYd$oq6pGgh`EMaT&7=`J3#_LY?[0UdDp/QFBhQU>7,PqsI!4X4i$;d/a*nj]qERMBts2tc:F^-&GLK9OiD(=/G9FDbgFZui>VHPRNn74Jo)>U[_beEAmTK2ilq%umhaL@&A.1iIeZZn<5WpC'8&q/"CH"0&4kU=7Z$2XHi,=CLXh\`mCZ$R>X8QRXYR1$bgd)D'e:lk[pu%(k1.n]"$*OW,<"\*_i)eX1)R/Oad#PR6P4NI[Fg/th=Q-t9a8N]V>T'BPI+>0pMu4?:F&H.L*-:(^Kq8X#!HpA%%\n$2rn,"rA?O)j]a7<h#!0XA9lR^^k0W@4nR-Z<O\M&Y\tT:ggKg>)&!YVPOf5NfYEd=hP-ZMmmGp&#i6g/m,L3*p!5%rBj4?Pj7d*Y2#[84>qqM3'4R[^rRo4pB"saW;uB0b^S@P7?l[`=P'0FiF0[G;-f#3H!/tq<O/M^V@hZVX=.E[hD"2I`lH9bB=5Z-D>UQDS+#fA=ZFd`MUDGF>ba>a^_5(h8XKeFTO)<EgT-M]b@nHY*cUKXkn%p`0EBSUSIUu9K7r!NSp'Tn,qbu/S78";fGqnrp>Af/'#o@FjTTb/Ht.3"T+`,;&NQldKqIW]k0oSJ>GE4*9P`W[O1sQ>aopiT/hIia`:&_#tiis&GUGTh4G<k+&!4:^LJ#&44W0#XqQ%<ZMX0%U].q<r./"TBqD6"Lnc:MLf1(k23UMm:mW60Zjn%T//C]2UA7F)/`)_\g3'J)FqVns@;_Hn,,?AQB;.6:S2#):R[EPkWtk6\3R(RmfL"?ch-=q`TEZpA"PLZUpW^5V:2Rr1+Pu"?p:JiD;`i794B-0Aba.hg=pHtZr&5Z'*[b.i+^Rj@g45%rj"b+La^].%b+'@OHULUli@&u_JULB@irk"]aMc_iM*=k?_>=dLHY`.m]fTa^YEBIF\e:cmYcG^SPaLpHOkc!u&SDup@[C%hl?(a\,7"SX(PP7bl_WA'h-nCN;Df'JGQP&k&nMt+3P_"2:m4:V:X"osnXAQ2b2<sH"meUJi^#js?8/3f0P+r*'/A$I1fC/F;:$Ug=pn9<h*"Y6s)T.4?>cPXOqu<8D=(mGr+d"?CRrLmZm"ZoKNOW8is\cSNLA92*2.p;K4,4j$0>Y$8Ds_cZ=CI>dqY=&UC!ZVWd5?iLZsmi=.jMfjJLF3o'1U59lCMSE)"fE!@e?46KnuUANE4I(MncDP",qX'92L8<ko9LYC<>Tn!n=!XU70[8tZ=ioF;P.jK_tBIOA=eiS*'*'u0&7@\@33a[g%mAi435P>[#N#BD<'7.^DTVkVg$D5hO+kC7:55NreRA\TJa8`4^hUGKYWTA,RD(V0`j^16P9]6-)%Tr`HC'!1omiUOtS*T:Prcl]!`X8Es=gGe"JQ*C1Q"kTEI&p%$.9]lr9TCak3(nW$*(*)(cRUCJk9O($cjTheA^Cbg.mND?n^k'P2?(Vh8SosagLi'i+_Fuu:</QP>CYpS\SjsVT[Me[]`aMTsRl+fD1I/fWN5cu0(jcfSI:"TNm6G$B2&8_;Q+C/a][e'/,h7:U-[?l>-tW6br8u2K[qrE8h#Wi#NQI[i(Kl6,\S[sWIp:_jABi"U>4qe#C?.UU;uG#6:iCMoSa=l+fX,Vg;ZbfG`kTqE4[m=MXVatl`,ionj:l`&7!0"U%U!O]bplVG9Lp]TB*cX]0VR),=UahU[rJMaP*f+':QGXESe!JjSIOk&\Td-$@Hc.sL$\rVX+#=h-hn,6Ou'0s=VFra;^#9PB6fW8S+,][ob-]k%0<&8Zi~>endstream
+endobj
+46 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1530
+>>
+stream
+Gb!;e9lo&I&A@C2Ceo182@=sW6(U,O;l>gN-ag(bQX4&,ZI%Qc6A!ePhfh@h'U=am.9dJ+)JN`6!$C(3[obm(.)&g^)5dJL9];mb#)pHA%SRE7dgts&FRj-dK5^I*2\1`m!YI[g.H-EP@Gb*AK.FC@66u4@pL,qqJQ_Rq8]&8uBaTe2CrJoSLJ$R<VpbEA4M\pX@7md"d_r@f-)euKWNmjO8[=(1a\+dLLr)ifZ#OZ(!Ht.[;5Jt509\8EIl*PZd9$kD]Y^?b?g8%6A:!o*YaO*;$h^H,?55Fb!M:iI>*ESFj9<JIRd/+_j9M(O#Lab8)`KVn2r0up)%nD/ET0K[r.5UKmKm3`_?kQ5L#ZaQ:Wfe7Pf8L2nB7Mur'1nBJD-#AfnQ!IiT<k=GHb1KLM1TY)mT$jfAD<aGU2o-j`kW'CBp>Q"P_164.WGNSpdqT5/B7aB7cqtB9>Caj=SNsk]-oLYAXqFO*cP:.!RY:S.F]ODkgBFS'+jY*g"76pnZjD>^FWSEX9`FYr-4>FdpTUk8p/gp>&Qcn80(]hb>m(_?1GH+aPaE2nNaI+b@8>:+._dT/qZoL3Q40ks.2OR88kN4X-Z`J(J7m2!<-$=ch/rrLUW+"\Vj)Q7LQiN-Qn2?%1K_GHk>=GQB:Sp!T.NB;&5jdc&@$7<;C:k1Z8'f4hJ7F5(\`Y4$'KF!.+5>6I=Sd6e5C-k*l_EoJ0F(cIU0FKumFR8HO$_dQ\u5!3!%LR0K1/.jh?lAQj;L`V,P91<KHnM.KJ4j(rXQbY'E3\e#HhPD8*f&NX^E:+#CU!&S8CK[$%kJkmjG%u6Hmo:p&KWu[Q7`g)a+#C:]HAPWn$#*^ZGgMj2<77/`/lYkQ0ssBhp_'W^Dq()j!dfe;j^;/]%g+k0YURnRiX`F$/o!WI_u5D&kd+be:UX`nP<d3o:.1jG04Df6ZC*=;X0S/8*h]H(q`WO+98,h7c@orZEeO7miZFYY?A\I^K^l.eiL-:`3"(MQmS"1pomK]:!c;#NY+(P+f7h_2WS;RToYT46h"O<?^(K=?Zr_N@!d_qh6YkR<HhB#$6NI$8*\+WFLTAG!H-a&/DEVhgY%-)6`[CbYWqRd<*ims4YFH,Ui-_J-c3N?WKgCYeRRP<3EcKGY[a-KJl;R9DDK.Pr=L37ncO3idDjsk$N`G9FeA#km?YEXYR;9O>n=..6LAG@8\[C%V?/ZMEeGZXjEY2g_$,:ciH:A<okcX_BpP!74nQ*[kFo+M?p,F#XEP?)US),Ab+#S/u/@t]]\cjs3cl9X2%2]%"\HseGknNiGLLB:apODMOBBn@/Ie6<]C\(L9<qq[o5tQ1V9`"'p,B+Xr6JVL=XFA4u1ST'M0uP@E?DVs95_AJopj#r/R8-G!&jPg)TNA+c^hjMAb:%&(M\LAfF1B]<UPVcd>)T<()[$o_LP45=B>ICHm7BsC:u6,[_*>4'RBL_+B5kV?B!*(&hO64FX.oNNK8WC4f;40kUK?*oSM7s.or.<<_CR;&9\h(BesY9$nir&q+Em~>endstream
+endobj
+xref
+0 47
+0000000000 65535 f 
+0000000073 00000 n 
+0000000134 00000 n 
+0000000241 00000 n 
+0000000353 00000 n 
+0000000545 00000 n 
+0000000650 00000 n 
+0000000838 00000 n 
+0000000953 00000 n 
+0000001140 00000 n 
+0000001376 00000 n 
+0000001646 00000 n 
+0000001895 00000 n 
+0000002152 00000 n 
+0000002343 00000 n 
+0000002536 00000 n 
+0000002729 00000 n 
+0000002917 00000 n 
+0000003174 00000 n 
+0000003431 00000 n 
+0000003624 00000 n 
+0000003813 00000 n 
+0000004094 00000 n 
+0000004365 00000 n 
+0000004635 00000 n 
+0000004906 00000 n 
+0000005139 00000 n 
+0000005373 00000 n 
+0000005594 00000 n 
+0000005816 00000 n 
+0000006075 00000 n 
+0000006333 00000 n 
+0000006592 00000 n 
+0000006844 00000 n 
+0000007097 00000 n 
+0000007350 00000 n 
+0000007527 00000 n 
+0000007846 00000 n 
+0000007933 00000 n 
+0000008294 00000 n 
+0000008368 00000 n 
+0000008538 00000 n 
+0000008659 00000 n 
+0000008743 00000 n 
+0000008818 00000 n 
+0000011579 00000 n 
+0000013705 00000 n 
+trailer
+<<
+/ID 
+[<c12ad3b43ff6c4087d0cc19366036a62><c12ad3b43ff6c4087d0cc19366036a62>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 38 0 R
+/Root 37 0 R
+/Size 47
+>>
+startxref
+15327
+%%EOF

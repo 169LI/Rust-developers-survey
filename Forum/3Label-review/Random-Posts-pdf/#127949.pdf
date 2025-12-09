@@ -1,0 +1,239 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 5 0 R /F4 7 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/eureton)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 741.3646 54.77896 752.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/kornel)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 616.8646 49.76896 628.1146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/eureton)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 479.1146 54.77896 490.3646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/system)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 416.8646 53.09896 428.1146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/how-to-output-c-style-escaped-unicode-in-json/72451)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 342.2646 130.0615 353.5146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/how-to-output-c-style-escaped-unicode-in-json/72451)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 331.0146 84.61896 342.2646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/how-to-avoid-additional-char-escape-from-stdin/21831)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 308.5146 122.554 319.7646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/how-to-avoid-additional-char-escape-from-stdin/21831)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 297.2646 91.70646 308.5146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/how-to-parse-an-escaped-json-non-utf-8-string-while-keeping-its-binary-representation/131983)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 274.7646 135.4765 286.0146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/how-to-parse-an-escaped-json-non-utf-8-string-while-keeping-its-binary-representation/131983)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 263.5146 132.1315 274.7646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/how-to-parse-an-escaped-json-non-utf-8-string-while-keeping-its-binary-representation/131983)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 252.2646 113.9815 263.5146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/solved-serde-deserialize-str-containig-special-chars/27218)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 229.7646 125.884 241.0146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/solved-serde-deserialize-str-containig-special-chars/27218)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 218.5146 104.209 229.7646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/prevent-backslash-escape-from-serde-json-when-deserializing/41519)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 196.0146 132.9715 207.2646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/prevent-backslash-escape-from-serde-json-when-deserializing/41519)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 184.7646 128.8015 196.0146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.discourse.org)
+>> /Border [ 0 0 0 ] /Rect [ 71.03146 100.7646 104.369 112.0146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/Annots [ 4 0 R 6 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 
+  16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R ] /Contents 30 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 29 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+23 0 obj
+<<
+/Outlines 25 0 R /PageMode /UseNone /Pages 29 0 R /Type /Catalog
+>>
+endobj
+24 0 obj
+<<
+/Author () /CreationDate (D:20251207211025+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20251207211025+08'00') /Producer (xhtml2pdf <https://github.com/xhtml2pdf/xhtml2pdf/>) 
+  /Subject () /Title (Idiomatic escaping of Unicode sequences - help - The Rust Programming Language Forum) /Trapped /False
+>>
+endobj
+25 0 obj
+<<
+/Count 3 /First 26 0 R /Last 26 0 R /Type /Outlines
+>>
+endobj
+26 0 obj
+<<
+/Count -1 /Dest [ 22 0 R /Fit ] /First 27 0 R /Last 27 0 R /Parent 25 0 R /Title (Idiomatic escaping of Unicode sequences )
+>>
+endobj
+27 0 obj
+<<
+/Count -1 /Dest [ 22 0 R /Fit ] /First 28 0 R /Last 28 0 R /Parent 26 0 R /Title (Related topics )
+>>
+endobj
+28 0 obj
+<<
+/Dest [ 22 0 R /Fit ] /Parent 27 0 R /Title (Related topics )
+>>
+endobj
+29 0 obj
+<<
+/Count 1 /Kids [ 22 0 R ] /Type /Pages
+>>
+endobj
+30 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2686
+>>
+stream
+Gb!;fD/\Gm')nJ00dq!S[RaLte=1M='RP29D1]`LGN7Q>E&eW>bf&kjP"J;cIDu3[)cDu<-#u=4&MDmU!fJ8%H$Q!LiE-d6r1W7k]EJ#q'Y\ugJ\!PK#3ld2VXNI3e"^9252\*Mb]Y5J]YFmtEZF(6(rNaC[jdiqHA$q]UTP-.U\`9VmuLBE&.m0K66DLY=[5<2+.Jr,/rrg7g<(.n..CZ&;^oPR:`M&p8:3!t4\=JFnT5r4@o\c_?=c'Q0:+H-JTj5iWVDI'\!a7^Y@.3b=lJQZ0`=Hkp;&0NTjPJeF:!$Y_`m`?+cG.>Y'L[GNE@l#rEL]mJNmStZ$QgULJX<tbin7(5GF.+Y.hr`<B@.OcXjQGV2R\S1!d8%fer\lauGju.)`<S87PL:TWT)n+:@AlhXnm1pi7O@quGuL:H\=Rl!;!ZICf3J;PMC`Xp2r93`e(fhukdnqBliGYt9s[R;"SETlKIi1JHq7\oW\6[&B8l3&!3Sc+,=UnG<)DX;3QtJ.h*OW8^"`?mWub<g>@;*&!/N3l-K3M3YO[;$Zn,i]"Tq'6+(CUi5.rB%h6M`B5g8S+1[t0usFY,*B?$M)ge<`/,1B=TC,O2S#h-8+c1YDhO2a3gri//OYKm'LGB_aT(NbTgY$<T/UZ"Y8#9QMk>JJ2X&ssl3,BU8%ZjPjKiA+2kiF@f$egpWS,ZT,/32L=&F-J;5$sdC13-<SW78"B1e#jm#4t&H95U`L3A=jE18@.r>6Q;S"CJ/eBfa$`@Wl>EO&:=/&'T>^Wck,MG/)eA!,^RXrDssR#*e,MEPAI?*F+Q[u@6Vqb,.Ck4(bHGYJ(#H2OLOeT]SP_k^u_=n^qXLNr5CjFPXF8k&;a)Xr,J"0SbLrko[/A=TQ:EV\WZ%$$3f>4UQYWJddEBUn1l%bV!aqsM/\f&+777$Cs(4:m!M6YHlk7@!&(_RM/?)WXEkl^6uCP=&fAV#gU]<LA&R4OT0WQto`/X))KDC'mo[b[ht4!M')\Xh^m(btL[Y][bJi$Y4"LIpF1^.hrH=Om>CGo6R%'<-n-_s)qj:&$pQj]&8s^99dBKG1HiV6/Y,$:mGRoiKhR2!`bA:Fcu:Nn;rOE2T[5=RnJWV_RVM[kR@FO:/Yf!I<MIgnMC%1lM.E\/,\;E9"b#cl4p;HQ/_Vin^X[)>N[-d#tGC4)59a*A0DAoW]O4R`]@.Z"]e@([6`s^UfjZM[VB$Ab_q&b)=#(#KN;M5N-1!N,#/m#RB'*ubZ_]t.Pps8#[@Zu`]ATaijV&Z7P1XIBFBjJ=!'=4[nD]m;5]WLqT_cBrOeAK9JK"Gl!$'n[>s]X_%cf:OC;9#R<$P`@aY<q;Pcu2]L2dbi4-T%!9HASb[DdhT)k=u\gYPg/hZ$,R19H<($7CR%QZaW*SIC1c?,b<l7=l:1`l4fZEC3QJhkBSr"B=tI#U(g&Hg&K$-1i%7%UIdI+$R=XXjXW&PdRYb]9EKF"14[NTIRYAajeI.31hX@qJS1oJI`kYSpX/1T%S;=n#O^oC7!"RUaQ_NDWqIgBLSEB\+XS2fLV5>=V7'?lEl&ea.J/F;#\D9m#,ri_K(qEk7.l^CU.kDg^k*')A6]in/@elY3iKdor//QdbBFIB$-b[i'UOKF[P:`4(p!,6CJTZdNQ3m2d,_;ODcoi+Z56>tZ^I;i4S[CW2j0HR/6NK22iGBLPCY)qmjX3\D`,EP6/-S],r/`*ZkiopC,t3/[22SP@_bTd3#u[6m!<mTJ\[iR\Tr)r_!=?hgI"cV]Vqqa7eITr0C5q;DdS$eC05NrrkJ=JBMXkjsEj?<F[<n^e0@is/`-]A!tTX//$I9:00;*7DX3o]n2VC8;#o7E.65N$\W!h8^/m2F*3J`C6&$I:j1?Ih-%%dqpqWF(B^]g.^tnbnMK0ZZ4t:f*R5<0joY<cc/D&S&m\[q-<2IcP(BLDQ-`:ZgJ/7j]n\?%:LKYmlr3<mJM89#U=+CN[KGu3"p'gN[MgM:FiU!p^"dZre"T3-P7?q-lGL,)<h?9d\'?Z-J3M&!CCt8.bZ9hb2^Pj!IFh*\mi'upkHkeW<#+udciZ6C*KQY$9q8BSjmQMDBUb-IMO,GH9lkGe4mTD9XS*oi1NJh"[CV$@0lCU_'R53iI0c!2A4Xa,@&Fh&S7Vt2=3nuilARQApCb[S$TO\m=WMeepC1`_C-NGS:j83luSE0s1Z^?>;?-g>j>).c?GpJ1USN@S08DS.W;!$74^BCgA]%t#MANDjb9qe_RYH[nBof^_oT*Sms1TY*CgaY[(P\r9D_(D*tOdCOgM#1VLoCeSOD`Tc)P2WUlL)"T7MphQ+4e\#;[EN/eVJA@&O!@WOQf5@M6BOg;3hVSiXg;s6(PfP]i'N"I+sr+ja92UPXNae]6tID1Og<'S`0]B<n=CbtbacbR]'TTY=4S"23Ce0(k6p'.nDYm+r]%=#@"r*6Q_<l.QEtAj=brqj[QWFN]F=&(shhIm&j=/o_rrjo>?sj5E2oR;DJLQf9>jnrVHV.=R.\,^R+R"OXR.kPIm:2setFlsnn4I>R[F?cfhT?[Nl)TrCl36GM$([HjrR%q41PSU)YW4H2.0s(fl-3d^_XfNk>Y>'HS3RT+.kpY!^%D`M#hX(uR0^W@\F.Qi:>q/Z!.Atg^4<f.Wp1N,$Tn6:>Z/")_H;Eda^SaVTHi95["VM5$~>endstream
+endobj
+xref
+0 31
+0000000000 65535 f 
+0000000073 00000 n 
+0000000134 00000 n 
+0000000241 00000 n 
+0000000353 00000 n 
+0000000542 00000 n 
+0000000647 00000 n 
+0000000835 00000 n 
+0000000950 00000 n 
+0000001139 00000 n 
+0000001327 00000 n 
+0000001561 00000 n 
+0000001795 00000 n 
+0000002029 00000 n 
+0000002264 00000 n 
+0000002539 00000 n 
+0000002814 00000 n 
+0000003089 00000 n 
+0000003329 00000 n 
+0000003569 00000 n 
+0000003817 00000 n 
+0000004065 00000 n 
+0000004242 00000 n 
+0000004571 00000 n 
+0000004658 00000 n 
+0000004995 00000 n 
+0000005069 00000 n 
+0000005215 00000 n 
+0000005336 00000 n 
+0000005420 00000 n 
+0000005481 00000 n 
+trailer
+<<
+/ID 
+[<2fc760708e69a1eaf969caee5a3de75e><2fc760708e69a1eaf969caee5a3de75e>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 24 0 R
+/Root 23 0 R
+/Size 31
+>>
+startxref
+8259
+%%EOF

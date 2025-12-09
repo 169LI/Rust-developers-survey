@@ -1,0 +1,255 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 6 0 R /F4 7 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/satya200)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 741.3646 59.78146 752.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/blonk)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 575.6146 47.27146 586.8646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/why-do-rust-binaries-are-so-huge/124450/4)
+>> /Border [ 0 0 0 ] /Rect [ 261.599 490.8646 273.269 502.1146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/how-do-i-dynamically-link-rusts-stdlib/115370/2)
+>> /Border [ 0 0 0 ] /Rect [ 284.1065 490.8646 295.7765 502.1146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/Lynnesbian)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 456.8646 67.70146 468.1146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/johnthagen/min-sized-rust)
+>> /Border [ 0 0 0 ] /Rect [ 176.084 436.1146 263.5265 447.3646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/system)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 390.8646 53.09896 402.1146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/how-do-i-dynamically-link-rusts-stdlib/115370)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 316.2646 130.4515 327.5146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/how-do-i-dynamically-link-rusts-stdlib/115370)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 305.0146 50.02146 316.2646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/rust-compiled-binary-size-dynamic-linking/52192)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 282.5146 119.2015 293.7646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/rust-compiled-binary-size-dynamic-linking/52192)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 271.2646 83.35896 282.5146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/libstd-gets-dynamically-linked-to-my-examples/14572)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 260.0146 130.039 271.2646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/libstd-gets-dynamically-linked-to-my-examples/14572)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 248.7646 80.86146 260.0146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/rust-std-lib-linked-as-dynamic-lib/34112)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 226.2646 127.129 237.5146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/rust-std-lib-linked-as-dynamic-lib/34112)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 215.0146 35.84646 226.2646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/build-small-libstd-for-dynamic-linking/86258)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 203.7646 125.0365 215.0146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/build-small-libstd-for-dynamic-linking/86258)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 192.5146 49.60146 203.7646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.discourse.org)
+>> /Border [ 0 0 0 ] /Rect [ 71.03146 119.7646 104.369 131.0146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/Annots [ 4 0 R 5 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 
+  16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R ] /Contents 32 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 31 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+25 0 obj
+<<
+/Outlines 27 0 R /PageMode /UseNone /Pages 31 0 R /Type /Catalog
+>>
+endobj
+26 0 obj
+<<
+/Author () /CreationDate (D:20251207211025+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20251207211025+08'00') /Producer (xhtml2pdf <https://github.com/xhtml2pdf/xhtml2pdf/>) 
+  /Subject () /Title (How to link libstd-rs dynamic linking. libstd-rs as dynamic is recommended by community? - help - The Rust Programming Language Forum) /Trapped /False
+>>
+endobj
+27 0 obj
+<<
+/Count 3 /First 28 0 R /Last 28 0 R /Type /Outlines
+>>
+endobj
+28 0 obj
+<<
+/Count -1 /Dest [ 24 0 R /Fit ] /First 29 0 R /Last 29 0 R /Parent 27 0 R /Title (How to link libstd-rs dynamic linking. libstd-rs as dynamic is recommended by community? )
+>>
+endobj
+29 0 obj
+<<
+/Count -1 /Dest [ 24 0 R /Fit ] /First 30 0 R /Last 30 0 R /Parent 28 0 R /Title (Related topics )
+>>
+endobj
+30 0 obj
+<<
+/Dest [ 24 0 R /Fit ] /Parent 29 0 R /Title (Related topics )
+>>
+endobj
+31 0 obj
+<<
+/Count 1 /Kids [ 24 0 R ] /Type /Pages
+>>
+endobj
+32 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 3084
+>>
+stream
+Gb!;f99\,M&\d_;kjh0Ce1Q]r)nr6r3HD3;b*Kt</pm(!(igu.!>mUpRecX@ScMBD,'Q=nkr;]qM[&=kO0?=dSfn1Ps"X,5/HFX%i7ebNQj8fmYeUQQEX.)b>lAj=$3+*dg.NDMLk5mFf6+aUpMoWZ21o+FT/a+A1G=FCQ$r9"LT;'&6r":?E<lq[IcSEU^\3]qpi;'TYdI`@P=-QfE%#dH,nu+;N1H%U["Ff->YcCDHu>4(T:9TPnAR_[F1C8l]]F28+0)2D]S=PCbm]qN^uR/EfI*HHVu>o"Z01m'IQ=31)Z,AXm&HC3W0&0uW*^)k-V`B<oB[t2RHlQQGC?5rk_'9.eb&'r:KH.Hol&@nF9R@LJ&RJJdeRaT+CCC]+Z&^,Fa"%npu\\Xd"nc,/4>na*2Y6Zs(P-*=)Uj<:QRP5'!p'C+#kq4r!-*K-V3]]:>h`f^$jtYo;,MnYINc,gDX>7gU`LN,WFYl??cS"GDpNHb7#>`?BfaG)s*T<hmO4b7K',AYp02RbGN\h'OT@D!-Ck2_6Rg5*,6FY^rm]S`bH_*_3KPM/:"Q'-3#3_RVbbbXHnGs`<n:]rr11tMNd24:KFk_64%'9gHZeBF9)A6F"K1Si-^KLiPKca_0SKjR\[adZ3PUk"BZI"S5snH,tOD))Q'7E0hR@-NHRh9Sj_=^j:'8&P1eHq55=-+=iF4/^#$+;Hkr/oXc6beX[L>UPOJV%9LgW%"lkjYQkQ`'[J0B.58re;(n:Jr2U7!F?pM#W_1@$+7Ga(]6r[InT2q!SG`?.K&V13tWF7,HnRaTN6W5R%Q<H,Aco=bi,rCkWeeF,p#n.^TkaLQ;EqPONUk>?`Ak1[aiXMPW.pQ`_^bn\Mg7_d#6K%RAPXPU/SdCLbh&Nf6nr_#G5JZq^k*Y2=GO7brgSV-8MGQ6lf$2<5k`VpdGcQdlZ@i1CVH\V%IR-&h]e\G?H/Ro679aFs>\G,-Oe'Ef*HHrGEKef4$5:`W8*-gNXMNgir[LC\&uB5Qs4BoVoCM.PW6/J>9qFY.fuG&6Rid^@m=</YlEHBrZ3`-p0k=]^@80TIon*Q:<JsPr&8mQ';6hZ#>oH\EWqKF;&4WP`UYm.TTJSXqn]0"LNbe.?V_u\6"N285U(OR7en,W^1N\(5+RSQ>NGCmc@k,e.mF)Kpm,m,2PK6b)TpB7],1n(5YAFK_4mgIr,d=gJ>=H0S%*9o'e\mrSS/puV2uLQ5LGn;iQO>'RW<Ja]OVcFK1spi*=k2lijeu1>rk1Uo[<^YcH!Bcm]Nr"fm9hmYbs<(>q2/nr:i1&Vbh<-P;BrK,]9'8<@E,d"h4B98_Urqn[K\3mC!%-'1jNYfF$a,DPK3X0XjFS,AMZo/N6mhdR%DBKj[r19Y,\M7Im)L?5n],eXoVaO^5"lhE!1o7i$3%(cj#L=""0+`j!+EhT0Y*\c#9^#NL&INnG<7<=<i"8es!7T#hMmoATMJX5$5S')_i#ND23qNVSfLnF##RH-90(51_+mFh,533dgo@D&md6Pe"c?7NU'SEZl1sc#')^kR7+"\%]2_R)=:^#Kk6([TZ,]ba*TfR7Q)9b3$U-QBlqH;K^SAlgM64sV==BcFgihnTr+!>qm.".q_[D_kB`Mmr6ZFgjEM,:&37"VqI';^h(DlYo%W:5WHomWg-jFu^VgMDg+)0p]Zk992X($U9HX!DGQiK$5e<[%\N/C>#3N&3`JtB^j(V+3O8)<b.RPu0e@6'WKQ>U_/FH0lqfu"ldD?5/?I%f[N/DC<NRII%_jlLiFbuBgP$$'?_QsfgS,+_;8gSq%0npr,0OAlHl^HD#QZnXcLidFh?o)PS*c&NU'Ne,U)hI@F9+nq^]2W-.XUDI2=TQ[^1K:7tno#qrF7G("-`$q84+9e!B&fp^5><aISc3WVl(=+ML=,8]:)pu5rMWcLa=h^(o6l0Q5n4u@9Rb2)"K7@^)N7_fU3nqG0QC*&H!r1R<`b4PTgr]086s;ng%gSa$e)(q71E^3X;q!Oef*Wp(,%"W+m:D>ih7(0DII7rfQK'W[\:87&F>;&LE].?7T6AX.)Z>eBubuXdF4+ME4R-9`[IFrejlNlk\[)B('V0Q*/Zs!NT_W8>W\rmmA`A]GKkEC[lt6Cd%MP!.mfk(q)7SfMhOh;`ib*C-Mc$;hB#IV1;,<LgG9A>`oqZrBBMhL3[%/6;%e=I5flamhepb'+JXuPb^qZ4c\e;QdYe'h@]>)_*6^Mf@Gnc-;fnlOIHGnH(^])3)Uj7D%F$l"HpC7#_jG[T^+CNtGkB[]\JS1]\9YHPrjSa.)uaDDKO9<uoS^],1PN^.4sR8p*,MN%23#l7?e;a()1P@H="@nCUWaA;?;;Ki0>,*^"EUgLA%:kbLE7g==%#8CM/1tXQj@[O4X7n"(bR/R:RSA_R*9qiP5B^7$l7\RJa8eJ(VM&KU;[G9YEK&C`@\r:j"Ll^QNis#Lo*4^D]@%%X;\f\R=)W,_=,"bN&uBTEBLD/kjq:]kTj,e"ni+28<`5RCQ7Zg9(<F5NFf`ErV)$CE1OKAh>OPfUSEZf/&,JlTVL?gJW6AL?3&TlfE9Z2?nSh_.a*WBUPJO2@YKf,\\;$5,b!Zk1WbUIl:GtL2ARqn!Xg2rCb/mfMN>DdM+5)mErX8,^1[r7"/4qL;sC-GSs#iNOgKG&lpCFbFA-NRDfB-pNkt]qq'[@q)ojSl^h;!QH6cioL,]IZ,5HggoMG8JXkNd4g';1BE":up>M!lZ5B])^,>9]0G:m4s!g%kDDM?VmY-bc5]>9cY!7E519;*#E6(4YeET_D)g/.DfV+CR4Xh[BeYU,LRNaujB$eM!\Sh@uam/7M\rjcZ]r:LS.#%:oA0Y$+MgD=ZfYqYb#6@C)n&>MP*Yt`.VpPC-Cs.+!.>_g"SD;K=ck#EXe-n@4l6:$c!-$fV<hrI5mo)i:c+An_@+$UU4h>Wi/'@AI<%fa?;-jra;ZVYbMogL]u1-6f1#'S]bJGDtBD6M7WF1Gh[F<!@0mKNP<[i7P59@;B6.IULOIP4]%[>inR$bV%i^`rAIMC$P(f4c?&,QEoaZIU-jqB\hLQeUKa^I'LBr;~>endstream
+endobj
+xref
+0 33
+0000000000 65535 f 
+0000000073 00000 n 
+0000000134 00000 n 
+0000000241 00000 n 
+0000000353 00000 n 
+0000000543 00000 n 
+0000000730 00000 n 
+0000000845 00000 n 
+0000000950 00000 n 
+0000001171 00000 n 
+0000001400 00000 n 
+0000001593 00000 n 
+0000001789 00000 n 
+0000001978 00000 n 
+0000002206 00000 n 
+0000002434 00000 n 
+0000002664 00000 n 
+0000002894 00000 n 
+0000003127 00000 n 
+0000003361 00000 n 
+0000003583 00000 n 
+0000003806 00000 n 
+0000004033 00000 n 
+0000004260 00000 n 
+0000004437 00000 n 
+0000004780 00000 n 
+0000004867 00000 n 
+0000005253 00000 n 
+0000005327 00000 n 
+0000005522 00000 n 
+0000005643 00000 n 
+0000005727 00000 n 
+0000005788 00000 n 
+trailer
+<<
+/ID 
+[<73d367b30d17985430746285a13747a2><73d367b30d17985430746285a13747a2>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 26 0 R
+/Root 25 0 R
+/Size 33
+>>
+startxref
+8964
+%%EOF

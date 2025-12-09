@@ -1,0 +1,367 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 5 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/neurolag)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 741.3646 58.52896 752.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://play.rust-lang.org/?version=nightly&mode=debug&edition=2021&code=%23%21%5Ballow%28dead_code%29%5D%0A%2F%2F%2F+Represents+either+success+or+a+%5B%60NameofError%60%5D.%0Atype+NameofResult%3C%27a%2C+T%3E+%3D+Result%3CT%2C+NameofError%3C%27a%3E%3E%3B%0A%0A%2F%2F%2F+Represents+an+error+which+occurred+while+performing+a+%60nameof%60-substitution.%0Apub+enum+NameofError%3C%27a%3E+%7B%0A++++%2F%2F%2F+Indicates+the+use+of+an+invalid+method+on+the+%60nameof%60+interface.%0A++++InvalidMethod%28%26%27a+IdentName%29%2C%0A%7D%0A%0A%2F%2F%2F+Represents+a+method+of+the+%60nameof%60+interface.%0Apub+enum+NameofMethod+%7B%0A++++%2F%2F%2F+Indicates+a+method+for+yielding+the+full+name+of+an+object.%0A++++Full%2C%0A++++%2F%2F%2F+Indicates+a+method+for+injecting+plain+java+into+the+result+of+a+%60Full%60+call.%0A++++Interpolate%2C%0A++++%2F%2F%2F+Indicates+a+method+for+determining+the+name+of+multiple+objects.%0A++++Array%2C%0A++++%2F%2F%2F+Indicates+a+method+for+splitting+the+full+name+of+an+object+into+an+array.%0A++++Split%2C%0A%7D%0A%0A%2F%2F%2F+Represents+a+%60nameof%60+call+expression.%0Aenum+NameofExpression%3C%27a%3E+%7B%0A++++%2F%2F%2F+Indicates+a+normal+function+call.%0A++++Normal+%7B%0A++++++++%2F%2F%2F+The+%5B%60CallExpr%60%5D+holding+the+%60nameof%60+call.%0A++++++++call%3A+%26%27a+mut+CallExpr%2C%0A++++++++%2F%2F%2F+The+requested+method.%0A++++++++method%3A+Option%3CNameofMethod%3E%2C%0A++++%7D%2C%0A%7D%0A%0A%2F%2F%2F+Provides+the+functionality+to+substitute+%5B%60NameofExpression%60%5Ds.%0Apub+struct+NameofVisitor+%7B%0A++++unresolved_context%3A+SyntaxContext%2C%0A%7D%0A%0Aimpl+NameofVisitor+%7B%0A++++%2F%2F%2F+Checks+whether+the+specified+%60ident%60+is+the+global+%60nameof%60+object.%0A++++fn+is_global_nameof%28%26self%2C+ident%3A+%26Ident%29+-%3E+bool+%7B%0A++++++++ident.sym+%3D%3D+%22nameof%22+%26%26+ident.ctxt+%3D%3D+self.unresolved_context%0A++++%7D%0A%0A++++%2F%2F%2F+Gets+the+%60nameof%60+expression+in+the+specified+%60node%60.%0A++++%2F%2F%2F%0A++++%2F%2F%2F+%23+Returns%0A++++%2F%2F%2F+Either+%5B%60None%60%5D+if+the+underlying+%60node%60+is+no+%60nameof%60+expression+or%0A++++%2F%2F%2F+a+%5B%60NameofResult%60%5D+holding+either+a+%5B%60NameofError%60%5D+or+the+%5B%60NameofExpression%60%5D.%0A++++fn+get_nameof_expression%3C%27a%3E%28%0A++++++++%26self%2C%0A++++++++node%3A+%26%27a+mut+Expr%2C%0A++++%29+-%3E+Option%3CNameofResult%3C%27a%2C+NameofExpression%3C%27a%3E%3E%3E+%7B%0A++++++++match+node+%7B%0A++++++++++++Expr%3A%3ACall%28call%29+%3D%3E+match+call+%7B%0A++++++++++++++++CallExpr+%7B%0A++++++++++++++++++++callee%3A+Callee%3A%3AExpr%28callee%29%2C%0A++++++++++++++++++++..%0A++++++++++++++++%7D+%3D%3E+%7B%0A++++++++++++++++++++let+method+%3D+match+%26**callee+%7B%0A++++++++++++++++++++++++Expr%3A%3AIdent%28ident%29+if+self.is_global_nameof%28ident%29+%3D%3E+None%2C%0A++++++++++++++++++++++++Expr%3A%3AMember%28MemberExpr+%7B%0A++++++++++++++++++++++++++++obj%2C%0A++++++++++++++++++++++++++++prop%3A+MemberProp%3A%3AIdent%28prop_name%29%2C%0A++++++++++++++++++++++++++++..%0A++++++++++++++++++++++++%7D%29+%3D%3E+match+%26**obj+%7B%0A++++++++++++++++++++++++++++Expr%3A%3AIdent%28ident%29+if+self.is_global_nameof%28ident%29+%3D%3E+%7B%0A++++++++++++++++++++++++++++++++Some%28match+prop_name.sym.as_str%28%29+%7B%0A++++++++++++++++++++++++++++++++++++%22full%22+%3D%3E+NameofMethod%3A%3AFull%2C%0A++++++++++++++++++++++++++++++++++++%22interpolate%22+%3D%3E+NameofMethod%3A%3AInterpolate%2C%0A++++++++++++++++++++++++++++++++++++%22array%22+%3D%3E+NameofMethod%3A%3AArray%2C%0A++++++++++++++++++++++++++++++++++++%22split%22+%3D%3E+NameofMethod%3A%3ASplit%2C%0A++++++++++++++++++++++++++++++++++++_+%3D%3E+return+Some%28Err%28NameofError%3A%3AInvalidMethod%28prop_name%29%29%29%2C%0A++++++++++++++++++++++++++++++++%7D%29%0A++++++++++++++++++++++++++++%7D%0A++++++++++++++++++++++++++++_+%3D%3E+return+None%2C%0A++++++++++++++++++++++++%7D%2C%0A++++++++++++++++++++++++_+%3D%3E+return+None%2C%0A++++++++++++++++++++%7D%3B%0A%0A++++++++++++++++++++Some%28Ok%28NameofExpression%3A%3ANormal+%7B+method%2C+call+%7D%29%29%0A++++++++++++++++%7D%0A++++++++++++++++_+%3D%3E+None%2C%0A++++++++++++%7D%2C%0A++++++++++++_+%3D%3E+None%2C%0A++++++++%7D%0A++++%7D%0A%7D%0A%0A%2F%2F+Taken+from+crate+%60swc_core%60%0Apub+enum+Expr+%7B%0A++++Call%28CallExpr%29%2C%0A++++Member%28MemberExpr%29%2C%0A++++Ident%28Ident%29%2C%0A%7D%0A%0Apub+struct+CallExpr+%7B%0A++++pub+callee%3A+Callee%2C%0A%7D%0A%0Apub+enum+Callee+%7B%0A++++Expr%28Box%3CExpr%3E%29%2C%0A++++Others%2C%0A%7D%0A%0Apub+struct+Ident+%7B%0A++++pub+ctxt%3A+SyntaxContext%2C%0A++++pub+sym%3A+Atom%2C%0A%7D%0A%0A%23%5Bderive%28PartialEq%29%5D%0Apub+struct+IdentName+%7B%0A++++pub+sym%3A+Atom%2C%0A%7D%0A%0A%23%5Bderive%28PartialEq%29%5D%0Apub+struct+SyntaxContext%3B%0A%23%5Bderive%28Clone%2C+Default%2C+PartialEq%2C+Eq%2C+Hash%29%5D%0Apub+struct+Atom%3B%0A%0Aimpl+Atom+%7B%0A++++pub+fn+as_str%28%26self%29+-%3E+%26str+%7B%0A++++++++%22%22%0A++++%7D%0A%7D%0A%0Aimpl+PartialEq%3C%26str%3E+for+Atom+%7B%0A++++fn+eq%28%26self%2C+_other%3A+%26%26str%29+-%3E+bool+%7B%0A++++++++true%0A++++%7D%0A%7D%0A%0Apub+struct+MemberExpr+%7B%0A++++pub+obj%3A+Box%3CExpr%3E%2C%0A++++pub+prop%3A+MemberProp%2C%0A%7D%0A%0Apub+enum+MemberProp+%7B%0A++++Ident%28IdentName%29%2C%0A%7D%0A)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 634.1146 84.78646 645.3646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/jumpnbrownweasel)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 560.6146 93.53146 571.8646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://play.rust-lang.org/?version=nightly&mode=debug&edition=2021&gist=424606ec2905525bde307cfdb2d52614)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 506.1146 66.44896 517.3646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/neurolag)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 472.1146 58.52896 483.3646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/quinedot)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 419.3646 58.11646 430.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://blog.rust-lang.org/inside-rust/2023/10/06/polonius-update/)
+>> /Border [ 0 0 0 ] /Rect [ 299.249 398.6146 428.474 409.8646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://crates.io/crates/polonius-the-crab)
+>> /Border [ 0 0 0 ] /Rect [ 55.61146 387.3646 88.53646 398.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/jumpnbrownweasel)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 353.3646 93.53146 364.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/SReichelt)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 287.3646 61.43896 298.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://play.rust-lang.org/?version=nightly&mode=debug&edition=2021&gist=70ebc7edbc426d715cbd07416d7ea69a)
+>> /Border [ 0 0 0 ] /Rect [ 308.2115 266.6146 363.6515 277.8646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/neurolag)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 211.8646 58.52896 223.1146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/Annots [ 4 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 
+  15 0 R 16 0 R ] /Contents 43 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 42 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+18 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/system)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 291.9708 53.09896 303.2208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/different-borrowing-in-match-variants/53532)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 217.3708 122.1265 228.6208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/different-borrowing-in-match-variants/53532)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 206.1208 54.60396 217.3708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/why-does-this-fail-borrow-check/5820)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 183.6208 112.1215 194.8708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/why-does-this-fail-borrow-check/5820)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 172.3708 52.10646 183.6208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/delay-mutable-borrows-to-destructured-in-if-let-and-match-expressions-without-boilerplate/111616)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 149.8708 113.374 161.1208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/delay-mutable-borrows-to-destructured-in-if-let-and-match-expressions-without-boilerplate/111616)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 138.6208 130.894 149.8708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+25 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/delay-mutable-borrows-to-destructured-in-if-let-and-match-expressions-without-boilerplate/111616)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 127.3708 130.8865 138.6208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+26 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/how-to-finish-borrow-inside-a-match-arm/75271)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 104.8708 124.2115 116.1208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+27 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/how-to-finish-borrow-inside-a-match-arm/75271)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 93.62081 67.93896 104.8708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+28 0 obj
+<<
+/Annots [ 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R ] /Contents 44 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 42 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+29 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/which-borrow-checker-issue-is-this-cant-perform-immutable-borrow-in-none-branch-of-optional-mutable-reference-match/65140)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 807.2208 129.619 818.4708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+30 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/which-borrow-checker-issue-is-this-cant-perform-immutable-borrow-in-none-branch-of-optional-mutable-reference-match/65140)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 795.9708 128.1415 807.2208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+31 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/which-borrow-checker-issue-is-this-cant-perform-immutable-borrow-in-none-branch-of-optional-mutable-reference-match/65140)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 784.7208 111.304 795.9708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+32 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/which-borrow-checker-issue-is-this-cant-perform-immutable-borrow-in-none-branch-of-optional-mutable-reference-match/65140)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 773.4708 117.139 784.7208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+33 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/which-borrow-checker-issue-is-this-cant-perform-immutable-borrow-in-none-branch-of-optional-mutable-reference-match/65140)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 762.2208 48.76896 773.4708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+34 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.discourse.org)
+>> /Border [ 0 0 0 ] /Rect [ 71.03146 678.2208 104.369 689.4708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+35 0 obj
+<<
+/Annots [ 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 34 0 R ] /Contents 45 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 42 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+36 0 obj
+<<
+/Outlines 38 0 R /PageMode /UseNone /Pages 42 0 R /Type /Catalog
+>>
+endobj
+37 0 obj
+<<
+/Author () /CreationDate (D:20251207211029+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20251207211029+08'00') /Producer (xhtml2pdf <https://github.com/xhtml2pdf/xhtml2pdf/>) 
+  /Subject () /Title (Returning Parts of a Mutable Borrow Triggers the Borrow Checker - help - The Rust Programming Language Forum) /Trapped /False
+>>
+endobj
+38 0 obj
+<<
+/Count 3 /First 39 0 R /Last 39 0 R /Type /Outlines
+>>
+endobj
+39 0 obj
+<<
+/Count -1 /Dest [ 17 0 R /Fit ] /First 40 0 R /Last 40 0 R /Parent 38 0 R /Title (Returning Parts of a Mutable Borrow Triggers the Borrow Checker )
+>>
+endobj
+40 0 obj
+<<
+/Count -1 /Dest [ 28 0 R /Fit ] /First 41 0 R /Last 41 0 R /Parent 39 0 R /Title (Related topics )
+>>
+endobj
+41 0 obj
+<<
+/Dest [ 28 0 R /Fit ] /Parent 40 0 R /Title (Related topics )
+>>
+endobj
+42 0 obj
+<<
+/Count 3 /Kids [ 17 0 R 28 0 R 35 0 R ] /Type /Pages
+>>
+endobj
+43 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2882
+>>
+stream
+Gb!#]CN%tK(&dQ-1&Y"nL!19'8X/"RMoM6n?=_ZE/JKTU?niiqd_mDd)%Nc^qr`=o%/$o:LUN@^&B(BcH/*c0giFS0=U4tSq_ue;HSo7s]^_C3YgJ^2?*DF@DqXI(aiBV>q!Zh0K7Oh^qqXFTF?3_^$q&7pHL8%[h`^M(:?VpG[Q&8FDZ4dAj/29fH\89;1?O@?0Cj+pHBb_i'+!R#jbg]:^W/e\l?cV>ifJ\Qf-:UX+?a5:d9NoFW\j(5<\r",9]e/)QKPT3cNJTiFHrE%d0Db.6SmBY0;R6IX4[<el:"S.K`Q'4;f<M,K4+1F]n$EJ_Yt,CKgFV^%rf.0[\oeUnbaNrKN?-bf,OK82$8.@P#Z[)]b.-i3U-9uCJuuGAXr]s)*UUqH_n)M$T?FR2A<Z4B"i_;3>_4Vcn@(?G5rp5s5g06otJ?^cUD$M5l._JFi,H"%u-Z?#`]]c(R8#MTC&Z*@R!rYP5.tE"eD=<B"\S%:gbk:XFYj!6,sp&ddQG4*L44MfCtoeaU.ucZ",sks($g0Bj4Z:)2g#I7;edL6KpQuWlc4*R2tt<RrGc1X'EU9Zh<$(<i"8>k%lc=nXO;jUc]D=.lLN0RG[Vj=NeRcT<<\6[e=;fcNH$2ds*?la6fCd[1E^[k07Eb=fenQ'q\UF%;2Nb<=GdX(c&j-krl/7MpdDlJ%\qKe)#D<aR]LD7:+HkmcI:;N9G(%p1Isl`:Npj'#nQhk*RDep9BcMi#o<3=?s\NMn-o1OD7?S$:650C?!kh-?aoG?=VcA'qU>q?/gKD28RpY%XfU*OGQc<d"YAY/QjFE>U?e_!0<;Eb]8sS13OU,"ZV`u8TS(pZ,+UH;s(lRRdOZ^Hn'*hV,V^Z=<bI2pF$!@Ej7io%U+F,og3-Ze`9*]J$&DCoPpp.fQ[J\RB&0\M/5p=bA*>M3s3klBfnRh8fujLqX2]Op!W2`"YUbr!I+MtiLpL.mN,*+0)DJn3Rb"NPGZe&LAckT*spt3StsOf,EBoB%@]uJ,[6QY"f9TY^_Q5mc5(e!^PK<8\'!?5&b&^nKW$^>&)_<G1L^E5REM<9Ar@$M<L"nIW@CAG'@+J!%_0:c4r6VF`70XL`2FDjZj,M*:-^/46E>Il[O@r-"egSBqF>&=7SO!Ro8_Rno+gI*`gCb:P`7!SFcT1+qFG-$a(GGqWiX8h@,62R^ej9.1P0LpN$)f8-F34*6Mf'b,=Vq`cgNu]%lI'&Y#lk]ncbd?i+7M95u*a^m1uhgP2I5L$;:eO@LRrB<Y[6QEu(\5?>*B>Zn`b>&*R"l,BDs>2YoME1!9XW_9P[7<#A3SO)%$s\E0W2,buH3ICNgr#$,L`gaG_%4N/i[-kL7;&$'/*(i3F904c3:;0HrI:UTt"\QgOP;F2&:/LTPR1+k,SE;4I$7bg8&g<#*="$a7EVoiWK=B0)Q+NJ#SFfB+WeKTXDY!jYsX]0sIfRZ-5N)mL92L,:O)q*@][!4KiG,+"to_*gKQ$8t-UNcT08cAP-q>1tW#9FpEeh?B=S"Oo+'\k8"^B9"'nu)E2`Y<qVX,qL!iEH#9Yf$p+fThd2Tsq%Q>LdmlB@/ULKO\m3/R0p##u+">'Gl!hgPnjj.#A`sQd4bJ/5mYtJA252&t\JR(dfNm,-7NqSX[WmWU#=0eq=,YMN1.2P4W!)b'XsF+n:&kWHR79J%g(lJ*7>uf)5mCCSi0T-:,$3N&5rn\ek!cgIWE_%Ni/V;ZL,u/`%+/GZaIj0d:QrZPc]Eo(*<-Dc(r;_WL]#rJX!AfbnoEYW2jE.$902T%;T+6Y9U?Q-rWt5hcfFaV>lc'[^t*5+^Mf$h5XcN&4hC)4AOM.#dn>@p@R')DU40ar(gW9"uX:18mB:EB`Cd!ln'SP\,<o\69:;SVF,i2k]?<)]e*jInUmf59.NNH]?SJRjPp@ZLm6*6X[Ame*XYV6bHh,1b(k88<c`;)AN?m<$mMl4k(b^Vpoik,,<4-#6R-@g!^[@9P4K@VK2TS8J"n^"VAi8!7Y-'W_]Qo5EPR9Q-&9fOBiB1Y@PM9AaSRs2[29J/i`Dd`_.7b)?W,>2U1c!!d*<$]s0+A+l]%l47G;K09CqDh?\(c83[o)U5KLMRXS`M)md\1W/(XYl7FlUc@h`ue9(!R(Qj;)ieNe?S^+PJBN8a,/D80M#jb)ICe)`6>=cn';B2urq8G_LIUSQd#_rkYAM;I.$5uk0RB*'"H'3'p_NZK3M+kcr(R1:Rp68EiPhS(u`g)-B+@`2AgD2):CsEX3i/4rl-k]V9fKP`MJW7,TSBA'`M7&e!.+-cC&rM99YMm=qOd/8[fm%2g_aC2rqY="`Xh(kMCP24>:oobfi7+Bqc9-R"PY1.'Z-]3\'d=+pesS5AgRZf_3DZOUdKPL9H<kmi_>tWLY9T(nBi.KU8Jmq`*kPFDk:u%Y=6mB&eH(Sjh20e:dU?.(Pj8rf*b_@l.8,@Th!]+4U:3>KUbriDVqA-"O6l%Md0!_\;L*1:=iXmkWbX\uo%4^I<0L`4f,,b</K;=!h[@2nCL/`e,h,l(ab=TsQUo7HPZ=dj\YK`qHaY'/m9<L`52Z^uqDPfjSJnU]f!s0LqIH/Bj55J.2V*o!HgpEIkXEER]=&7ED(i64=g7#SeG@^Eq=p"=IA?G[S,[@*JlUATFt_<lk9h8D2to2k\';r,pZc\bEm!527s>i[RdK^rjj3?]:%\/LX3l-PMaQg6,d3hPQ.c!3)YuAIIXJTqo6eS&ottS"hq0ZS400Au<cnbYZ0BQRot]1=%cGApRl<J-V_/qVgG\DbhW:^El$m\m#uVUEl?H_0^E6@$?g9N5Hm>V_\r\P?eb:96;\ua/Gi2,Zmb%d.0Wmp)cb=qUIZ98pl%ndr"Es?c*e-gG~>endstream
+endobj
+44 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1925
+>>
+stream
+Gb"/*D/\/e&H88.EU/B3.9]KrX(>ZXZ8LH!V!ZSKlPBX(D::3Y8TZC1Sh]<@mjS!+M-jek8n1XS*6OKo5PNqr`tQ]q0^qN;^YKIZf,";ZRK>@?eH]h&)d;EDeiNYJFFe?k\_:j2bB@_=/=.!i[O`E1E14X:ReIB>Yc-g%W'5M?8*F8?o=/Xa`,&h2.g/J$4uc($>Mp)`]AL\9l3`R1"BqE>UU_t(qC-?3/p)Q,+`AI;^MY..@j.3;Z[[^ea0C_'Zh[@rO9L?]s'>QPHN&`/XD:.o$tQPElsiV2;!@^=Dk92^Z68(Q&+!KOBLaqLDgFN<g;bCQ:'qenIc4e\K0Bn;j]*Eb/@^WoD_E3C1f3&NLqhS@QJV2:_c?RnDfss/4+CN\4.l8n:[=ICP/F$&F$KZ#qkjeJ(M,ng4uk1[$/%C]DTh+)2>J+7pji&5fSTL0fNZt_&#i]4+RqE:/A@&VS-JDcpAZ:L?1Y.i#/RXjiKP.;H*R-&YIg7,ETj+Xh48g*;8Uj["t\^pdeRL(LRQa"X%Xs#hN?,_4gnsC_IPb;7'\&$+8+9Tah51>b[EZBChaY[;ACbi]JHBrCD'62>r"i-/.fKW(>Hke[1?sC&dZ%_%T;on'cUFsE\-qQ(7[8(?^'P-)C[SG3Nb?'_oWNp9lh>tHe]1G,#GUM't]h]no^omL+?e[SgWe.Yt[si7)*K*52Z/npn1bL/5$MsRM)YJ9@a7>o@N0[rI]K2mWkNZcq?%L%b[tU'>NATQ\_p3"01@rGVgA_bmsKNauf7S=mP8qgQ$N`@T0"<&C3#9.C$)tc6EemmTql!IkP&B+C^-e%qA-UF?#5T\e`[.a>AGu`EDcf'_=eeVEp/=]-he)b+`Ygb7nCl@G2_e?Re;YB73kGpkK[j4;aB=C\g4L/)uo3\[^duYr(7!eE(=,r-f@=JP0gWiAhI$BbA\-$`6&fI,#>mc!\TP38n9MHXX\MDh3jm&)MLDg#39Oirtg)l+@#"BpupN)PuhCSI.C'@QBQ<d=i0jJYe23=X%sj+%%ur_)J%-`d"e]TI%^16bq[a'H[Nh!hVH.kXHg[$RujD*:a@P7!pi%Z05hu#4.(35?2q1"^b.K-UL9W?po0L(uc3R9M0A8>8qtYpm-,b'-(oCAk%YLk_'W`]4mCl%p]-ph94ctAO1S_Yn>Ff_Xq_9e,@cc[\)9DmA?JmU:.+.<3R\+NP4&ZcIBPK7)SO''DktH7;&)_S?;1HRe*gEEg:ds+dl1<")/=%qG&K$+#'c!O682)@opIQ:s@G_h$8"8RO,NB>OYM&aQ::['d.A:^i+68cD<r]djkOk[$q>ck'3$4Ku#9Yi]G>C)Z^]e.gClDjI+Q=d>`F,:95rMg%0$].D[6U<Ap]qTsR3KIO4i=XtZD37k,fTH=@X%bVr_i;W<E[_(am`Zh><&iu<'ZQB]UqUGeh3N-!-920uP\%@J+UnL38&Uc5ab1mtZ6VX-:c+4Yp]%=827H$ZD!`T^3U!,+:805"kTY4GVCOceIIEqLV-hq2(_%5\_/[ZhmEEZZpL:P1Co,fd2Wf+rdhXQ3!DWNSDAh<SFVd%8kA3ZU?qm?R2"0#=tFi+K?rkkfec-nDic&H'YEPc6Ae3`DPK>&b!=a3o"IfinXu:0RWBar1aE9K\bdXc_Cj:oT#PMS6Dso3n\0=r4#HK)-3_\mp+E9NW\#':J.KJXKJa=Ji.+S"pDW@@TflQ4J3A/F)&Z;>KQC@Dso5aZr&uGGGMS)X:dX$aEpjf,d^Um#FBeSa3irF'Mka=,;Dc]X"98&B/@0Q/^7?oeP>V:P?o5D`Ok@T7>nHj_g*+3sAhPEI@@.e@U3$rL==F&W(`dOYA7B(-N.D-I5Ae^f7hg[/88oLAj^;;N9e.>3YBX*<^,ejbr!<:e\6`YAK](V.^WTG`f\tkW]'XHJ8~>endstream
+endobj
+45 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 806
+>>
+stream
+Gb!#Z>E>4<'RodXS@@3aG<.Z"G\Y[_G+5?>[?C0Y07]fk.prTedsp8m7DoYHY&P+4P2Y3Y4.kCJ?pO8*l>)mkHjns3B*O;^0F&q]K]!es$:]M8'E#*nRX7Fn=1Y'#9;iO+F4!]t[p=s$<G5ZlG;WL3)e4O_9buK9J-MaH@-HF*)TRno;2,JC'BsbaJJ8K%]#'QS[Y3n=4Q-lIRloRUb'/#p,?`eJI_2)iEJ^aAF<li+k\/F-g^GDgducK?[DjYX]]uTM(t,r>ae?Xo*=1)Z6fb]8=qRYV]8<g$)#m9'S3W<CRr9EEFSnX50L`7tG^Tt9D[>49\4fTd!Udhk9aN=ekIF='V!5H!US[CQg+"G%/C-.@2U&CK548RD<GD"T>XFnd<mS2(=hLetL1Qn)G?^J#AOg$"C2H]='Lq&I&mB_9$WXJGM'Pb8,P!Z4'>7YA%%C*_'Z749+m]>_^C3rPqcIY`4b/*Yi,BspCLV7mH3T)]JhZH$YDM7Fa#]2Vem."gi,CT1WE35[C3X!ZVCLFl2GqB4S)?9DgZ,F5PMrqbjW8*C"l7)]=4fUM#9Di39JqJISj?dD7(Aet7<RLo4Ag;9Y"hpjQTWeG.t#AHo8+]qOW0."fS-iG$VS1SXjP**$rNA\X&KTn[9`5Fr&h(*9J9+`%R7*LH7of\`/gsTcdcS@'PNsOpoK.J[Z;b!A((39%0n;1<+pnI984AK2m"&dq;JTPcSsX`rB9&rUONKq5NmE1W44cTS?Hf"KS/e(7(Of*dHD&%D+pA5fC1Mb`n%4`crp$20cN70@ItXF%8sk~>endstream
+endobj
+xref
+0 46
+0000000000 65535 f 
+0000000073 00000 n 
+0000000124 00000 n 
+0000000231 00000 n 
+0000000343 00000 n 
+0000000533 00000 n 
+0000000638 00000 n 
+0000006058 00000 n 
+0000006256 00000 n 
+0000006513 00000 n 
+0000006703 00000 n 
+0000006894 00000 n 
+0000007111 00000 n 
+0000007306 00000 n 
+0000007505 00000 n 
+0000007697 00000 n 
+0000007955 00000 n 
+0000008146 00000 n 
+0000008446 00000 n 
+0000008635 00000 n 
+0000008861 00000 n 
+0000009087 00000 n 
+0000009306 00000 n 
+0000009525 00000 n 
+0000009803 00000 n 
+0000010081 00000 n 
+0000010360 00000 n 
+0000010588 00000 n 
+0000010816 00000 n 
+0000011104 00000 n 
+0000011407 00000 n 
+0000011711 00000 n 
+0000012014 00000 n 
+0000012317 00000 n 
+0000012621 00000 n 
+0000012798 00000 n 
+0000013058 00000 n 
+0000013145 00000 n 
+0000013506 00000 n 
+0000013580 00000 n 
+0000013750 00000 n 
+0000013871 00000 n 
+0000013955 00000 n 
+0000014030 00000 n 
+0000017004 00000 n 
+0000019021 00000 n 
+trailer
+<<
+/ID 
+[<042322b8d15c71bec267b98f2467e249><042322b8d15c71bec267b98f2467e249>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 37 0 R
+/Root 36 0 R
+/Size 46
+>>
+startxref
+19918
+%%EOF

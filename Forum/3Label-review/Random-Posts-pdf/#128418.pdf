@@ -1,0 +1,201 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 5 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/kailashpradhan)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 741.3646 80.20396 752.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/system)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 667.8646 53.09896 679.1146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/couldnt-read-the-excel-generated-by-rust-xlsxwriter-in-order-to-modify-part-of-the-excel-based-on-request/108387)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 593.2646 103.384 604.5146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/couldnt-read-the-excel-generated-by-rust-xlsxwriter-in-order-to-modify-part-of-the-excel-based-on-request/108387)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 582.0146 130.0465 593.2646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/couldnt-read-the-excel-generated-by-rust-xlsxwriter-in-order-to-modify-part-of-the-excel-based-on-request/108387)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 570.7646 133.8115 582.0146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/couldnt-read-the-excel-generated-by-rust-xlsxwriter-in-order-to-modify-part-of-the-excel-based-on-request/108387)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 559.5146 86.29896 570.7646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/crate-for-reading-and-wring-excel-files/100979)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 537.0146 119.2165 548.2646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/crate-for-reading-and-wring-excel-files/100979)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 525.7646 61.27146 537.0146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/read-write-from-excel/40292)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 503.2646 100.864 514.5146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/any-crate-for-read-write-excel/6864)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 480.7646 129.634 492.0146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/rust-inside-excel/20562)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 458.2646 85.86396 469.5146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.discourse.org)
+>> /Border [ 0 0 0 ] /Rect [ 71.03146 374.2646 104.369 385.5146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/Annots [ 4 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 
+  15 0 R 16 0 R ] /Contents 25 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 24 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+18 0 obj
+<<
+/Outlines 20 0 R /PageMode /UseNone /Pages 24 0 R /Type /Catalog
+>>
+endobj
+19 0 obj
+<<
+/Author () /CreationDate (D:20251207211026+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20251207211026+08'00') /Producer (xhtml2pdf <https://github.com/xhtml2pdf/xhtml2pdf/>) 
+  /Subject () /Title (How to Achieve Top-Down Row Grouping in Excel Using rust_xlswriter? - help - The Rust Programming Language Forum) /Trapped /False
+>>
+endobj
+20 0 obj
+<<
+/Count 3 /First 21 0 R /Last 21 0 R /Type /Outlines
+>>
+endobj
+21 0 obj
+<<
+/Count -1 /Dest [ 17 0 R /Fit ] /First 22 0 R /Last 22 0 R /Parent 20 0 R /Title (How to Achieve Top-Down Row Grouping in Excel Using rust_xlswriter? )
+>>
+endobj
+22 0 obj
+<<
+/Count -1 /Dest [ 17 0 R /Fit ] /First 23 0 R /Last 23 0 R /Parent 21 0 R /Title (Related topics )
+>>
+endobj
+23 0 obj
+<<
+/Dest [ 17 0 R /Fit ] /Parent 22 0 R /Title (Related topics )
+>>
+endobj
+24 0 obj
+<<
+/Count 1 /Kids [ 17 0 R ] /Type /Pages
+>>
+endobj
+25 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2042
+>>
+stream
+Gb!;e9lo&I&A@sBln*+qL'`C&]k#Q=HZFo_[Cp+J"&k<"L*RIp[&ec7"Xm64/P;7<:#0@HTh,63qf^lb!i4c4IqjJR)8P\C\GAIA1)Pt#]#9<=(O//(qg!@;5BJWKKnR(PlU0kqKLMEkgt#sBQaFIo!f'_:_<e7PEr5AX`s\NL?5RpK!TcKO-seNEV=<j\6-og;5XO@\!=kq/=$ekN?pHi,YTBU\E'BX[\?1W$^1oOV,0Q-s$suCdY/FGZ#GnKf(E!'[B/jK-%":'gh,qR42ObKcN,XLf?04QV%pA\[]TAdTglKfGm\,&h+0=ln0p"GL1@B*sUIVtY0$Rqh))nXuRJKM"TN(D-Sg<l5_E^gKhl0`g[s7qJ<n5]eT&fD?+dOST;4'R*;Y0WM>0M(d9)\Sd.bp-\@6b@tZqI".cP)^A%m\H(ipn>@HO^@qB7U"L,cN1=;_<_;Ofo^E%WA4*8V%'^^`;KBT_j61>_-\EJUQm,GY^D&=6m[>&PBOd;+(<[.YF/;5>5n<P&^UMlHc3;qS8H8ce"q0n[M`h*+CKlBju?=F(qiDQlRKP/5-<g7:1SdLL=FjlFD0^NaF?VR\e"NmQmnASL/="oQ"V5Obl3Xo]kn("cu<<Rh\0&)FBnjON*/(ea:msQ)8"oa=I'?2.5jPZ;e@8,,S9f1l0QmJ8]l4-8e+P(7uR5+lb=Tq$#iZSoU`JWJpIlYTL0B1>FND(LA[%-7tAM3R#Eh,Lo5G<N5MRdP+Q[Q>O4RMu<12L-%C-pBf-ECdQi7<aPN4aJU:E7d>qr^gkDX]pKV4bT9FTD5mr%KBk"X"81D8pJC(T\!8QloOMqqQm@CUBbFni'Hek6;,J[F8.fuL>7`eK'Q\X]6?h*Z`l(o0QIBqNi%KpJ]LPc7>ZE,0e5R>lk&Rn43#UC>(_dTPPr<Ue5:]kRGn_U6@[1L[08oh`T]$C,Hhd@B-TI[/b`]gKD+ZGsluc3DV2>%W%DV*7b&nSA)FlA\4'VD]NpX/Tdq,pBZ"MjtAkLmTFaM_EHIq8U=ud#[%>J_,ZOOW,jt*XF>bB\\*&Z92e)N,C`1rIH$f`fC<?d>9b-ec#-ohX&\rhInP?9701&5H+B18<3f$"V_0#t[-1Y/g)EltYWot^>,b7Da9hPRS9\H=2XTJguR>K`s-,g<5dC>]]E.'L0mEb`WOk*'K31-1X&WuG7i@6b%BEY8R('%>Xi1<j+tG6,D\#In&2T1?iWhAFdGs/i<L@;bY/(tu&>9h2Ocqg@)\?k4u1Rdu6Fk$c8G`[O&-=]IbbL<4*=;kZk58N^;K:7,jVh2%@TIJ.Q=*Qp+je#VosL;&j+mfX(_FTU>N)XlB0I@suV(VcNcG*Dl"Lr&+5:optWktkVd\O8C2-H4esVmYe>Q/Nd;g!pnVgUMj>&(iLO8,.sL:M"T:U2@cE_6+g)6J-I2JdnoK[V90p:&pQkBQf@Nj_FOqLCF,FWW+9%Yb*]^M*.uF##>JT;AsE_q@+W2*K9hc+PKbHIRLa]kkRa0quF?ZkD6TOPgG\tH8*bsCR)8UP&^MoK(0i?pE9Kt38#%HNFGY=JO\%iin5aBKJ;])[8i17>;:$BTblRd]QQ`5l*/$;Lpo>=HuW>uX?[0h=QT0>cc,m0mmd;1L^1E=oL':tX4_7+F$^<'*o]1'N,+PW6DK!s(!pQ)2@52MSL'%4Zct0Cj(Bf$k2T:$(WgW9b.NLA/fir=J+R+n38skF0!qMg,0s8Sa3l#f*Dh5>k@0rMs)$)*;A?hamQ*aAeY#hB3F#*j._=k,=N%7ZbA$/%F5Ib_a?X\5G!7nc:4p?67m%^m^#iaGJBlEsh$<0:n=GF!T2[03s4lekn#.n%)qSW,BB&&*[KC$9P<Cgn.u#$5pkt(Pf-c%B/Gsms0\<3oIL&/#N*=9q08Uc8+;*r='"o)K"0&WD*%QK%qEB`H:g0?dbldl_CS5OOfqfMfD55>V1-=cj>g;tD23YU8Hu3]%WHaaDZ)Vp9LkG:,\<GQ)ga@,soB`CCCN2#A`B'EQ+EMOhb2L@q%VPeC)AgI4~>endstream
+endobj
+xref
+0 26
+0000000000 65535 f 
+0000000073 00000 n 
+0000000124 00000 n 
+0000000231 00000 n 
+0000000343 00000 n 
+0000000539 00000 n 
+0000000644 00000 n 
+0000000832 00000 n 
+0000001125 00000 n 
+0000001419 00000 n 
+0000001713 00000 n 
+0000002008 00000 n 
+0000002237 00000 n 
+0000002466 00000 n 
+0000002675 00000 n 
+0000002892 00000 n 
+0000003098 00000 n 
+0000003275 00000 n 
+0000003575 00000 n 
+0000003662 00000 n 
+0000004027 00000 n 
+0000004101 00000 n 
+0000004275 00000 n 
+0000004396 00000 n 
+0000004480 00000 n 
+0000004541 00000 n 
+trailer
+<<
+/ID 
+[<3034c917ae68c790d144a1947a62e3b2><3034c917ae68c790d144a1947a62e3b2>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 19 0 R
+/Root 18 0 R
+/Size 26
+>>
+startxref
+6675
+%%EOF

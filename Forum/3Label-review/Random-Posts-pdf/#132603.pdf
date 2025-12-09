@@ -1,0 +1,245 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 5 0 R /F4 6 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/Sandmeyer)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 741.3646 67.69396 752.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /ZapfDingbats /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/pzometa)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 567.8646 58.10896 579.1146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/alexmoon/bluest/tree/main)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 526.3646 66.02896 537.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/alexmoon/bluest/tree/main)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 504.5088 343.9343 516.6588 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/alexmoon/bluest/tree/main)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 482.7646 45.59896 494.0146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/system)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 409.2646 53.09896 420.5146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/interfacing-with-your-computers-bluetooth-card/61660)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 334.6646 133.984 345.9146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/interfacing-with-your-computers-bluetooth-card/61660)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 323.4146 80.87646 334.6646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/usb-midi-proxy-to-bluetooth-midi/90696)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 300.9146 124.219 312.1646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/usb-midi-proxy-to-bluetooth-midi/90696)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 289.6646 44.17896 300.9146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/scan-bluetooth-devices-and-get-rssi/30799)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 267.1646 134.239 278.4146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/scan-bluetooth-devices-and-get-rssi/30799)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 255.9146 45.85146 267.1646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/winapi-connect-to-bluethooth-failed-error-os-code-10060/83242)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 233.4146 125.0665 244.6646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/winapi-connect-to-bluethooth-failed-error-os-code-10060/83242)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 222.1646 118.3915 233.4146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/ibeacons-and-rust/19290)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 199.6646 91.29396 210.9146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.discourse.org)
+>> /Border [ 0 0 0 ] /Rect [ 71.03146 115.6646 104.369 126.9146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/Annots [ 4 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 
+  16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R ] /Contents 31 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 30 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+23 0 obj
+<<
+/Outlines 25 0 R /PageMode /UseNone /Pages 30 0 R /Type /Catalog
+>>
+endobj
+24 0 obj
+<<
+/Author () /CreationDate (D:20251207211032+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20251207211032+08'00') /Producer (xhtml2pdf <https://github.com/xhtml2pdf/xhtml2pdf/>) 
+  /Subject () /Title (How to Get&Control Bluetooth state with Rust - help - The Rust Programming Language Forum) /Trapped /False
+>>
+endobj
+25 0 obj
+<<
+/Count 3 /First 26 0 R /Last 26 0 R /Type /Outlines
+>>
+endobj
+26 0 obj
+<<
+/Count -1 /Dest [ 22 0 R /Fit ] /First 27 0 R /Last 27 0 R /Parent 25 0 R /Title (How to Get&Control Bluetooth state with Rust )
+>>
+endobj
+27 0 obj
+<<
+/Count -2 /Dest [ 22 0 R /Fit ] /First 28 0 R /Last 29 0 R /Parent 26 0 R /Title (GitHub - alexmoon/bluest: Cross-platform Rust crate for working with Bluetooth...)
+>>
+endobj
+28 0 obj
+<<
+/Dest [ 22 0 R /Fit ] /Next 29 0 R /Parent 27 0 R /Title (GitHub - alexmoon/bluest: Cross-platform Rust crate for working with Bluetooth...)
+>>
+endobj
+29 0 obj
+<<
+/Dest [ 22 0 R /Fit ] /Parent 27 0 R /Prev 28 0 R /Title (Related topics )
+>>
+endobj
+30 0 obj
+<<
+/Count 1 /Kids [ 22 0 R ] /Type /Pages
+>>
+endobj
+31 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2569
+>>
+stream
+Gb!;fbBDW"'&EF8C,R+**#g':[qCi`UcXTXd[e>)9K(Qh,U?g8LDhG?BYM1gUdS.AA:o2%]9B!X+p%16h7?TTO;'8D9C%)&']AWi?G<7$)2on-*TFlu"8k2@qr@$!IctN'$]+1pNX(,H&Jj(YcL%.!E']s<`4'R*>ZdLRB5Xp!1Ap,D`smD4;P:HgI#;:_LCtGq+UHf]nk%cM0Z'NJi(=8F"8%GN&N59k'F(>#JD7(PiKME^MPmGtVXT.Ldu$p)]ZjHArX>S%eh\j?"%N=?L4-36qn1`Ihe0l>pgoe;Tl1/eG\CDKcm%3Pd6>Qt@f,Nkck#hIMbn"iG&<sHgjlQ0AGVguS[)\g]6jWj%bIGV%3#/or:_Pa8sLdn3iPN8kN*,0P*Z4c'#/2-ls[UA&23P;rp2],(u3D)1>`2Im1RH'!55L93Wf4&cf.nTL"`nB!*@]M8$%+Kb[U!#"ICa3j(e6H'+<4&B)M:Rh8"@b6/2dSbVO6VMT?0B&fURn+%/%@@S#Q=Tu167o0fAu/"p5/0WD@VP^17^=\;PAbj(;)1req;K_G(L"4dnXbI@3A=?CD^eaPW;4%lgNYt&H4+&C^M;Fr,D9$E)gV3L]$_kcdEOCp6<alMd6OACDE(R`8<U4?A$a[iKKmrdHH'g6CSr6(HRQPh:LfsA'2es[kETmOh&pd2-FK'r)!LH>@Hip$J:&2>NQEE`0V+2FEG3]#%l^F^Vh&jp$#'1!Bp:K3$uQ"A6e`aBrG5*qV&<I/pN/n_@o4g]WV%caRBRhmMQfn?7YO^'c?<&:tKbLNL0!n_cH1!,\?LDs(LO%NeTDpqY&A!G##P<5mWbd0j-Hdo@uLV0n0Y2WPABern`K:K_>0+'^7ckM/Zd<4IG4Q2Z%B2-jkUKO-l$AgB$O*(!];?pmXUQ7cZkm*VVhk=-fV+:u(F5;A;YbGE79<8Om<SF[_aK$S@Z%/ed]M+X,kAqpnM&A)JLG<>#)OA#VD$I0(HgL5[A,a5*'d_bbA2rm%K@3C.E4i9WJIXi:B&E,?h5PHdo)'GG/E\f'DPSrt0/3#jbnc8m*#L,1^/?t^Q(Zku=QYlgQ$8X=?q9EhF<6"5.413m9VQoqHP.\7StO!?E84nj5[C9G!kUoi+1-fPYQ?Ih401>m&_`O3]^DX7f<Td*NSsq`,/0s8[M5/YCqJWM-@b]J=[O5/7bt%^Re/Y5[e5Ukj##`iM#@l/WJC*cJ]JOHUG6F5Nb4r..#Nb4;?KMXj*^WP$3&OMW9J?Q";V,s4YFYK,&;*+*aHqAMqC<t-d+t<0]Q9lY\AnZQF`_HF\LOh@![M]04Y4;=/-AYoJE[*):c-J_!cOT7AYYiUGt-j)8nNdAsh"#7fgXdHr:;_DCLm#qk1f8@kK`-O>fW+@9n/BjP!8AkBA*j$O,m*J[%oY[B\r--_kc?WuJl8d^J';n>a]Tq2]XD"&WPrBL0k/770o-i?]K(=c%F0,k(stc0cj3[O)X!TR8@IXB:lmX;4:Jor0uq-C)FO'\%OR7Rj)`+WW)c%%;s^m9*5H^WuC51O%lD>ES+rVh&3BJt`9(UFf@/e]u`mL/r`S^tKgH:?HRS/K:QD)ihP`Fk>t@2@3XG@X)]'DnYo1E37Af>B@&0F-glGmh4=G0T6ceC$6ID]Z$P,U:<_(0m<jp)mrA1co]a@N#?s45>j%iXsZ:eG@5N/$a8V3lq*]#bW!@_V=0W<^8(#:cK$!"nRFeCDBkueM"oQ$ENi^-C#QJ?FB73PcY6=_M]'fXJ,d"`lp"M'RnS3n@=F[7W%G-=FmA$CYOKJgQE\2Rac3ff?Q"'Upo1;`5Q<\R2gffflCMD$QWcTC.5#DQCHjXMS3:#rg(\QO!&Ups-SX='L_F26MKu`^oNkhf\*m4=QG1ZMbgdkjQWO^SLc;BKm(RcS&\cTfaq7,K2L?]E9a1@]iG85Uk*I$SX8MimpBIbj=tT%24TlU*Io#U&nT\79SIU;<q8Nb(*K'Sk-?)MX^[5@\VSA5[d%4lJV]Vsm6.fOjGYRK0arBUbXB'-RX4p2'=U`d0P>NpGgYoAtpft"H13t;D1ZEGIR!WkGE36j<+i)+H<-p"1n1cEa](l))Hus]qhBkEFW0c>?5J)EGeLc1jnQAZ\Kbgq`,H1'(r;[!_cR]`,WU!m(76B6PHkS+G&YBH-n.,6RY^$L@/^(JH.$CjL3U3"<dYutF.e7ZmE-5)NSdr\cSlK#IJN5k$,'1iNG-l`XH67&H,GB13J<R/?O7^_[Y%G@Rh6Gl>'s@S`^SPW5k*e;=)#gpkj@N3Fk$+_:3@U&tHmn;2T+118hRQkS>D,/FKt2Uf[f\M;cs+.E:COs8^M1t*cdqT'r6T_J7j!0UA,+'bqJElEoRDZeZ-`t%g%,..I,j-GoLQ]A_b2`/eU"^2T8+Df)p^9c*;pHD./pc[A1S@]mH#EhU[p#]#^c'&m=&oXQ\S$sV1j@+C+*'YB%l*jg-3:Z*t>TZ2EMU_TPLq'&rRe&XKD$dVgKYPLgdrLf%.hU^W7VA.oe_$JUUNh^Mn9B`<,5Q]>F%4*?RaCc:\]d+(Gtu27LKVT2<'gec~>endstream
+endobj
+xref
+0 32
+0000000000 65535 f 
+0000000073 00000 n 
+0000000134 00000 n 
+0000000241 00000 n 
+0000000353 00000 n 
+0000000544 00000 n 
+0000000627 00000 n 
+0000000732 00000 n 
+0000000921 00000 n 
+0000001117 00000 n 
+0000001313 00000 n 
+0000001510 00000 n 
+0000001699 00000 n 
+0000001933 00000 n 
+0000002168 00000 n 
+0000002388 00000 n 
+0000002609 00000 n 
+0000002832 00000 n 
+0000003056 00000 n 
+0000003300 00000 n 
+0000003544 00000 n 
+0000003750 00000 n 
+0000003927 00000 n 
+0000004256 00000 n 
+0000004343 00000 n 
+0000004685 00000 n 
+0000004759 00000 n 
+0000004910 00000 n 
+0000005097 00000 n 
+0000005260 00000 n 
+0000005357 00000 n 
+0000005418 00000 n 
+trailer
+<<
+/ID 
+[<cb96cb194824013d51eae2ce9ef6236f><cb96cb194824013d51eae2ce9ef6236f>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 24 0 R
+/Root 23 0 R
+/Size 32
+>>
+startxref
+8079
+%%EOF

@@ -1,0 +1,241 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 5 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/callmeclover)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 741.3646 71.01646 752.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/jdahlstrom)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 667.8646 63.93646 679.1146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/callmeclover)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 626.3646 71.01646 637.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/jdahlstrom)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 584.8646 63.93646 596.1146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://docs.rs/bevy_rapier3d/latest/bevy_rapier3d/dynamics/struct.Velocity.html)
+>> /Border [ 0 0 0 ] /Rect [ 314.654 564.1146 366.9065 575.3646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/callmeclover)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 543.3646 71.01646 554.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/system)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 501.8646 53.09896 513.1146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/fastest-rotation-route-in-rapier2d/99938)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 427.2646 107.134 438.5146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/fastest-rotation-route-in-rapier2d/99938)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 416.0146 55.85646 427.2646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/nalgebra-rotation3-dont-behave-as-i-expected/67976)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 393.5146 134.839 404.7646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/nalgebra-rotation3-dont-behave-as-i-expected/67976)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 382.2646 72.95646 393.5146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/rodrigues-rotation-formula-question-about-variable-k/72594)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 359.7646 120.229 371.0146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/rodrigues-rotation-formula-question-about-variable-k/72594)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 348.5146 112.9765 359.7646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/points-rotation-to-match-a-normal/117056)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 326.0146 113.389 337.2646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/points-rotation-to-match-a-normal/117056)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 314.7646 55.43646 326.0146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/bevy-player-following-text/125722)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 303.5146 122.824 314.7646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.discourse.org)
+>> /Border [ 0 0 0 ] /Rect [ 71.03146 219.5146 104.369 230.7646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/Annots [ 4 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 
+  15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R ] /Contents 30 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 29 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+23 0 obj
+<<
+/Outlines 25 0 R /PageMode /UseNone /Pages 29 0 R /Type /Catalog
+>>
+endobj
+24 0 obj
+<<
+/Author () /CreationDate (D:20251207211032+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20251207211032+08'00') /Producer (xhtml2pdf <https://github.com/xhtml2pdf/xhtml2pdf/>) 
+  /Subject () /Title (Rapier does not move RigidBody in expected direction - help - The Rust Programming Language Forum) /Trapped /False
+>>
+endobj
+25 0 obj
+<<
+/Count 3 /First 26 0 R /Last 26 0 R /Type /Outlines
+>>
+endobj
+26 0 obj
+<<
+/Count -1 /Dest [ 22 0 R /Fit ] /First 27 0 R /Last 27 0 R /Parent 25 0 R /Title (Rapier does not move RigidBody in expected direction )
+>>
+endobj
+27 0 obj
+<<
+/Count -1 /Dest [ 22 0 R /Fit ] /First 28 0 R /Last 28 0 R /Parent 26 0 R /Title (Related topics )
+>>
+endobj
+28 0 obj
+<<
+/Dest [ 22 0 R /Fit ] /Parent 27 0 R /Title (Related topics )
+>>
+endobj
+29 0 obj
+<<
+/Count 1 /Kids [ 22 0 R ] /Type /Pages
+>>
+endobj
+30 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2347
+>>
+stream
+Gb!;fD/\1;(B0n4EV?Bb7EUI_W0[KOd;CmYGIO;@N=H$l>gO,DBTkiFP3a*s5CSBN--NQ!bBAiV,d8Fb,k[[okFBF7;/l#sf&'=/n7Dg\h,'aQ7e]/Rikjmqq"O"3YD\J:U!(h7+PcWp%g'cp/E@f6p+B9g8XhNSG;s.8jql:-gRg*=4Re.W!ae1sP^C?HGhAT[iR7s^TH,YW"J1,U%]';069#aR:P;0h$o/L+*'G^[Xbm`T(d0T/bE@5S^W:e#abbTgD5ur,)#[=XE9muMrQ>QAYnl]dG4BsP&^KlRQ[#4M!u=!70-DYTpHk+*q$s+RkGrYC!`C#S\AN)""VCcP`FSZ\[ouoJoi=g$AK]R(J6\G&ko%X89To11NYdf<TY=*"<2pep`8EqUo-7di"6'JJ4l3OuGm_GQW-!=gH7k#s:I+AHiqXsSO(=\k.SA)TAmL3cG[4%F^[`m_%MSVcc%O"=lZ#9[FSJ*5=%DS:(D9?T.R\p]D=S.KK*R6>-D<p'h$n:X?$;7;][ABN$1js?J.d\Vl"mA@Q']JPr4C.u.b.Bo0!8SmA7"&,PMLZ!Yo82N*`NWs"*3+9gTG=6.BReQGM601CmQC&_!g6B3FZLgX*V<<`]+I#9,$?ZgD](W@hIr%HJmHHbc"2^Gu:1^A>WaPn]<c!k[mJU#e\]//&/r@8V('8:/tW56A7laa1JPgWWEonJLZq^Rs,$G'hNc6SK3qH7E(O'Wq/fE`7>b;hUY4Qe76.A%A`W)^@!NsYg!+u^)7@!UEhsUU"gq<4IMmm`:>''8u&_@r8cIg,<sjh!AT8SZYB;h;+6blEOr(hYk8s&,W#'ZoJB5DF)B>BMQ)Pr.M@LS*%Q)((pQ]&o>?!33R9:MMJMLO_>$h=72VVY*q,cE@qCNqk-6d2M%m-cCFO$9bN??'>ACZD^-GT1)N<A\SemI+[HjSjgqa&L?m(MV!jY'&me"X4P`m>*mfYoqH!V;kd+&N2==M]`l\I[SBZO26]>EJiXm)hO:rj>kDQIH.s-gN>j-GlY9(!AYc&5ZMBrimtP:_'cc'"-/=&7;rZg<*HCmj.VerAHDgs])NcRo>+L;"u=Mb(N;L4J/]@1*N]o=aghou^s9kc4c5C2d9u6ZF%A)(3.+VjHYeU+"OrpO>_2fGNJ?Xg0[Y+8X&4hI&?lEQ2Nm1To6V,f1[/J?2A6@C9+a';@sNd",:OnD\k!k>;D^6ru0ZRUVQVS&0h?9?N"Z(rc0t(5%^Lq/YHT^:mR5dJ&p*ZghCf.VrBnJ2Ysn1@#4`D(jN_gC([,TbEsA>uiJ0&__(Z1!$LJj]85+mNHB@`DBA^n8\CB<4gjQgK/@Z^&mW3$GG8OlWFn'ajP8WG+2R?k&iZjK^UTW2i@LPAm:42j_;\Z\NY)$FO]_*3B[tM6Ndk;+HX(r<f&;,0\>ITJB<qte.'*TFii9$?%,Pu]]e[e2ff3pQTKF>mrViUb*bHsjD3P_c.^CP<+^(>%\3<nA)gmGCOm3@`HRclMKP>*O1J7J[-j=DY2V1QVqpgdAs'iHcea?8)iRM6L8T4TCTp:50rj!X2RNgK#PV9gK)t!tICP?m5s$A+B4qNIa!X'iAI"[p0L1VAdCg!Y/pNlsKQ-[Z=N-$dU%hJRb;:m;4MQ=-eQ[;6$d_!#)_=MRTnUe>'Vl5)2'G&GK<@k[-fEp0R828aaGton@\(7^Ysu3&5fZ9o38Sd0gB6YQ"3gA4irG8a7E)reb*Iot"5j>MH$CYA2s>7H1^d\tc,&f7Wbi^a*:$AS3@G*.l<Q4T.1(TY=Vr7hq<9HCeZh[m=D5HO,t#9TY#9Q$;6VXjQ[AOr1l33M$N>)H*Soo#`F5W,`YJHGCciem^tI?<lhG]g&3j7,!r"r<])E0hZ@cqs*YSWA*;<hf@SQ-@V_djq:2HPt@j19'EL.\/JF%NJ,;Ed+l>SDrr?jalq=Z`E>;n_j#2^<``b,G%Q$5rLD0rSEk0%RbES'"9aLE,IU&P7Ho8T1ji.(5>Pm`iE7]35WgW&YPI45[t!&#APfK]3po)S<J)i!<S>\EL]QnB,D'*T-J\@frgkJZnk>Q>5%<p4K8XYK&"cMj=%''Cd)dd?GL*mE!Jm]c,lE-XtP-G^puXe+A4T_JB'rncIFDMA\g2S[e13rGfck+OEBdP1Y"l,L,:T-r(3&$f.JD;+F:@2cF:rfQ'tg'9E0U7\'X,Z\WB+/L(Ip:B#Y,lMsO$/+auXU`e+8=?Q`n%*mEAsPj*0Wh7Nm/nd:WhXErffhV/qEk']cE`WT?7fN]cuWbt%-,=eB<aZJ7AMG44OV'BI6XXFNFJXE33Rf0k[uo>T-BIm92N1T4iU]94'_[mI:P+D~>endstream
+endobj
+xref
+0 31
+0000000000 65535 f 
+0000000073 00000 n 
+0000000124 00000 n 
+0000000231 00000 n 
+0000000343 00000 n 
+0000000537 00000 n 
+0000000642 00000 n 
+0000000834 00000 n 
+0000001028 00000 n 
+0000001220 00000 n 
+0000001451 00000 n 
+0000001646 00000 n 
+0000001835 00000 n 
+0000002057 00000 n 
+0000002280 00000 n 
+0000002512 00000 n 
+0000002745 00000 n 
+0000002985 00000 n 
+0000003226 00000 n 
+0000003448 00000 n 
+0000003671 00000 n 
+0000003886 00000 n 
+0000004063 00000 n 
+0000004398 00000 n 
+0000004485 00000 n 
+0000004835 00000 n 
+0000004909 00000 n 
+0000005068 00000 n 
+0000005189 00000 n 
+0000005273 00000 n 
+0000005334 00000 n 
+trailer
+<<
+/ID 
+[<1ca1a0441101be7db37e2c55934837b0><1ca1a0441101be7db37e2c55934837b0>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 24 0 R
+/Root 23 0 R
+/Size 31
+>>
+startxref
+7773
+%%EOF

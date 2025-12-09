@@ -1,0 +1,319 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 7 0 R /F4 19 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/RobertN)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 741.3646 57.26896 752.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://crates.io/crates/winit)
+>> /Border [ 0 0 0 ] /Rect [ 63.95146 709.3646 78.95146 720.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://wgpu.rs)
+>> /Border [ 0 0 0 ] /Rect [ 95.63146 709.3646 113.5565 720.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/jofas)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 656.6146 45.18646 667.8646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/rust-mobile)
+>> /Border [ 0 0 0 ] /Rect [ 136.0715 635.8646 173.159 647.1146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/rust-mobile/ndk)
+>> /Border [ 0 0 0 ] /Rect [ 272.804 635.8646 314.909 647.1146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/rust-mobile/xbuild)
+>> /Border [ 0 0 0 ] /Rect [ 362.0165 635.8646 402.449 647.1146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/RobertN)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 590.6146 57.26896 601.8646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/rust-mobile)
+>> /Border [ 0 0 0 ] /Rect [ 147.3215 556.6146 184.409 567.8646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/RobertN)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 515.1146 57.26896 526.3646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/rust-mobile/cargo-apk/issues/66)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 473.6146 140.6315 484.8646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/rust-mobile/cargo-apk/issues/66)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 452.8646 93.95146 464.1146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/thequver)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 418.8646 58.52896 430.1146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/Annots [ 4 0 R 5 0 R 6 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 
+  15 0 R 16 0 R 17 0 R ] /Contents 39 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 38 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+19 0 obj
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/RobertN)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 785.4708 57.26896 796.7208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/bbqsrc/cargo-ndk)
+>> /Border [ 0 0 0 ] /Rect [ 187.934 764.7208 221.279 775.9708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/system)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 677.9708 53.09896 689.2208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/android-rust-app/63438)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 603.3708 87.12396 614.6208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/build-app-with-ndk/22074)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 580.8708 93.78396 592.1208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+25 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/announcing-cargo-apk/5501)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 558.3708 103.384 569.6208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+26 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/rust-mobile-app-developement/133115)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 535.8708 131.7265 547.1208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+27 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/rust-on-android-today/17884)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 513.3708 109.219 524.6208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+28 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.discourse.org)
+>> /Border [ 0 0 0 ] /Rect [ 71.03146 429.3708 104.369 440.6208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+29 0 obj
+<<
+/Annots [ 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R ] /Contents 40 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 38 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+30 0 obj
+<<
+/Outlines 32 0 R /PageMode /UseNone /Pages 38 0 R /Type /Catalog
+>>
+endobj
+31 0 obj
+<<
+/Author () /CreationDate (D:20251207211025+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20251207211025+08'00') /Producer (xhtml2pdf <https://github.com/xhtml2pdf/xhtml2pdf/>) 
+  /Subject () /Title (Latest way to make Android app? - help - The Rust Programming Language Forum) /Trapped /False
+>>
+endobj
+32 0 obj
+<<
+/Count 4 /First 33 0 R /Last 33 0 R /Type /Outlines
+>>
+endobj
+33 0 obj
+<<
+/Count -1 /Dest [ 18 0 R /Fit ] /First 34 0 R /Last 34 0 R /Parent 32 0 R /Title (Latest way to make Android app? )
+>>
+endobj
+34 0 obj
+<<
+/Count -2 /Dest [ 18 0 R /Fit ] /First 35 0 R /Last 37 0 R /Parent 33 0 R /Title (Revive cargo-apk! )
+>>
+endobj
+35 0 obj
+<<
+/Count -1 /Dest [ 18 0 R /Fit ] /First 36 0 R /Last 36 0 R /Next 37 0 R /Parent 34 0 R 
+  /Title (Revive cargo-apk! )
+>>
+endobj
+36 0 obj
+<<
+/Dest [ 18 0 R /Fit ] /Parent 35 0 R /Title (Revive cargo-apk! )
+>>
+endobj
+37 0 obj
+<<
+/Dest [ 29 0 R /Fit ] /Parent 34 0 R /Prev 35 0 R /Title (Related topics )
+>>
+endobj
+38 0 obj
+<<
+/Count 2 /Kids [ 18 0 R 29 0 R ] /Type /Pages
+>>
+endobj
+39 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2989
+>>
+stream
+Gb!l!D/\/g')nJ00iqc1F>p)R?^rc<\(g<Sf5BJDliBh#PpP-r/Wm1a`V%!\)9T6:44u$*ZT-l>fWc`ciXBIkkF$<1Yjn>qhU;Paf1W>S3oIMe3<mN:5$YgR(RHN,:>XsQ=cIT7k4t\m6>YE#*I8dPh7E!h^hKsUaS$T4JAk*$kPais&jM&n&)o!f!ZWk(Ob4b190%AZ_+coTI75[s"1Z:C%`=QN41)h["gl0Z:cX*Ub:/5@[BAG)W?u1S'LGRQ<?`f51?%_#Q$)U"0#*hm2U-cqT?4<]`isYGRhnLGo3D34RsDomMqrX0]U5B]?8s5-_LR?VE4EHeB:r`ja7X8pfGLh8G$6\-]'#2W3i9V`.ZT69OsO'7MIa`cRES8L1.^R!V[&URa"3/okO;FBfoJ,1.F7/^m+r,;miAZ[2e#/+4b!:seVKRB+'f7LiH8%q;[C[a[9\.jcFk@:V9H/-k1O':o56D7o3#`3>LrYgc35t(65VI:hB!F/b]RgtLbiS%o9V(DN5#A;3G;E3:jE7dV(3"s8C^]ZZ=bl.0,8*&M<?=bXbLqTM9FiZ`aVi4oKc8QN=."X#0A,&P//reNmmJ\O\;(k,3'T+KW/-O>)[2^j5kH!S:R:'</a87jS9F,[V'Q:2kee*)=,aec?(5*W-1rnOkJU$ah6IJp9a8pLQQZH'0bV:rY3lsrgg'J>N3m4o]jRjNA9!WYFT^6X/$AB/k2m'lbuUB/J3HWN"9[JS)q`MC!#lL+RY+2aiW@`4@o_;CMaR6^b_<W\\p`EZ@],U4J0<"oC!DI,s6MQ#f^oRq,^@">cPXlph'/`Vj4dSKBKA?[hgMJ:9JQQhAQfO;t=o31Pr@\`gcIlXe@236D%pgLcd,UOG!eJXpl[Wd]?I<iG6bm1asg;#1oiK5eh#:5ga\$QnlrQ5:o9p"!JfQ*B/Ot,]!]:p5asAYA0Tk4$YG]pL==h\$p(s!K?*lW$Ur-'B/>EQoo!UFFC:-3u>*t6.?d1!6Bb2J#qhD/<%#-HBH5fH["P5ana9DR_r%R#_"n,EJuZk`<A[7L&);7PaG'q6B+CYG<J1RC7[A(=^qf=Vh!3/#ub#VB,-iZ?mK8PR!TLd;$'bmg7;ln)nm9`fU9c6RHRM4?<&H$%,?73`DZ;T$qjnaG^o7n!5oICJMdT%n#<7!]ZEC?cuq#N"\>s*<2/<aF!DMGWV=9Zqh9E-V$jKFN9f>i5rLkU;?'sV&tRc#-EGbQ]\`R/Lp%9#SG1m`+dhJ$*Y5$=K8]i;_qR?2Cq6GI&!kn^S`1,$0H'jdF2#f^L;]0R)1i@PQRarB0Lrhm,d-uVYDo4N5G'Xg-=L.lNlnr:H%$_t@)>_d4B?a1(*m.`4OeoXHciap&l`-BYU&#t7*?@;GK&!!"hL:!3,*S6+hVSWpOt*O=@O#-$_HOpcdr]&,F&YI+?odP-Re<G&OTu=D'bcb#]>aJBD8T!I6[(dCU]ZHqKqngSX-fF6nZ5D@16pErc*H;DV-`Q%gc0&%>jUbHfq"!p,*8WkO^+':n#5@bNHP`a`3A_[nB9`"-<SXr*+T_dPLW<ZPO,?T+#UJ1WKl:Q/NYQ0WDK6F[bOHVrcUUlZ6=WYuJV->=jc&,qC-S%N3%D\XF=:dt+6F8/SS/U<KQ282Bg.,rD37K._[!C5JsrhP%V5f+)t#<`!A:6E;p;PUG^3Xgh+^Q.GS4/5qi3I!%KPWjt=&XBQ=KH+G</Y.;!2aMTcr'X$T2d&()6eg/qG[_rN_U^EANk6Vp,--pk2WD.pl-jf_*X!\=I)_I!T7]'#jA&Kn!?P.iJdM>JI,&X^l_W57VP0g)3,S7r#[nL1o/*+rp/Q4DUa[NUj*47-]7j7?IlVT;,Zo??XIf+`?s(A+R)kDJ"&I^7IFp_YgOU6l=_R+8i7M6dFLmKDg`Wat_HFB\#DWkl@iiR,Vc><>6pd#StcU:\$I+_^GH?RXkg$[-*LY892lR$Q-9g>&jSMhPCl4(+%=r4U(b?B)'&*BFd`H#?Q)l'<PrVto=8Z7[a!hGg%6jF-hcF#<0T)-mG,J"Ba@_Gf?^#sHJD,%9/C9pMIq3T@$?Vl]QGG\`gCJ<6ZH`#mmZh:E3U=.!^n_qn1A\!sA2bbf"4kA,;eRFcPi/6/b-=Sa4)G"\[Wc(\VJC=[4#\U#)-Jj,XoQ*Zh^.jNjU3<!i.,s_nR?[[AeO;K?J-Lj5cmq!JPAqh!n!SWW!A_ZJ=5>R'66Yu8E6\\Tl2Djb\NLBdZL;ngS5ZOaYD.om0d;3:^2J>0.n6G^:1i4WKeU2I6K)MZSp&j,rD;%4:g<nVU^\_8`<q/EO24>S,K:\d-Wda);1,\1X-P.K\W1P,ZpjbQS+rdG"'YQafbkCK<6,rk.u`SJhd5ND$oL8.+\a(p$e&je^(NU#)'+I^m^W3e!$eilO,:>c;c8d$8s7+).5r8O@h;p`W48ED<G/N;*o3<K?0<BC-,5o"_MXYG>=Ro]agT[;DSh\:LO\f`d/,Wk'Aidp%r7[h^3>qcbGThkd\9+omt6m-gZ'Er=D-3_<o.u%R\9N4\]!3i:"s`]:RZpg@Ao6UQeEq>aElB%BH+aQc=WB\QQ%Z4%+gPp[M)l07d2`A;HnEq?!-]])^r/#Ug+0cp`>4j$%6S7UiiHGK/?BbUe@1TFWE>?[ENqARc?mKg@ZTEXE*=29OYqY)VuJM,HLN@ClCf7OnGG`5VU:fV+H,:Bn*OM2&R<Ghu;L:r\>AZOX`nZ;;<O!Enra[<>9ku#lK'O+T/m/dJHUQj2Z9H)da]#atLNr-f2[tHGPZp>._r.f'Y(Qiqpd:6(Ip8=cQ%<8`'B<U(Q>J8,25Ub_#$dA%c"4kJp'`mNotRBU1Lg&ttsC,FdtI]VPai0Vk#M;n*[6Ec!$`O`VWhFd@F!bGK.'LkHE*[$mT6Y<Nh=k"ej2X@V[i1@p6c+!D<hq&+2DUZVAU9W4l]m-VRAH`!BA;nWbjB0[Yr;b^'bV/Gsc#nA?_"hT"UVZ~>endstream
+endobj
+40 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1890
+>>
+stream
+Gb!;e9lo&I&A@sBln)tm7L5(u`*PK"d\Lm=9PnS!9.uM8=boX9iJ1D2q^tEfMmOX#S>O_:Q9YFtqlk!_!E*n+9rlT;!q:(-Da.-m$jL47*q<WW$bm*&^0TOQ+'nSPIH#Rek<n-H#RalRa)51[E(0(.+rlq)%eC'uR',m(8DiSa8:XTi=7I'gVLic.=/U@WO3mbdL<o>k%)1_4DfrUWP^0NM>`\,8REJT3GMP:eZU]EY:7i$nlg1kQ5JpC<d:(pA,#e:7-B;LaZWuSqW"b,*U!cFZ1rM/nnFo<qKL4ua-e/o`*t<46'leHBoEc*@mb,rg?b-2YOl@1LGe>[h,esNh(j9#h`:.^ke$NT\?4UUJI&V('pkRbECbu1m&t$T3-&A0UJ!pAH2NRThYk!f+o-b*KCtVo^"%iXh,Vtbs"\H4S8N;nfen#c9HkI4)Z3eHQ5FLUQUL-]*-=O'7$*<s$=fU:,NLoigZ<qP4>8#@.*#]C9BD\"+LR(t;.p0L=MOmH3,)kQQ[U"MdXn=ng:W#$dSZdpAT4+&\hUS\LmWR<TK=q/OW`q@)G?Qrb>7[4kr(IkSjlntK(HH\ei`Kp]2'+V/%Q)===NCcb_iR3*I2Gc.YYaP8Yo74_[^^uELIgPWP7`@i,t=6\9b*51).&3i8O=UEfD&2ko:[=o&ghpB^5d/41&<#QEMaB_X<=-+CdYK^Ib*FN`4A^=9WJF?MDA)`g1gLLmkDa[\5c>Q)N/!hMqJk">pB%]!bT0f$^pA%bP*aRJ-^&8<._Rq2196Z3UMps_*mDK2,cAa3Vm#`(-4a*1etE.;2meZ+:8p0EEpSdEi:t9UmK2;]HH^1EMf-jT3CI,31ujPH41s^oB!o*>[=AiCmj5b)13rG?7;B,-M*7>P/t#7:R"$N?<DCm\Di#P*:A-S,)$W?,_]Y_h'M/h`g)')ppht)0+`f>(MYh^`N"T3WY12k$`L0UNbJ3j.<YU>^:J^"\t2Rk>W</H#1<-JZ\GkGk,bYpg)\jY*9@<KVPdjE#c@^4_K_,:V.@;+\MLYtV2I++?JqHu,\*-6ri+s@he$nEA.(lQFmr0*a\9:qA\nZ3oa%m].Mgc<D@LK7M188Xm7RG'!ii^>W2@KHps!R^W8'"uY*.6s<qgRH9_3&[Srk7t4<T3#^"*>Ak0PndJ2u4&20B$6'W2C"nX4"jr]!HV9>$X5<bh(;"a.>"!Q\HkSHAV]B/7;_%KodLVN%7W-=0>)W,ftblS^;FhZ%?TpkJ]&38Q_q3#g,lS!G]LIQKkY^9@l<hkP,nHAk;FHB"Q,[^,-/!u;`^RctC&9ph6V7DUaV;G8l$9oAHC_HSk7r=dV=i5@X2B!0T^Qg)S-Z$$Y7lr<#Y5$tn>p"AR6KXCidWhYVV%sNieOj=0=lKJi^A(5?*mg]-X&B@:$bUNXuH9:=m$ciu5no<J!;@[irrV@m'?WEmJHDk:USMETR-=bg8)J;0!7EhV_DR%,;;<2g:R@S#ZY,^WZ,_Z'1Y/9Ub-`eg)FbkV=AnPrl:kpIM,obt=H&B"[R+IdXkU@IB50bh,&ATe*l-63_5Y'emk9JJtjUfJFkl7r9>LrTjm5R5o*7QDG2e\'C9j+Df,WB;I!4Pi;ZWGM6I-t1!_>5bjSiN9U5,I%d)&V"AXK<:bIoB55,8!`CUSE^!c!dekI^^Emf%hngI"0\'[.a&"2ZdcQB?kPt4)R0NLRs?lpL,3eFga?N4,tI:M"b2$O671kIhmJsPq%s%8mfPukA;4pIo$";k1R(#Ns?,)QK4^Zn0#'*)SJUS><Fce^d.deUG^cl;=oEVUWrf0Zj6"VgOJFtb[^jo`Vr6e%k8[c1<]DOkZu&%@`:$"EfT1[PFe7_(-[[42(_(ji@pQp@r-pYIf\#n?Sq~>endstream
+endobj
+xref
+0 41
+0000000000 65535 f 
+0000000073 00000 n 
+0000000135 00000 n 
+0000000242 00000 n 
+0000000354 00000 n 
+0000000543 00000 n 
+0000000725 00000 n 
+0000000892 00000 n 
+0000000997 00000 n 
+0000001184 00000 n 
+0000001365 00000 n 
+0000001550 00000 n 
+0000001739 00000 n 
+0000001929 00000 n 
+0000002111 00000 n 
+0000002301 00000 n 
+0000002504 00000 n 
+0000002707 00000 n 
+0000002887 00000 n 
+0000003194 00000 n 
+0000003310 00000 n 
+0000003500 00000 n 
+0000003686 00000 n 
+0000003875 00000 n 
+0000004080 00000 n 
+0000004287 00000 n 
+0000004494 00000 n 
+0000004712 00000 n 
+0000004921 00000 n 
+0000005098 00000 n 
+0000005379 00000 n 
+0000005466 00000 n 
+0000005795 00000 n 
+0000005869 00000 n 
+0000006007 00000 n 
+0000006131 00000 n 
+0000006271 00000 n 
+0000006358 00000 n 
+0000006455 00000 n 
+0000006523 00000 n 
+0000009604 00000 n 
+trailer
+<<
+/ID 
+[<e667841e81bb944630f82edc8352484c><e667841e81bb944630f82edc8352484c>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 31 0 R
+/Root 30 0 R
+/Size 41
+>>
+startxref
+11586
+%%EOF

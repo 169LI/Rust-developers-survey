@@ -1,0 +1,265 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 7 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/dustins)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 741.3646 53.10646 752.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/alice)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 570.1146 44.76646 581.3646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/alice)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 528.6146 44.76646 539.8646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://docs.rs/tokio-util/0.3/tokio_util/codec/index.html)
+>> /Border [ 0 0 0 ] /Rect [ 95.63146 507.8646 172.1315 519.1146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://docs.rs/tokio-util/0.3/tokio_util/udp/index.html)
+>> /Border [ 0 0 0 ] /Rect [ 182.969 507.8646 250.469 519.1146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/dustins)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 487.1146 53.10646 498.3646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/system)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 423.1146 53.09896 434.3646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/no-traits-for-tokios-udpsocket-but-yes-for-tokios-tcpstream/60820)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 348.5146 128.9815 359.7646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/no-traits-for-tokios-udpsocket-but-yes-for-tokios-tcpstream/60820)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 337.2646 129.4015 348.5146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/what-is-the-equivalent-of-tokio-0-1s-udpframed-in-0-2-and-0-3/51427)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 314.7646 130.894 326.0146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/what-is-the-equivalent-of-tokio-0-1s-udpframed-in-0-2-and-0-3/51427)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 303.5146 120.6565 314.7646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/what-is-the-equivalent-of-tokio-0-1s-udpframed-in-0-2-and-0-3/51427)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 292.2646 42.94146 303.5146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/a-stream-style-communication-from-a-datagram-style-communication/20645)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 269.7646 128.374 281.0146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/a-stream-style-communication-from-a-datagram-style-communication/20645)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 258.5146 100.8715 269.7646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/a-stream-style-communication-from-a-datagram-style-communication/20645)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 247.2646 78.77646 258.5146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/implementing-read-trait-through-asyncread/34816)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 224.7646 135.4765 236.0146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/implementing-read-trait-through-asyncread/34816)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 213.5146 66.69396 224.7646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/implementing-custom-udp-trait-for-async-std/81000)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 191.0146 132.124 202.2646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/implementing-custom-udp-trait-for-async-std/81000)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 179.7646 76.27146 191.0146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.discourse.org)
+>> /Border [ 0 0 0 ] /Rect [ 71.03146 95.76456 104.369 107.0146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+25 0 obj
+<<
+/Annots [ 4 0 R 5 0 R 6 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 
+  15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R ] /Contents 33 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 32 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+26 0 obj
+<<
+/Outlines 28 0 R /PageMode /UseNone /Pages 32 0 R /Type /Catalog
+>>
+endobj
+27 0 obj
+<<
+/Author () /CreationDate (D:20251207211037+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20251207211037+08'00') /Producer (xhtml2pdf <https://github.com/xhtml2pdf/xhtml2pdf/>) 
+  /Subject () /Title (Looking for advice on going from AsyncRead/AsyncWrite -> datagrams - help - The Rust Programming Language Forum) /Trapped /False
+>>
+endobj
+28 0 obj
+<<
+/Count 3 /First 29 0 R /Last 29 0 R /Type /Outlines
+>>
+endobj
+29 0 obj
+<<
+/Count -1 /Dest [ 25 0 R /Fit ] /First 30 0 R /Last 30 0 R /Parent 28 0 R /Title (Looking for advice on going from AsyncRead/AsyncWrite -> datagrams )
+>>
+endobj
+30 0 obj
+<<
+/Count -1 /Dest [ 25 0 R /Fit ] /First 31 0 R /Last 31 0 R /Parent 29 0 R /Title (Related topics )
+>>
+endobj
+31 0 obj
+<<
+/Dest [ 25 0 R /Fit ] /Parent 30 0 R /Title (Related topics )
+>>
+endobj
+32 0 obj
+<<
+/Count 1 /Kids [ 25 0 R ] /Type /Pages
+>>
+endobj
+33 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 3076
+>>
+stream
+Gb!;f?$"c1'n,h[5bF3_A!eD6,sSc#:$Q$QUq94"D-f9PKh+a$9G.b!9%C]6HU3LOCrrP*.nu0u9TpTD5L-h6!$id1r+5<rZlnGM+h>*lK_].<-7kej)87?q*1hR=qZ-ZKEjVH8*^i:^'$m?PJ9/5Ej"_kBX?Ap\O#'!Go<\/5a.LXL3/D5Z-?2Q`_K\IY#)B6X3Oq-P,?SS[9TpkM6Q!robQR($JM@V]_KM$/OI*ka,Tdt0PP7OBN$o$5:<5Lo:)YjLj@Yo=pa[52G'A1U#9!LM*W+b7qlnhg3;+fqiF&:)K:"$8EnA!XJk%pAJ:B\7)3Q[YT=a8/o-j4@a.887%260je&Q5DUU'"H40<GK]<O7^A2BKCU.[8hm[VZ.H#4@/qGE.:_B"%[Wg;`$\c;6h,SRT$#h^TD,=lL4`9caQ%d7sZHReXP$.e^0#5ebmI88hdB]Cm6W@I@)s!;sH9G"qc/)koipPSH5*`k%^)qW+lO8&9aIC,!O!G1U`qcc^sPQ<kLM("1B\Z"%PjpP)03N7-o5uD6),3p-J=Y.W.O@Y&P%@gJ,,m$A(.Ub`B-3[84<(>2QY\d'FP_DJl0iR,;8t3Jjj@0e?-M:=VM8KK7_<fTTfKpGM8`jK5&'m)#:BfCZMV61`.-ot0B<]Hu,)*:Oko8.Y&3i-.WfKV1?o7-^l"`$h1C<L3C1Mtu+431G^Ik@?`ffQ5B/j^'X.maJ+\T>nnXo_EeeR-@>X<,+D$k!6eV,:AU4UfJ-Gqe2De^Lc6-5/sK^V>6:V;r03%J:_h"Z2Q3PpPonZ@d!/RSQjXJacE1<1cq$^`Jt;u4A]UG5^eRCTl`'p:m)/=@pf^AXX'2`eX;OQPGZR]$k%/Ke7O?Se+QS-'/WpH0s5e<#&GJ=;QnMOXZMTE(!o4b`(T.dbUG+EhYg['R-!,bCSG?0]G4+1r((J6A4^)$R5WT/K`6#%4@fe5SMg4!,&oGAkEX>so7!F"'a@Yb&=Ic%UjSW`A`3W-/qO)O1X$"j?`Ti@AGKk\l:pTbXT)^!Y#tK@0RlRddKa`!OW(QUY/;"k")5gX6\%QaufhLg("S/-.58;JOZ)8s6G]iOCcRG7q.C0^8EKd5)'Jmr.):kmnV/OF;p_.N7V<S;["TIqk0=2_E%]&t%T0`4<=bGOWHpphIXO1=]e#S`koNTh@sT"?re-J2IAYWYSLJ'jsP/$rd5>"TsLT2U^m1UlLQKcGC#Xb)CA]B^D8q0irEPU_4GHW2q]M&oF@pM^"_OF1U#?.@?gm+2/#,rD?`!]![$0[hUpeUW7[tE9W)'C]3,("atab@4&JG]n+>?cjcC.B5M^Ya]^*kR#ko]K-:+e<WO&="a+V:kZ+[)'jDN.9aM5CdMb`]/&SM$V:C`1s6/jOmiO"T^1JR;9OuN)2imXmpkE]a7/\Cd;RJ]JPAOH,K%leb^:u\TpDIXmrtkdl3rUpY1X(.TCB;L0&DamEEQ.B:cF(Xk2RU[\02nF`F?+H`]N?$I9a(7G5>?'4"UR8n8:4E/Sm8Q,ckZ9JNlOYGa"9e@/-PhM"!qHcJI:<tW*\]*$ECk.BJO>X8W_OBeW#i5*NI,h6.KOh%_)S^^+At`Is#sc@(L*<*42V10'gd;L^LQRc:+X2L!#+#EGH`[$5h!k'"-=sl,"fZ>(Qad?7MO5/>.,kPL#VO;So3"0$r.'9PEhJR*bLh,JQ(^)sma)U"4fr-a<8po?^eiXG_)KZIZK`g!3o!/:'IB$gc=R+a^7t/Wi\.r*W$<l^kO2Q[7N#8Hp_0*rk1r"f5d\?.`<rG7!aC";A`O=&<8C#R"7KLC$gb5PZE_@Da'op&PjWFTPc([4WS_WEVriXUbLEK]E1eN_rhe/'J0o9NLt@P#!L,AdAbqWW4MSJT;RM<@prSEXXV3A]2)5\/+JmR`2S#lGB[;HKUm?NsVTnMT<Dt_!N,q.0dbhXP50r.,,6S7pMNF_LVHjY>Hk12!g0)c$$PL(A-CjT\jSnDMh_dU+Ka+9u[(q%9Mct3L,9&kJOi=[[Cr]8$^O7Prn0`GOG&4'aX!h80^89Z9d-daH$<O-10F1XaBf0aaqYe(dpm7deA+.o&!'bm:In.mbD;_!1bNpU>ob*)>E/T7_XWM%8_,N)9e)0pXffPU')n:W.A0,'n?pD92Xkt1udKj'UI<5[fpOr#_LJ4_sYbIh;7q37:BD^Is"s%\6Xh."\s?Vf\!Oo3Y_;ZL"m_,9WOWlNSeB4'O=3J%Z4;+G@,QtfAR&0FdX&pR)--m'7H66/b\sLFgJ,"Vm?EHgETb#$chM5\<0eIMLa'1JDL+N)`+Z*76$t.!R&kpTQBtk0\#n1*HZ,hBc+WoGO>KpDK's\;p<p'bRS;GGQ?aU6Mk0gPM=Ej:4f-.SV\>q?>pi!l.Zg)UT>d>8ooVFeAkjsN?S3BL4`n/:)WI1-pJ<J+5QSR."4K-JtP?K:M@b5*17"t:s;.gj@G=p,``K)_cn,TW958JnJK(0+54Fr%s!(\a'Z%DY&1knV-=ip-*0UUZ-]c-mE(4QF_j.J]6aLKIO'ugf.NWt-\M)ebL@9G:M<,Z%JhjXKNA!pb"[?RQ8cGN*UW=S_(ciIe1a+KUE%mc&&GWV`4fQk]u,gTpU\j'DWo:K?TiR3m'_rbTHQO)f6ef*m#fR@Fh#.*4ONcR^l/(&n3eV)]5,j_U\/4@%hVN_,]p5$pjNDK:uh>t4rM:\i'0.(e&Ktc'(IQW,N?:5_V4^EeLUUbNrs'?%b^s`Yj[a4rDNM<2Y7cu-Sp<$O"INdP4rKV]Tm3CW/VfBGHV0n1"+rgj+k>&W?<Vb"8greGIoe-*MDYf]mDEFr""_?ncngS"EbZ=onrp4^[HYlcjoO?o&/]]B.SJX]oEP_WV=4-p\um):u+J39X/jfC,s[R[2F?oKRa'E2i4+KU/CJ4nbK.]RES\,V"cW^j(63='V>[.j8KQp%uS_1R_n(`d#BlgHf%(.)Q2D`E=WUnhYuu6GPR2)0lDCD&VmSeItj"'hWq^/1*`Otl$R>8nQ+=B2oa_Q%ce?B8R%CHP&n-OY3IJ37Ei\EC/e1H=lQndg!8;HcMdr"O8"n~>endstream
+endobj
+xref
+0 34
+0000000000 65535 f 
+0000000073 00000 n 
+0000000124 00000 n 
+0000000231 00000 n 
+0000000343 00000 n 
+0000000532 00000 n 
+0000000719 00000 n 
+0000000906 00000 n 
+0000001011 00000 n 
+0000001221 00000 n 
+0000001427 00000 n 
+0000001617 00000 n 
+0000001806 00000 n 
+0000002054 00000 n 
+0000002302 00000 n 
+0000002551 00000 n 
+0000002801 00000 n 
+0000003051 00000 n 
+0000003303 00000 n 
+0000003556 00000 n 
+0000003809 00000 n 
+0000004039 00000 n 
+0000004269 00000 n 
+0000004500 00000 n 
+0000004732 00000 n 
+0000004909 00000 n 
+0000005265 00000 n 
+0000005352 00000 n 
+0000005716 00000 n 
+0000005790 00000 n 
+0000005963 00000 n 
+0000006084 00000 n 
+0000006168 00000 n 
+0000006229 00000 n 
+trailer
+<<
+/ID 
+[<bf9ae5175998511013370a6eb593ce35><bf9ae5175998511013370a6eb593ce35>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 27 0 R
+/Root 26 0 R
+/Size 34
+>>
+startxref
+9397
+%%EOF

@@ -1,0 +1,284 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 5 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/CoLDSToRAGE)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 741.3646 83.52646 752.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/RustyYato)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 406.6146 63.94396 417.8646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://play.rust-lang.org/)
+>> /Border [ 0 0 0 ] /Rect [ 245.279 283.8646 295.7165 295.1146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/vitalyd)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 240.6146 50.60146 251.8646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/DmitrySoshnikov/syntax/blob/master/src/plugins/rust/templates/lr.template.rs#L177)
+>> /Border [ 0 0 0 ] /Rect [ 181.094 219.8646 517.049 231.1146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/CoLDSToRAGE)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 176.6146 83.52646 187.8646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/CoLDSToRAGE)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 123.8646 83.52646 135.1146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/Annots [ 4 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R ] /Contents 34 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 33 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackoverflow.com/questions/23975391/how-to-convert-a-string-into-a-static-str)
+>> /Border [ 0 0 0 ] /Rect [ 57.27646 762.9708 268.364 774.2208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/borrowed-value-does-not-live-long-enough-to-be-valid-for-the-static-lifetime-expected/16947)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 709.1208 124.639 720.3708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/borrowed-value-does-not-live-long-enough-to-be-valid-for-the-static-lifetime-expected/16947)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 697.8708 129.244 709.1208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/borrowed-value-does-not-live-long-enough-to-be-valid-for-the-static-lifetime-expected/16947)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 686.6208 104.209 697.8708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/preventing-legacy-mutable-variable-borrowing-to-solve-lifetime-problem/108605)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 664.1208 116.719 675.3708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/preventing-legacy-mutable-variable-borrowing-to-solve-lifetime-problem/108605)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 652.8708 117.544 664.1208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/preventing-legacy-mutable-variable-borrowing-to-solve-lifetime-problem/108605)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 641.6208 81.27396 652.8708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/borrowed-value-does-not-live-long-enough/21700)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 619.1208 124.639 630.3708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/borrowed-value-does-not-live-long-enough/21700)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 607.8708 73.79646 619.1208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/variable-lifetimes/94721)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 585.3708 87.94896 596.6208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/issues-with-self-borrowing-methods-w-lifetime-parameters/38462)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 562.8708 114.619 574.1208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/issues-with-self-borrowing-methods-w-lifetime-parameters/38462)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 551.6208 132.544 562.8708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+25 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.discourse.org)
+>> /Border [ 0 0 0 ] /Rect [ 71.03146 467.6208 104.369 478.8708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+26 0 obj
+<<
+/Annots [ 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 
+  23 0 R 24 0 R 25 0 R ] /Contents 35 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 33 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+27 0 obj
+<<
+/Outlines 29 0 R /PageMode /UseNone /Pages 33 0 R /Type /Catalog
+>>
+endobj
+28 0 obj
+<<
+/Author () /CreationDate (D:20251207211035+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20251207211035+08'00') /Producer (xhtml2pdf <https://github.com/xhtml2pdf/xhtml2pdf/>) 
+  /Subject () /Title (Lifetime problem when passing data to external crate - help - The Rust Programming Language Forum) /Trapped /False
+>>
+endobj
+29 0 obj
+<<
+/Count 3 /First 30 0 R /Last 30 0 R /Type /Outlines
+>>
+endobj
+30 0 obj
+<<
+/Count -1 /Dest [ 12 0 R /Fit ] /First 31 0 R /Last 31 0 R /Parent 29 0 R /Title (Lifetime problem when passing data to external crate )
+>>
+endobj
+31 0 obj
+<<
+/Count -1 /Dest [ 26 0 R /Fit ] /First 32 0 R /Last 32 0 R /Parent 30 0 R /Title (Related topics )
+>>
+endobj
+32 0 obj
+<<
+/Dest [ 26 0 R /Fit ] /Parent 31 0 R /Title (Related topics )
+>>
+endobj
+33 0 obj
+<<
+/Count 2 /Kids [ 12 0 R 26 0 R ] /Type /Pages
+>>
+endobj
+34 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 3155
+>>
+stream
+Gb!#^D0+IO&cV3*Yt\jT\Y_Xo+9bZ6ZstP.U-s!<Mf#@j[@SU^,S:&:q!LD91[0DXZZdPbm_DknZ#*>\E4<=Fqs;0C%Ic;uT4pl=1o:20OMZgNEsd]=OJ\rJI/<'_UY#8IgXX\2Lkc5Q!u_[S5r=F.m(MsLUo0p$'-r2iN(11'jIa*\mSS[rK4$YW-R1)iN":Lc`9$\n6"c7o7(D8-$-!2pRUTtJJ.gLC#*WH5*;W*M62T--Uc4:<oLc0<(1in8$T]$QU(Ic)09g@sa#*bJm25=&Rf8-IHgLr_ICFGm&d<9.Mu1G^,k3i4h\9uK5be$]!r8RC-o`%jPKS<^":PN$(r_-[aZ'Vsj)?M\`6VoDau*$lo=;5R.B1m5<lgHT93G+DN+&,1@0Ke&o"C="&d>+8=SW9/&')N&3!hh*[):h20^M[Qod=]#O+Lg<!:EA8If*U9O4EL(B2eKcfltcGbHObqj@hL!Dr;g&M?`%88#*sUW^5&bm33fTgs&5/a1LO(A?R9P,RY]ojEd+bZ?jD@#4F%;ckX7iqq73G)p756(96M0K(e?$H+uj>8&t7#Sn^^?bGGhOko^8C8p6;L*R/f[eMV&NKMWJ)O.+=Zob/gOW5pTF-.YDZ/4h4BP9--(.<N!6>*:RMRWR5X=_#S7AR4*<`mM-!P@HYQ&<+#_q"/)[3GBHj=_4D*BaPg+1Q/K'7TPht%AbP<P_s4V\,@j:FWiXcCf2ire\fBVA#b@Z*f2_=[A=8AR45@2GuZf5D4l;K1L]j=P6U2?dj$1Bp/Qb*"b(D#M*ajtiF'L'cBZCjA/a9782ulGIn`pG@_!;F(%Cei5C5HrO&+)JFF"#'@$4!AWk)CtSp[oqYG]f?&;D3Ac,IP2crAqUV8P$3og2i\$l<`F.^sTmFJ8LHWAt^J@T!TYR5U]o"]rfVRV+D9mA7=Se/6<.^FaLp$^R/kQ!^K?StXVGVf0lT_t1p/K%)s?ZX2e@iX(H^S&'<K>`#2+LEO<s@`@2g><]0>hdrm5R-T']mkN_(iT2OCdrU7_%r.Z%/Y0o3$?oJL7D.0tIK9V:n79ifI7(3n`ShsQ_"n!*j$.`GjWOAI9R0NUS4Kbj`#6F0h4o?-I;0)_:??=)^NOhpha0^J+6n2WjHY,)cL(2)WNjFL>BYeh'0j-(l)TW3;"W<*j\FJVcC=N^HYb2-^6Ya`=[5L(mb0m<s*t?Y_[,`nQO)[e7U$1i$P[c#h"cO8NR%:'o#tjW?)eHrH,Z+sNfcIcJ)%Y^2EUG&5r3:_jAaVh'Sk_Op%.c\h*=Pq+;m[.4X.W-&Pg]&59Gh2aaXfb"*UP8iId>@Ofp#FMR?E_B!HG]EdE63e@Wn2aQW9o]S+9,D%9(R_;T'T\a5[+90AqUL]cnDcfp60+&7Ca"XA>V^[?p4Gk4GPJ+*Edg=\IsP"$80[aj"dSKqV>IofEmHBY5+:tqA/Tr,,@5ta3(SLXDhO-YP[$'YkEB9L$kREN2.TuNh.VBG4km72\[i@k=&qcuJhUB+A*XYMn_%>qCq$C!HOAm6^H/QCgCO>$ViO^=]b3-d<b\WW+K[=Wk3(o1IEPDZ))a(hL@l_UhFk3oLfJ)rTd+BDU<o@cN&%WGC)Nh8E?k[^#-m#i5rfTK+O[We]DGbg)Bs"i)bkBF$H#dRuT^pL<]jZQ,=L*.m'>SS8&\"EIc^2_eW.q*3Dj4N(^(b_1'4:ds8ZnSoBN65(qH!SM7N0[Nq<Ntu*l!t;P1@fCbIk8MH7?bH_QRIlo5Rg]XU'HP[ITPI6.?P^a4%e!;9n!FEIKkfL'1%,&7CI6n'F5F*;[EhBh:Y1PrLf0$*X5/]%r]"gO5BdBOM+T=&r5[RU96i&aX!7$2Hq._Vr"Al@kg9b4*_-[[.4r3^))=`nunUp*DJSlQqu[aar-Fa;si7T7`h^AE_)F)=&a^!BR`*j:`PN\kid4HH%i^6o=AH$h?Wr@@?NUI^sS]6n:Gl6_\1<CpT;doOQ?N,*>iQj,F?P58nQZ1SC-PQk5;OXF,t2K%iqg_XeLm-%_2:1BRZZ/=`ZH9h1n9NH6O!UFgVXV#_9"_$DPXtLL+>d$D^BXkD6/_hS!=h$)=gT*5Qi<(M"k03Jn:VJiL<R_r^)@6XkNI)KCV*4.Z9>Hk-^l/I;,$JA,f1Gl=eNq234fON#LX/oK1PJ>N[8RZ-OZ_PLo=2.#L^9+</$'==C_ZnP9f\HTimF-RpSr,Yta.9agZHFh+"+MW)P<Aj$2+]k[cKl-oNYhjWs,W0,e*QJdP#fl$OTU3IJrqdEZQ=r<\;DV]6F#9J!R^uPR3nSk/C;;&:m[73LWSgt0QqJbZB`d-oT)7L=QA%3tkDU>h"%0f!AKb-LZ7\LkKK*nMe?<j3GP9OrlZi"B4;>%*4WFs6E\!#AG!?g9[U:LE*"2sh=B>gH8QT;G7Da!X#0AR0(2Ca,K!e[tml(\6D@,*OCSB7PODXH@SD2>G\//T.kJf?!=/rFIn?&h;@DBQB1XXDJT]Nn[O6sqsIC#oSGi,,.C=Y&s@oE'KEVJdn=lbk4CI$=^PmD-ufRBNHm2*.iIluP!djsQ`$c_49CPk2C5^RA6C$]\aJMu^SMBY:^2%<sIHF^T?36c""mI-KK9*YEF#0]5fWbY"-JY%Q#0?>39.f<chmEc,Y#n[c$CS`[XgW['h+V$oEVRKJb!E*S>mukW8Jo5Yef`@9A[N(q<29AW\Vb7qG,:j66UEMs?fNH)$lYER,%O/ZS)u<Fpn7TR93)RMn/l'@(p8rlb3?sE+2S$@VJ,+jq0eR;rF!")@aO0:e6].#i-C(bI9D$<>cfV';kZ<6.m&S'p]6dDCFZ[2g]-l>e9KMlY?]ZXoi<c9^&rtbSBQ4!pgkQ=e6,""5Hf`NELJ-Z']sF@=Qi'>7*iJO?osW2I9XZglfX/FqCGrn(7DktqRebbg0,tn`-m2u%(sZcO.Sqj[\?!sC)k@u]T")ubSDYXSW[Rcng#3p;$\>d<1-!V:mS<2l:%#N<a7@!.P9&"gV,pg^K?7]_b=o[c)lU>,.PgT$Mt8T_hWA#3)fn6Kj0sEA./ZdC.9UBH9^3XgEW;qea#a`LcDKc[lI%G1OE5ijG(cK&A^!ib-V^UU*qV4Mm0aso<3+N/bDSup$^iRl_lB9$H%XDuHcGZtG6]caqEL'ZdCK~>endstream
+endobj
+35 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1582
+>>
+stream
+Gb!;e?#uc!'Re<2\506U=_m[6JipEHgQ118Usi&tfr*'\?n<[IZ#Kg!a`RC:HNc=c"Di%o1l]P9/9JkYd6751A-N`T/Go'P!:NGIp,<27_e9BN&db<@piU]Lf?#>Qfk*'bLlf'P5q,6e.g4R,/i+?M]S@mb(q3mYgVTGbir4NA.^47V"3-.2>Ta^]MHC&jc!Kol%&S):dQ!WOISHT@8a<.'O8n4/6#m1]fnGno(nSV.:Dj!8hrTjdo7=morm&)_oE,NY8,$Y/U%Z3o2$rD)iAeF#PC1*6e!ng,kW`2`>KFfq`l;Ql-^GrU[c&LHEqSC%%U9TIJ5)j$-jsY&KhEi3k-cdnlWq4=EU:_^Z);DD8'BQ:B98h5D,#5e9Mu_Ea(Por"F`17kr8ib6Qd3qn66?I6QG+]hr##%R"j#"2(M!7n.a%\lA8T8\WApX-7<W99TIqFGF;MnoMRig`@M'TBa`&r(6QR:D.br`ML]:_i.V;+=NmJN$d&(JZb&<bYdV.i"`Z(^3VJFZe\1!=pMOLWZX(anf<T+)$s+\WHO`A7/EU-<&74Ti)!Id6\7=9D;/eggFRA7raE^Do^BAkR<*?;)2B\69igoFKZ7)*uWXZghIN#;>oV"le`OGpo^85\D4Tqu%AghVf\=4>qU:#n(MCoQP)U-R1'[=l>7<2XL(4CPrA.d4RT`tbCVLW8X\NchMU$I+@a3bg5^@K.;L.S0SQq&TY_+JV`*/"nn0g1S`[s'17NO9WE9OJdXOPZ8_2N]R"VE,/u)YEtpq\Vk]E1-+?SlgS_d;]Od:,'MQ(uIl@FXY8mN83Z:d2F^6R'N,s[Z;#AfAldUJ(Ck87Go@`oa$-W`=CfS6W&n(cFs&%M]XX:]E(d<W5V`(\;WU<RFsN/GC5FVk:#4RWN#=.G?i"r$fBs^jnl^'XmeQqHDTf(WD>j/lhM&F>Gg7:/ChE(ikTZO3/\A\,`4gC_J3W68pq:A3-<_;l0dM@n1',emG<6FC+]'!6#_ajep3<1cBiS]bfrO.>Dq:u%2u_#%6F;h7B5+thG(!_2f"J@1.<&G+[c:Z6%`54P38+OYgn3rRV[=<?n&R-VX4i2d:q0P8:Ku',=6[_Y?<K_l+VJQV6bU'k-U%@i^u8170q<cfY'b^#a^@=icKTbY0fn'(kh:b'hjZ:hCWZj3KTmS'dG9i<Xkm>pWBjH@UaR`Sb!Vl19XBDS[q!2aV(r13_8]^dG]1L<0B]0Rd'GsRc'RBj^[>fM`pFYE>NU).A>mbr@\?.DP*!<7dHMK2[D<'PZ5h`Z8W?0HOmX;9UbYID4NM-X3&Q)P>BJ$1!RbDogd7AR')!G?u<P1\7&!@i"8be6g#GR-f;dgkD]`(q='#lhmmBLN+TZ/B:%CMLU_[@nGbRf,gO;6Lmt$M<8U/bd%R$Z(m;$jlrWF7dO)Eo,5cgj"qr!]o:u)#Gia.'f>J2#hq;G^9/&3NnLT6)$J.=F"o]*+X7B4S^h.p6X`hr%D4KmcPsm*>Q;-]&dQZ\YD2aO`j+kZ>Vu75RI^G&t7iVro^fY)t[0j9d*6tRAF)U/Gqf/i2n`eX>p644_%O_8XS3C3O~>endstream
+endobj
+xref
+0 36
+0000000000 65535 f 
+0000000073 00000 n 
+0000000124 00000 n 
+0000000231 00000 n 
+0000000343 00000 n 
+0000000536 00000 n 
+0000000641 00000 n 
+0000000832 00000 n 
+0000001010 00000 n 
+0000001199 00000 n 
+0000001449 00000 n 
+0000001643 00000 n 
+0000001837 00000 n 
+0000002099 00000 n 
+0000002337 00000 n 
+0000002610 00000 n 
+0000002883 00000 n 
+0000003156 00000 n 
+0000003415 00000 n 
+0000003674 00000 n 
+0000003934 00000 n 
+0000004162 00000 n 
+0000004391 00000 n 
+0000004598 00000 n 
+0000004842 00000 n 
+0000005086 00000 n 
+0000005263 00000 n 
+0000005575 00000 n 
+0000005662 00000 n 
+0000006012 00000 n 
+0000006086 00000 n 
+0000006245 00000 n 
+0000006366 00000 n 
+0000006450 00000 n 
+0000006518 00000 n 
+0000009765 00000 n 
+trailer
+<<
+/ID 
+[<0b5ad1d705903984a90c1daf5be8b245><0b5ad1d705903984a90c1daf5be8b245>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 28 0 R
+/Root 27 0 R
+/Size 36
+>>
+startxref
+11439
+%%EOF

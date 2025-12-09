@@ -1,0 +1,166 @@
+CATEGORIES_CN = {
+    # --- RQ1: 易学性与可用性 (Learnability and Usability) ---
+    
+    "Core Language Concepts": [
+        # --- 原有的英文关键词 (保留，因为代码和术语常混用) ---
+        "extern_c", "ownership", "borrowing", "borrow checker", "lifetimes", "lifetime annotation",
+        "move semantics", "copy", "clone", "type system", "generics", "trait",  
+        "trait bound", "associated type", "type inference", "error handling",
+        "Result", "Option", "panic", "unwrap", "error propagation", "? operator",
+        "async", "await", "concurrency", "thread", "lock", "Mutex", "Arc",
+        "Send", "Sync", "data race", "pattern matching", "match", "if let",
+        "smart pointer", "Box", "Rc", "RefCell", "closure", "iterator", "macro",
+        "ffi", "array", "enum", "struct", "fn", "module", "mod", "scope", "visibility", "pub", 
+        "loop", "while loop", "for loop", "break", "continue", "return", 
+        "mutable", "mut", "variable declaration", "let binding", "const", 
+        "static", "tuple", "vector", "Vec", "String", "str", "HashMap", 
+        "Hash", "Deref", "Drop", "size_of", "primitive types", "casting", "slice",
+        "attribute", "unsafe", "workspace", "pin", "lambda", "From", "syntax",
+        "undefined", "Pointer","Any"
+
+        # --- 新增：中文对应词与社区常用语 ---
+        "所有权", "借用", "借用检查", "借用检查器", "生命周期", "生命周期标注",
+        "移动语义", "复制", "克隆", "类型系统", "泛型", "特征", "特质", # Trait 翻译
+        "特征约束", "关联类型", "类型推导", "错误处理",
+        "解包", "错误传播", "问号操作符",
+        "异步", "并发", "线程", "锁", "互斥锁", "原子引用计数",
+        "数据竞争", "模式匹配", 
+        "智能指针", "闭包", "迭代器", "宏", "宏编程",
+        "外部函数接口", "数组", "枚举", "结构体", "模块", "作用域", "可见性",
+        "循环", "可变", "不可变", "变量声明", "绑定", "常量", 
+        "静态变量", "元组", "向量", "字符串", "哈希表", 
+        "解引用", "裸指针", "切片", "属性", "不安全代码", "工作区", "语法",
+        "未定义行为", "指针", "引用",
+
+        # --- 针对复杂/痛点的中文描述 ---
+        "Pin机制", "Unpin", "自引用", "宏规则", "宏递归", 
+        "线程安全困惑", "Send Sync 理解", "Unsafe 块", "裸指针使用",
+        "宏设计", "Trait Object", "特征对象", "动态分发"
+    ],
+
+    "Compiler Interaction": [
+        # --- 英文 ---
+        "compiler", "rustc", "compile error", "error message", "diagnostics",
+        "warning", "borrow check", "lifetime check", "check", "memory safety",
+        "thread safety", "release", "error_e", "error_E",
+        "false-positive-error", "linker-flag-issue",
+
+        # --- 中文 ---
+        "编译器", "编译错误", "报错", "错误信息", "诊断信息",
+        "警告", "检查", "内存安全", "线程安全", "发布模式",
+        "编译不过", "过不了编译", "编译器报错", "报红",
+        "误报", "编译器Bug", "编译器慢", "编译速度",
+        "增量编译", "链接错误", "链接器", "链接失败",
+        "建议不准确", "提示看不懂", "严格检查"
+    ],
+
+    "Learning Experience": [
+        # --- 英文 ---
+        "learning curve", "beginner", "getting started", "cognitive load",
+        "mindset", "paradigm shift", "tutorial", "guide", "example",
+        "documentation", "Rust Book", "official documentation", "confusion",
+        "hard to understand", "complex", "abstraction", "concept confusion",
+
+        # --- 中文 ---
+        "学习曲线", "陡峭", "新手", "萌新", "入门", "上手", "认知负荷", "心智负担",
+        "思维方式", "思维转变", "范式", "教程", "指南", "例子", "示例",
+        "文档", "官方文档", "Rust死灵书", "Rust圣经", "困惑", "看不懂",
+        "难理解", "复杂", "抽象", "概念混淆",
+        "劝退", "放弃", "太难了", "甚至想放弃", "学不会",
+        "文档太学术", "晦涩难懂", "卡住了", "瓶颈期", 
+        "教程过时", "例子跑不通", "挫败感", "无力感", "转语言困难"
+    ],
+    "other1":[
+        "&[T]","&","AI",".",
+    ],
+
+    # --- RQ2: 工具链支持 (Toolchain Support) ---
+    
+    "Debugging and Analysis": [
+        # --- 英文 ---
+        "debug", "debugging", "debugger", "gdb", "lldb", "breakpoint",
+        "step debugging", "stack trace", "async debugging", "tokio-console",
+        "profiling", "performance", "benchmark", "flamegraph", "memory profiling",
+        "static analysis", "code check", "Miri", "formal verification",
+        "Clippy", "Bench", "Valgrind", "Loom", "Tarpaulin",
+
+        # --- 中文 ---
+        "调试", "断点", "单步调试", "堆栈", "堆栈跟踪", "调用栈",
+        "异步调试", "死锁检测",
+        "性能分析", "基准测试", "跑分", "火焰图", "内存分析", "内存泄漏检测",
+        "静态分析", "代码检查", "形式化验证",
+        "调试器配置", "符号加载慢", "性能开销", "插桩"
+    ],
+
+    "Testing Tools": [
+        # --- 英文 ---
+        "test", "testing", "unit test", "integration test", "cargo test",
+        "test framework", "assert", "property testing", "quickcheck", "proptest",
+        "fuzz testing", "cargo-fuzz", "mocking", "mockall", "test coverage",
+        "tarpaulin", "test stability", "test maintenance", "Mockito", "criterion",
+
+        # --- 中文 ---
+        "测试", "单元测试", "单测", "集成测试", "测试框架",
+        "断言", "属性测试", "模糊测试", "Mock", "模拟对象", "打桩",
+        "测试覆盖率", "覆盖率", "测试稳定性", "测试维护",
+        "集成测试配置", "Mock trait", "模拟特征", "测试隔离", "测试数据准备"
+    ],
+
+    "Build and Deployment": [
+        # --- 英文 ---
+        "build", "cargo build", "time", "build cache", "dependency resolution",
+        "linking", "build script", "package management", "crates.io", "dependency management",
+        "version conflict", "semver", "deployment", "production", "release",
+        "cross platform", "cross compilation", "target", "containerization", "Docker",
+        "CI", "CD", "Workflow", "x86", "wasm",
+
+        # --- 中文 ---
+        "构建", "编译时间", "构建缓存", "依赖解析", "依赖下载",
+        "链接", "构建脚本", "build.rs", "包管理", "依赖管理",
+        "版本冲突", "语义化版本", "部署", "生产环境", "发布",
+        "跨平台", "跨编译", "交叉编译", "目标平台", "容器化", "镜像",
+        "流水线", "持续集成", "持续部署",
+        "构建脚本错误", "target confusion", "WASM体积", "二进制大小", "体积优化", "链接复杂"
+    ],
+    "other2":[
+        "Cargo","Windows",
+    ],
+
+    # --- RQ3: 库与社区生态 (Libraries and Community) ---
+    
+    "Library Ecosystem": [
+        # --- 英文 ---
+        "library", "stability", "maturity", "maintenance activity",
+        "version update", "library selection", "ecosystem", "crates.io",
+        "dependency management", "API design", "usability", "documentation",
+        "examples", "best practices", "community support", "issue response",
+        "libraries", "tokio", "serde", "reqwest", "actix", "diesel", "crates",
+        "Axum", "crate", "std",
+
+        # --- 中文 ---
+        "库", "第三方库", "包", "Crate", "稳定性", "成熟度", "维护", "活跃度",
+        "版本更新", "技术选型", "库的选择", "生态系统", "生态",
+        "API设计", "易用性", "文档质量", "示例代码", "最佳实践",
+        "破坏性更新", "废弃", "不再维护", "烂尾", "坑",
+        "设计不一致", "依赖地狱", "安全漏洞", "甚至没有库", "找不到库", "造轮子"
+    ],
+
+    "Community and Learning": [
+        # --- 英文 ---
+        "community", "forum", "Stack Overflow", "Discord", "GitHub", "discussion",
+        "learning resource", "tutorial", "course", "book", "blog", "article",
+        "RustConf", "meetup", "workshop", "contribution", "open source",
+        "maintainer", "contributor", "code review", "pull request",
+        "resources", "Community", "request", "Book", "Guidance", "Learning",
+
+        # --- 中文 ---
+        "社区", "论坛", "RustCC", "知乎", "贴吧", "讨论",
+        "学习资源", "教程", "课程", "书籍", "博客", "文章",
+        "会议", "聚会", "贡献", "开源",
+        "维护者", "贡献者", "代码审查", "Code Review", "PR", "提Issue",
+        "回复慢", "没人理", "缺少导师", "大牛", "大佬",
+        "社区氛围", "戾气", "不友好", "甚至喷人", "劝退言论",
+        "贡献门槛", "RFC流程", "治理", "接纳新人"
+    ],
+    "other3":[],
+}

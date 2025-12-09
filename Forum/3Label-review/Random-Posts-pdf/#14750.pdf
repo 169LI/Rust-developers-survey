@@ -1,0 +1,220 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 5 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/mrborrowck)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 741.3646 68.51146 752.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/vitalyd)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 309.3646 50.60146 320.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/cannot-borrow-mutable-self-when-accessing-disjoint-fields/40356)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 191.5146 120.049 202.7646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/cannot-borrow-mutable-self-when-accessing-disjoint-fields/40356)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 180.2646 126.7165 191.5146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/mutable-references/43778)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 157.7646 92.53896 169.0146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/how-to-work-around-multiple-mutable-borrow-of-self/27344)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 135.2646 122.959 146.5146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/how-to-work-around-multiple-mutable-borrow-of-self/27344)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 124.0146 109.2115 135.2646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/cannot-split-mutable-borrows-of-struct-fields-in-poll-flush-implementation/126455)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 101.5146 133.804 112.7646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/cannot-split-mutable-borrows-of-struct-fields-in-poll-flush-implementation/126455)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 90.26456 107.959 101.5146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/cannot-split-mutable-borrows-of-struct-fields-in-poll-flush-implementation/126455)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 79.01456 79.19646 90.26456 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/mutability-issue/9205)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 67.76456 79.60896 79.01456 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/Annots [ 4 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 
+  15 0 R ] /Contents 26 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 25 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.discourse.org)
+>> /Border [ 0 0 0 ] /Rect [ 71.03146 758.9708 104.369 770.2208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/Annots [ 17 0 R ] /Contents 27 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 25 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+19 0 obj
+<<
+/Outlines 21 0 R /PageMode /UseNone /Pages 25 0 R /Type /Catalog
+>>
+endobj
+20 0 obj
+<<
+/Author () /CreationDate (D:20251207211034+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20251207211034+08'00') /Producer (xhtml2pdf <https://github.com/xhtml2pdf/xhtml2pdf/>) 
+  /Subject () /Title (Annotate function to allow mutable borrows of disjoint fields - help - The Rust Programming Language Forum) /Trapped /False
+>>
+endobj
+21 0 obj
+<<
+/Count 3 /First 22 0 R /Last 22 0 R /Type /Outlines
+>>
+endobj
+22 0 obj
+<<
+/Count -1 /Dest [ 16 0 R /Fit ] /First 23 0 R /Last 23 0 R /Parent 21 0 R /Title (Annotate function to allow mutable borrows of disjoint fields )
+>>
+endobj
+23 0 obj
+<<
+/Count -1 /Dest [ 16 0 R /Fit ] /First 24 0 R /Last 24 0 R /Parent 22 0 R /Title (Related topics )
+>>
+endobj
+24 0 obj
+<<
+/Dest [ 16 0 R /Fit ] /Parent 23 0 R /Title (Related topics )
+>>
+endobj
+25 0 obj
+<<
+/Count 2 /Kids [ 16 0 R 18 0 R ] /Type /Pages
+>>
+endobj
+26 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2566
+>>
+stream
+Gb!;fflH+2(4GpYi+Yg*fOt?EW``5jD*"Xk<SGjE9=lR&.7cqP7730=dObD^(F2E]11`b7R7c3[&Hi.(gl&ca!$]L8Io:d:.7.Ced&V'k+r&9;Lq))+Za].fg"!j?hSFuSX_ETZlao=f*=(&L1$IA=9[F5_C2i)b69V]iC7a5[m4*a?O'OCI4Hq&,HlN\GDQ=EBdhRBU*NfBt^5$=IP[G=7i+RWAp,'X`;6`NQfn2Q!Pq(1B7D:<tR`]H'hXYJcnYJM.k!bPaL1\3O4WN8[bs'a2]rM<`2_88H:s:=%%Z(u*/>V7=GTd9JQlgm,1lAO#\nkIB6pTa>6CG`+)*R>?A1K"Wc^<:@+mSAEb=c.K[&C:?P^/#+*:Y;rf-manI\-mfT,0r1<[_=J\Q$?+1+Ua=MI`m8:kBWq57GX/F6qnQR,J:4XNj)W4RB?]d'Euks)RaGdEG2[BZ`"p?]/$^pS'ps\OP'l_)7+I?FYS!l_YFaHB_P>q<=,;*s";-6Fs@5f%4u<:788J>&BHf2j`95F%,Jui:C`Zk)J'PCUk.ZCs%5bSpXZmFDmplOVc%9O$%l-gPNecZ1lhC2uKSfkS`ihbf_1dDe5+0Hs\Jn-I)K2RL;LaUR;b:ipJUtl=T8Q17q<[KrU<a5i.Ot^'[)p"o>cfL5'9*M$!.!BsBiXjSsB4XHaO`RAs.nTdt2]GZpOO;CVE[Z)>p+P]0L_k:WrE-,L?,oP<7^`F_#IQ)tG.d`"H<NGmV/9uro0Ae.cW'oC.f;6eE)7l?V1B1RNDh"6uho3@XtOM[XR@3d`.#)Z-.l"bX'/a(SsS?A_f?tFQ9ThGt!F^l7SlZoPq&MVhcqnU_a=SJi:A"hCY/-$[Y*NYr^\.FEqHo_VCNEBf4q4jon;!(2;HS41Z8/Ur_&DScW,q9D4jH?E\X=![kVbd]+.hL#bB[&In0A_lR)Ing`9V1=7hO"tPEYs_$8-^\F4#g&QW3#%0(Js]Di_$7egB']Ko+9`9QrcnQ68(i<SfoCJ1Dld#BfP)PF%ab$daS7J'^18S7oi=P*!LeVV^i(sLEp5%D%SK<r%>OXaWDD>e;?Ht+R-lBD]C]n5+$%KY"d"H>W&?:Wda2dR9rW`2%r6e<&<k2_Q3a<0`u3_`F]Kq,3!3YR>QWGHo&hE<=uu<\]f#dVM+eE_N"eOs6]phXCDJV]keN-2o?`&F%g"Kk&POLS_:G\+U_jrBuouPCcRR:W\CPULY(@0@uU;Kn,LE(HKgAP52q([rq7UgjD3oRQ^T-cK+We'&Y(RuH-D?T'I'jY1[:o=;TF#<\8rLdPhFK`S6('b3&b_VL%m(fb'[DVG5&SCaclKEnf`VAb/ZsS)_@$:-IRI919//q^/O`&Q9<hWcLC`i)0)P'>JZ577ARYMM3YZ51(*/OAhs[AcPBnk<<a-ofei?nN`)lRQ9V(AH%C"l@P*-oVYj:6=k9)UW$Y[aZ7JG!d;+FoH%csi>h=XLb9A_JIn2$l_m:Ui-!X`_ILoZ<4Q]3:c&95<4u>C/gH=VZ>Jg[\p)3F=MZi9@>Mo*F1.F(EC)**,CK%V26#XNAM]BHt\Lni)DC@2p?43a5ieD^o/QXj,!h#6M'VIhh&[Zf=$C%5!:iM%dX0!5&67`*IYbh1Z\rGQ2L)4[f<X:#VEMR+p'4)fd=GXJo-K:7YQJQYBkL/(*Pr0Bk*3j8i((F'T5^2A=)@aZ]4*1`_1""d6"O(osMHn9U)O*`G_uZc!4P>a<[67r=l4YMuSM0ZW]'F.f(pZ!];ht&2D>!0L*.!0'Tl)dWCRIB:nk@65($EU'Gt9ujNtWA@&>XqA&p[M#DoF2g4&`XDq]::0.)Wu_r/5\hWMM6I+iRXXFkQ)+!2KuW2"^aiFie$:(YF7c%A"*pA^a^mYO_dbn,[Y9`rR*(&I]t)R`$$T-piip8uKZ2h:sWR7c6g'GQ7<f&6tf/UslO4o[9<:FpE\+4P-jD:(f\?r)ng?F&*5'"**Bi27`V)KEh\S7Q;_?:4NFp]Os7BVZCOBq6>J'Kp;*]GepYk`*L:u&&n8X:`uLc)g)ADoEO+T#I',4m'a<1D[s#Y*!Znt#D7rujVISXlVfmfEIuA%c6qj0Ob`nA6hV*r[Ioju0n_Bjop67fr$5<SZf[r/3_`!QG`3`7)PHtQbf)b+3KJkh/a^N6lj]bo12kc3YaEMoONiqdY**[Z4#)6bU4<15\^#;(SD]L#'c6[/qP;ZsSn!Q"eg![P5_pN83ojrsRe5^n]+;emL0W+60g1c9kfIq'qDd3_RKHafT\.dXj,Q8U%\e$WfE6,b0l4PgZa&k_N@J&ZPQS[$lPs&m729_Y.$Cgac]dGQ78g+?Y)WF[O%;]?EkS&/h-\fZFN`6D`e+gB_pJ5&GSknf)oNZ/2iM@i?g':fmh3(l6"g4ofU`6;h&r[r]0gD$>&G>HkWeW0VAIKugaJ%L0pQ7r^%7Ug;34-bCVXdV"nFh&.UGBKBo(Yc!ZptT_fafVg7)Sul`]'4l__8J0HArUlp6UfoFC?+#Eq4^1riCBB@+:14nO2@X7,;h;hV$Yj[m=Y4?_hukj&0d24_G~>endstream
+endobj
+27 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 415
+>>
+stream
+Gb!$B:JZU.&B4*cMKc-kf,`LTl.(8XN!F.mkQU1YXslejQMBiQ^_"r$RV35V"qkN\k.US%+E2P'IA[s%X`8JZ+<Pn1&kkPTi_FhBhUF^\SaAou&>9@AER+K%&@gH12;s_0LhfMoJmqS*TsIcc1"f*VS,U&``U`N;k_56^K77UK0Z=.b-#0XLr&jN#+CZr;1*IkgO[6K@1l/4e)nP:^HUlni;]Id\&f^A1\2)7?Ybl4goWFk5)aDf;c#c/n'e./A8J2A5(`e=VA7Oe7A_2FkUB7;fEe?]t`kFLZ#&."H-1V4OVV'VPr/]>+"<%-IBR=A-jE=oj[$$CFLOU9BqnO6>Vn=pAR3VMq5AQ&6es:$a.EWY8UC/?EXK]+0G'13p?L\SFj&oR<pBkLQ-S$ukCNaF.qZ:g[#TN~>endstream
+endobj
+xref
+0 28
+0000000000 65535 f 
+0000000073 00000 n 
+0000000124 00000 n 
+0000000231 00000 n 
+0000000343 00000 n 
+0000000535 00000 n 
+0000000640 00000 n 
+0000000829 00000 n 
+0000001073 00000 n 
+0000001318 00000 n 
+0000001524 00000 n 
+0000001762 00000 n 
+0000002001 00000 n 
+0000002264 00000 n 
+0000002527 00000 n 
+0000002791 00000 n 
+0000002995 00000 n 
+0000003288 00000 n 
+0000003465 00000 n 
+0000003690 00000 n 
+0000003777 00000 n 
+0000004136 00000 n 
+0000004210 00000 n 
+0000004378 00000 n 
+0000004499 00000 n 
+0000004583 00000 n 
+0000004651 00000 n 
+0000007309 00000 n 
+trailer
+<<
+/ID 
+[<aaf1b91037a858ced6fb624953c2e59a><aaf1b91037a858ced6fb624953c2e59a>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 20 0 R
+/Root 19 0 R
+/Size 28
+>>
+startxref
+7815
+%%EOF

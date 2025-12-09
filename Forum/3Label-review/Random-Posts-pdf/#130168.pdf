@@ -1,0 +1,304 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 5 0 R /F4 6 0 R /F5 9 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/one_noob)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 741.3646 62.70646 752.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /ZapfDingbats /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/kpreid)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 582.1146 49.76896 593.3646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/rust-lang/rustup/blob/master/CHANGELOG.md#1282---2025-05-05)
+>> /Border [ 0 0 0 ] /Rect [ 97.29646 529.3646 131.9015 540.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F5 /Subtype /Type1 /Type /Font
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://rust-lang.github.io/rustup/overrides.html)
+>> /Border [ 0 0 0 ] /Rect [ 200.249 497.3646 348.644 508.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/stonerfish)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 452.1146 61.85896 463.3646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://rust-lang.github.io/rustup/overrides.html#channel)
+>> /Border [ 0 0 0 ] /Rect [ 381.164 397.3646 407.429 408.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/one_noob)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 301.1146 62.70646 312.3646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/one_noob)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 195.6146 62.70646 206.8646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://rust-lang.github.io/rustup/overrides.html#channel)
+>> /Border [ 0 0 0 ] /Rect [ 392.414 161.6146 418.679 172.8646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/system)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 120.1146 53.09896 131.3646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/cant-update-toolchain/131745)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 45.51456 102.739 56.76456 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/Annots [ 4 0 R 7 0 R 8 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 
+  17 0 R ] /Contents 37 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 36 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/why-does-it-install-another-1-87-0-when-the-stable-1-87-0-toolchain-is-already-installed/130522)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 807.2208 116.299 818.4708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/why-does-it-install-another-1-87-0-when-the-stable-1-87-0-toolchain-is-already-installed/130522)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 795.9708 129.6565 807.2208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/why-does-it-install-another-1-87-0-when-the-stable-1-87-0-toolchain-is-already-installed/130522)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 784.7208 126.304 795.9708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/how-to-install-older-version-toolchain/43223)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 762.2208 117.9565 773.4708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/how-to-install-older-version-toolchain/43223)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 750.9708 62.53146 762.2208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/rustup-1-5-0-released/11529)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 728.4708 101.719 739.7208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+25 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/toolchain-overrides-are-not-being-considered-on-apple-silicon/90532)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 705.9708 119.2165 717.2208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+26 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/toolchain-overrides-are-not-being-considered-on-apple-silicon/90532)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 694.7208 117.1465 705.9708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+27 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/toolchain-overrides-are-not-being-considered-on-apple-silicon/90532)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 683.4708 50.43396 694.7208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+28 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.discourse.org)
+>> /Border [ 0 0 0 ] /Rect [ 71.03146 599.4708 104.369 610.7208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+29 0 obj
+<<
+/Annots [ 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R ] /Contents 38 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 36 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+30 0 obj
+<<
+/Outlines 32 0 R /PageMode /UseNone /Pages 36 0 R /Type /Catalog
+>>
+endobj
+31 0 obj
+<<
+/Author () /CreationDate (D:20251207211027+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20251207211027+08'00') /Producer (xhtml2pdf <https://github.com/xhtml2pdf/xhtml2pdf/>) 
+  /Subject () /Title (Is it normal behavior that the ```rustup toolchain list``` command will download and install toolchains? - help - The Rust Programming Language Forum) /Trapped /False
+>>
+endobj
+32 0 obj
+<<
+/Count 3 /First 33 0 R /Last 33 0 R /Type /Outlines
+>>
+endobj
+33 0 obj
+<<
+/Count -1 /Dest [ 18 0 R /Fit ] /First 34 0 R /Last 34 0 R /Parent 32 0 R /Title (Is it normal behavior that the ```rustup toolchain list``` command will download and install toolchains? )
+>>
+endobj
+34 0 obj
+<<
+/Count -1 /Dest [ 18 0 R /Fit ] /First 35 0 R /Last 35 0 R /Parent 33 0 R /Title (Related topics )
+>>
+endobj
+35 0 obj
+<<
+/Dest [ 18 0 R /Fit ] /Parent 34 0 R /Title (Related topics )
+>>
+endobj
+36 0 obj
+<<
+/Count 2 /Kids [ 18 0 R 29 0 R ] /Type /Pages
+>>
+endobj
+37 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 3036
+>>
+stream
+Gb!SnCQI5[(&^>2K&>Q>Af-Z[F&4^G##-h1[+f,N/f%0dTe4u!7OGem2.$=[?;_;,*^=0s'.fS[Ao()8mc3)Dmj1Da#QKYX4^B9(f.hUMNZ^[9G_V$8I5HD6r\hLdmH+NKOSWi5A*/PqLgn]J1gpgTFtOGM8#d.@H&U)MX`(3i+9-d7iBrG"+H?N17"g7R,4MiTb0a!D+9ZE?MJsO>BFM?_$nHlg<kntG<l4.!@ZEq<Kg6_QD:$$)2)"`FRE7I8cfMh#F+N2IU0N/&`a@L0cd"f95?Yrh35n)J="fFZAe[EK;D3l/9]KFO@LO0[0EM+RO(%/S_0515K#GQ[164F9"!#7T;3T^LbZ^j@l@VQo5uJFjSth-En>Aqpa=OiP?NPZTr4)epPUg:/b,5W=8X*lA^c7d_jc[e$Xg:,[WERJMnJ'Z=9PVIRYaqQH>[T3L`aKjLbMhC>Y5sB3aB'0KcN<I>/#6h9lgSZJPn^u*V'^To7d(qAK:$k@W(2JE']&ZC$C5^V%8dUc3)$mMV`mcf9ZU*$.le]5.5I#0Xd0$f4;A$G&r"Vqe,V*$?$4*lD/>#3liCiI.V/^ub[@?6<U9<>ei[D@UUn#'cgIYB4Q=uh!S+tmgn0UC,?0^d>:L@D?KUCg;?O!>7c`<+pLe9ALQ8WU`,F\KeCLLPeD8D2_fi/7ShdQoO0`A;i^nR\H+)q=,qrXD[H&[(Jj:7XEYV&&p)Z*He3KfFgj\X+r.)L`eo+P%.3@h4QCK&cbkH)_&Vrs\fB]pW4@iq$B?\Bp[;g;YjY+"==W*m'*UI_Zj=6-YruqEu?,%-3F*G7tpR"Ar+$l/n)RM1&kQ"_8lUNeT$>jqEdZ-<e43\\;=tK;rEe\d$S92EUL7]Q*.KO>Ip2#=m0r/%m_&)FE6]9VCI;WKr7,W_&h=R"$Yi)2`;;pJEQDiasX,L%7fMiT>cmpDJ`,%`$Bn2:2D/c.+X#NV`IciX_[uVJ"\a.i?g(:lC[&jB&h@RUm_sY2(=kSM%pXu;Y$BcM=chD36j\l]eP[7_%4K]$RV8lM`Hln$'o''QDJ?">QG9p8Bg:O%#_3_)3;]uU3qN@bnZIhc`SP=.`$@kfkpCSa[Okg!O4tCo:-Ddur!5),R!$qqcVke"3B`UF1;dO4td%)WoHEGPi:lg^1PgN%Hd+a>A6DdB#Z?]T_oee;+&lk_U=]&p$Yh8X[:K\#8gSbbT6I_F+edq*Y@u>en5upk<]"=h)@?"G5p,Y!fKD_f>Q20hd\ud>DA*Ulu(XSk@>mJ8UKTdH56.?+T2)qb3n7hNY&9X6\+!H?[D78/m*On\d7BYdbJ=if9[HMGo_>HWbo0m/8J5@kC+jj2=F8/.g<SCP?\l6Sf3Z_0/+=AtAF#X*jh,%&HnPG\3:\YNtSDDm!Jqtc$YhB(T()p^o(N=tA5js$(3J=g'aaYZI]RC[(f3B#k+9uQ.1?ZXJ\\4N=.b"St]4o10L-_9)ns'6l/B5<DknAdK.e"FM/AsieIBcVN0G+;GQJ+iGaTpd]d=Xi.+[s6=>Hir9P.L5$I)`'2HP5hi[j*tj9EdiU16WHpB^oV7!h_]5gi5oH5^$!4f@PpsH8t,(p%C@5=0]WM\ZLan.UVqgBf03M"Pd9*Nom!km&S3K5X`1LkL[P!n<+)<FpV:^(<4*E,;UGtneEo8YR/*ZQKcBFXA#(a9Y>_uG2d>BL*0pq@chQO&+0[\6g4=MB0h(.TNBmR&?:`NYi3p/DZ:j(cP@!bZa5qebtneSAE`/@cb]h*h7YMHE!5DZ^'`T%F\QEJSjUcPB[453;E#C0<,sUj2RQ?c`>LW:5\<S@K/sB<#1Rtq(+hLbO=QO_[L:>8.#D1l`:qd^;WPI+ja=_q[1&of"rV[<#37(R)r%s@;D#]-(sm).[kS:hBrW[8?06F:\N+M!T2\PXE;BIn&oN48QI/tAfH/)bgH:`S+Ql+lmYsoNY,T!R:]Ge%gRWWgn!!_rad44=NF^?\l$\?`iX8!^Ou;WbdmEWXC:s;c@W4h>MlGQ0+1<#tP.Z!E'ut31G:QJ#QR2gFp(DWL@V[[Z,"E!=*2$3$5_UaJ:cCZ+8uS0Z\l2qZ'rh`0$L[ji$aZlh]l&8Rr_;2o%>M2*s'])ZRKQ\-(,*82s$I*_g(kFiT%[6&+08`.^S%9M&]!iG9mps'rF8EDB2ecYrc43dh0.^aA5StJUZ7;7.BrcGM[./Y09EqHO/T3Lq@uMc"MR?Z;H[Mb58\,.qb+K^dQiJpX`Dr1g!']LClrpg%bj,4d+&[H'CVD2)(fZ_D_<s&)N#&L%_u9VK"p)t74)ZUN3n";jW:C_Ec%&.c%#krh51tDiqJ`"`QYi/lJ<+ApW2I#FgoNGXWW_+(._L\3d<Qh9"EX(q#We8o.mq95-KN><Pe0?Xi`c^&TWA$gI:C8s-#FQmPO[m1+"6]R)*1lU@8=(F5&eem_]=;<+fF)Ka`<:^InR11%r$OYlEHQJM@*-]C:<M>A':WN#mLN`3cnA>pkY!J_7!-SphY33#T<.Iip3i_bkAQ(Kk[<CpXet?*CocPm/hT0B\X][tbb2T+p9@*3*W12RU69YMNOAaVhM/VN.DJ'KW?q83E.-%:#F66d'eF%XP`e^;9#G$h:.=<*PuV/(=oH22<Z.>qZV[@4spg/C:IL>fulE[')XFN"*%#_-nQtYj3NC4b([&!C1s,GK?.ISP^d^mCPeA-@MY:'_Y3FXi)<o@7Mp*ZpHXNh)$dJH1(Tl[]bg1`M+'ZdaQ/653CXnEN[W,*(1j%Z#SK?2;R;-X%fA5?%:u[h2$IkLln`+oPd'Y@$$0d!E.ToMtF/:pOJ>6igBL4GblE0*GEKC6SYFLG3mF8+JR1EGZ&dg*>r;RI/]pthqK1Nb\XkFlqBScV,sjH9"l@;qCS7)kJcerVgjLtK4/luQFl;%Q%>mKbL1-M,T]*jk@)^9,F<.C^O17-,%nT:8%]*t"I=c$L\aT*>R6PRFFS=L^'XQNQ%G/tDsOecrM"?1#aO*HOqF[Wo3S+O$ZEr8Y$Kpfh=]_2h>@f96h9+~>endstream
+endobj
+38 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1126
+>>
+stream
+Gb!;dhfIL2&:WfGfLOXeF]qA&m&*U.gng4FLJ.0]^#[._$LSafZV?hbpU<%g88;$aM5Md2N0.0,Da3We?%]rWNV3$^"n47$5Q3u7!V&*6`>$7?_k6J_^X4oeE,R<p-C%UMZo1TG;USa;k4Ni1(`g9Yg5BWl?un7p_1LJm]E`ulR,JZH!8Gn=ip5^Id=opu$:5EA$:7+HAC1fs0KHTN".Ijo6]Ok"ETE6^'`%`7;0=P'3fI$r.)$qkM@:Lj9`C0:-OR9hhGAS6rQZm"_"cgK*R)2K+>"aZ7@@[(,gM`LS%jOL42c&GN/U*`Y[(E;1]_,Ec0W](r8p^`=F-UaQ:^?a/Ki/US':=2?L@Z=D0OVBW)aK0fC^1khqL_/P9P<j`K;05&U]P-J;%:==k[]J))H<N%$Fi5OC8C\r=IMg+0,LoB0ZaF+sj:+)A%Qer=^#G8;8VBK>O#.F_OoURhPH2+Lh\\;4Y3tP*9Zem?Ob9Y7;Lt$I4=KoZXr]22;dmIDm`d?,K1\'b*OsOKW$h(/!K*fOo7LkLScalJ7L>m3>,<qOWVK7#]q[o1:Fq.`L?h8BsTZ<Jn]1pomn;M@tTD<S.e[9nbW;k;4%>B:Srj124\u1[Zb^[93U;J;R]O1Rf)%hEs-baUnXiJUW.U''K24c0WTaZKNs5J2@/)$e^%I1b.0Y4TiR29&(c8n#.J5p!XDM9g?dj;%NBhSPInkLtnK69l(ZPY\2K"K%7leDIMS&lh"0CnoRX_Cm&"q0".a*;k(?%be,H>3k'2"%R-uGR;FK%BpR'<Fg@LNhf6Z:(]K_c&N'q$.L8o7/p0,^8GgiG9-"M^e](`G4bYKUl2(6"Hd-&<TGUaca4t9ZiS?[@n)6,/]I,D.$?h'pm)8Z'NN'`-T%9^oEM/@%D>!d:j?[DHbY>S5ro."fF*8Y9;4O'<20,J5&&&T6T9@VTI%K'[`Vml>+Et"EH^&,'HkCf[2g!bdWI#7BF?5=]R6gI!(('Rf)&1hQ<Ik)R':[mVZ_o5=KVqk'+Hhd4>&2=h.0iV#2UmD<o<R=>%sZ.g5CQhgs61O\Z0nRcS/*oqabpBDN%\RRl1*mo[9HhD:!4hf-+D!,QDa$]XK2=.S%#!V0_ul8'5;g~>endstream
+endobj
+xref
+0 39
+0000000000 65535 f 
+0000000073 00000 n 
+0000000144 00000 n 
+0000000251 00000 n 
+0000000363 00000 n 
+0000000553 00000 n 
+0000000658 00000 n 
+0000000741 00000 n 
+0000000929 00000 n 
+0000001159 00000 n 
+0000001274 00000 n 
+0000001474 00000 n 
+0000001667 00000 n 
+0000001875 00000 n 
+0000002066 00000 n 
+0000002257 00000 n 
+0000002465 00000 n 
+0000002654 00000 n 
+0000002864 00000 n 
+0000003159 00000 n 
+0000003436 00000 n 
+0000003714 00000 n 
+0000003991 00000 n 
+0000004218 00000 n 
+0000004445 00000 n 
+0000004654 00000 n 
+0000004904 00000 n 
+0000005154 00000 n 
+0000005404 00000 n 
+0000005581 00000 n 
+0000005869 00000 n 
+0000005956 00000 n 
+0000006358 00000 n 
+0000006432 00000 n 
+0000006643 00000 n 
+0000006764 00000 n 
+0000006848 00000 n 
+0000006916 00000 n 
+0000010044 00000 n 
+trailer
+<<
+/ID 
+[<ae4df4c759410240bfb04db56b1ed725><ae4df4c759410240bfb04db56b1ed725>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 31 0 R
+/Root 30 0 R
+/Size 39
+>>
+startxref
+11262
+%%EOF

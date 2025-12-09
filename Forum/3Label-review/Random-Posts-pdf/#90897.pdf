@@ -1,0 +1,257 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 5 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/zwarag)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 741.3646 53.51896 752.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/requesting-a-code-review/90497)
+>> /Border [ 0 0 0 ] /Rect [ 39.77146 654.8646 130.6415 666.1146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=f4efd29681e5aec268f478ada6cd0e09)
+>> /Border [ 0 0 0 ] /Rect [ 39.77146 643.6146 95.21146 654.8646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=24726737fd6d58b43e3c4c9aa6628242)
+>> /Border [ 0 0 0 ] /Rect [ 39.77146 632.3646 95.21146 643.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/quinedot)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 611.6146 58.11646 622.8646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/rust-lang/rust/issues/51545)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 590.8646 213.3515 602.1146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=3e9a9a4e32d80dfdc07a79107db2f68c)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 570.1146 108.7265 581.3646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dystroy.org/blog/how-not-to-learn-rust/)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 520.1146 243.1865 531.3646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://rust-unofficial.github.io/too-many-lists/)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 506.8646 183.554 518.1146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/system)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 480.3646 53.09896 491.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/explicit-lifetime-borrows-indefinitely/63188)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 405.7646 106.6915 417.0146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/explicit-lifetime-borrows-indefinitely/63188)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 394.5146 63.77646 405.7646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/linked-list-loop-until-last-node/83716)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 372.0146 126.3115 383.2646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/borrow-checker-issue-when-returning-from-a-while-let-loop/114279)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 349.5146 121.7065 360.7646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/borrow-checker-issue-when-returning-from-a-while-let-loop/114279)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 338.2646 126.7165 349.5146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/construction-of-a-linked-list-how-to-avoid-the-mess/63969)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 315.7646 135.889 327.0146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/construction-of-a-linked-list-how-to-avoid-the-mess/63969)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 304.5146 91.29396 315.7646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/zipping-together-two-linked-lists/25258)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 281.6396 132.9715 292.8896 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.discourse.org)
+>> /Border [ 0 0 0 ] /Rect [ 71.03146 208.5146 104.369 219.7646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/Annots [ 4 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 
+  15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R ] /Contents 32 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 31 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+25 0 obj
+<<
+/Outlines 27 0 R /PageMode /UseNone /Pages 31 0 R /Type /Catalog
+>>
+endobj
+26 0 obj
+<<
+/Author () /CreationDate (D:20251207211041+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20251207211041+08'00') /Producer (xhtml2pdf <https://github.com/xhtml2pdf/xhtml2pdf/>) 
+  /Subject () /Title (Implementing a Linked List - help - The Rust Programming Language Forum) /Trapped /False
+>>
+endobj
+27 0 obj
+<<
+/Count 3 /First 28 0 R /Last 28 0 R /Type /Outlines
+>>
+endobj
+28 0 obj
+<<
+/Count -1 /Dest [ 24 0 R /Fit ] /First 29 0 R /Last 29 0 R /Parent 27 0 R /Title (Implementing a Linked List )
+>>
+endobj
+29 0 obj
+<<
+/Count -1 /Dest [ 24 0 R /Fit ] /First 30 0 R /Last 30 0 R /Parent 28 0 R /Title (Related topics )
+>>
+endobj
+30 0 obj
+<<
+/Dest [ 24 0 R /Fit ] /Parent 29 0 R /Title (Related topics )
+>>
+endobj
+31 0 obj
+<<
+/Count 1 /Kids [ 24 0 R ] /Type /Pages
+>>
+endobj
+32 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2572
+>>
+stream
+Gb!;f>BAOW(4Q"]^g#;/#:0@Vo?p4D8aD>EgGkXFAt(nJ'I9A!#mMZWC4H1'J>+[)BL?5coo;P."9OAAnsq:"O9^9Rr_ITgIN5-Oh\/C+)UAubZ&cm`khZ$nlbuA=OnET1A*/PqLgn]J1gpg<mT_+&2/--2j=rt'[(L(Uh#;Cm^kWKu5o^%V7tcRU,4MjAb0[$o@"N4iMJsO>BFJ)O#"l[k@5,QLiNV.6k@c\Y#^"g#2>U=R\`S/iM`JB-`Ot/NJ_hp5jPQ[$TD!qN:8%,AN*ma0?loo;(I]#o$6T,_9-P/#pn;pe#)QHL=SWe/8.][j*XPA"9ITM"Pqg'?9KFo-\]0S/p-cU>b=pukW/ZTQh8nSN9]<+R:QWqaE>V4,F9DC7>F9=PZLS.d=b(oYJ9u%@Vo.3fmuhHMh\T[Rrl'#k!"E3Xl;;^2epQK]-.&q:*TRUG`6gWKTD!pGk]>1[Jm?(5;'re*%,eL411!WdT@H9'I"c01_c#1ah&k\c\jiYSk\LB*b'JUgPm^P_"'[VD2+LZKS$[(?W%e(D@/j3%EXEql'p9TK!SZiq=c;bX&H2q5K!"a*qF85=+MtI$FU9lS=el,U$Xj<,364(`-.^"H8g=M?)U4]pXedKsF/WEDB"ieB9iP&d<"$G6WbrX>i&/paDH'Srai^>`1T[i7)#_11?uf?Q]ds;YU'be"9fmugQ:g%?U']Vu*(s:<ap`Nppo6YMbtG0rq,Y;?A]ZgbVj6aIU\^2kY<%E"h>."rf%Fk=M/9V,g_b'b-6hPGAX"uJ>,rs4X[3F,O%A?E:)At)@!#\B@rkKQX)cS7"QTZkEFZF'#Aq8'\q$.u/7iU3,F#$<e2l&.rrJ)qZ9l_t[4HQ*MP<P_=:;Bd&0Ru*!CE(bg_4q"nC]?+;s`j?1d!rq5j7lL%>Z98W:RetP+<m4/Y5!r,.Q?u%0Pp2S!E/sDF;qMA8d-1O<Rr"fJr"?5daJT<d\aP[0HPoRR.2npJNOa#N??jh4rFWgLbgjf;^9sLCQ&:6S9/HJmi@#-q2PA0`SPCKp\mo+jg*M"FB>_?P*)o)3W&H&Fd?kM<qg&<<3s)$FMEYm*[c0-j(#<CEllT9g%_#8@fAsS^>ZR(kduiLY+=RTHG.(jj-7$OAcmUTHG@uMa_h5Jpf=*iUu0(Ku9?f%p09C%)j3Gi/?R#Nu2rGr,I=k1O!9uC/LINrPhu(o!FMh1U;*%`:1*AUA)Og1Pm=!'QA.R(g>mA]U1AmqgIUFG<8.LVQ4?G7'_ZI<3h%;k4OC/:dI2l<0/qc;(BYU1Kian&`E9Eh-\qQ/*ukOcAIAEkpbBeI>TA&O/^`<f,pi(BYJX_\B:%+:tF,OD)/7;[gQ+fJ:9#B-'X(\W:/XK5E6_i`[SX`6d'U".T^Nda<0'80H:8RTNA*n<A!cs!5?U?62cQC@NqMXM9L&mbZW)=SPeLWEi`7i;lDXk+.HG"D(/CfO/B#^M$L0keTBQ;C^P>;b%q7S\H)9Xb?CR(C.u=@9\mgaBiqMEbF-&Ni:d;A!,Yqp[S2:=!<JE.+e$j:*N)(GcWE@2(dHFT*+qIC8thVg7KP:kqb"C6)6[oG"RJ4fO[^M@n!NC=?$,Z[cd%%(B)8hiY(3)_R,*t&SK@Hn2sAKO6i7E<O2BUq\nc,.^t;,J:7Tr5-i9\aAfeb/5UJW6O<edSnePUZ[mAsFrn/>N)7VHlPAm`Y.<X/%Dc"tc]=QcXfu'TrNC=hA_fa',ZUN6I9YQ48)dIHlX3@-P4ab*SWWN#ZK6q#AJC:i;O`?4c]@,H&H-"kG@lnqhI"+9-M_H:aZ2!-^!1ss/g.]d[/T\0LX>dR+a^Q`3Z@IarXdfW,AuJ7];i(HmU=Uo"E/'2jnXqT`VEoC3j`(^:n061*YtajM*tn['Xs`!/L\#NUMn0`#";2Xs2U``h8FB=2"p<11jO\a&),!)Y.+*[X,f3,4*-4'n.MHAcQ)H-HRC*2`Tr-fT#D,G:A82$D%uLH_c3,)!#<F(?1j4&81NN"l9Q\2F$EYgiBE*ep%XK*CLe^]R$,\;V14pm7p7gL`m)O8\FO^kQTM)H3e:/X!9a5B'e_U!:C@1+LR\@H/IImf;oUQ>OQfsYD[QOeKTrUPPl2I>P=(aW/#QIP7AJ/-TrQoc^6U*>&3p_ZE:cW6+*n]`W;=59!SG5n=e(#VFTM;gm/+`7&c+r4[AhS)L67k-f$10C\=0d6XQA_d>iKsuDs0KL_1[Z\gN*MqDHn5Ee\OXg^IlnedS)TUZ@uJOEg(L^mESpA-8;G+M5I)h7'!'PffV)-T<-r-"j0@enegVq:>bQC#%S5g(Y#%5"'5pMQec35$3F"H`Jg&r;iQ'd]>0*rB+s3"&o=]WOI+7ZbB9g*<9j?HK$'&BRP7:(\!Vo3r\`1#a/)AJMNmeOIEUY1"j+fV\IDgGrIXZ%m<'Z7%8O!b,fS`-o(u^-sUISg(U%?E+BqL'mQg#rj[\Kb<)a*sBcjn4b'>VDdcr#<:KFW;&e8"k^[1jN7k%+/SQQcBn<N6sC4j_%/&ktbo,P/M]3+j>_Ic0tu;lXD3,>mr%-4^'9"C:p9aAnQ$~>endstream
+endobj
+xref
+0 33
+0000000000 65535 f 
+0000000073 00000 n 
+0000000124 00000 n 
+0000000231 00000 n 
+0000000343 00000 n 
+0000000531 00000 n 
+0000000636 00000 n 
+0000000848 00000 n 
+0000001104 00000 n 
+0000001360 00000 n 
+0000001550 00000 n 
+0000001749 00000 n 
+0000002006 00000 n 
+0000002206 00000 n 
+0000002407 00000 n 
+0000002596 00000 n 
+0000002823 00000 n 
+0000003050 00000 n 
+0000003271 00000 n 
+0000003518 00000 n 
+0000003765 00000 n 
+0000004004 00000 n 
+0000004244 00000 n 
+0000004466 00000 n 
+0000004643 00000 n 
+0000004992 00000 n 
+0000005079 00000 n 
+0000005403 00000 n 
+0000005477 00000 n 
+0000005610 00000 n 
+0000005731 00000 n 
+0000005815 00000 n 
+0000005876 00000 n 
+trailer
+<<
+/ID 
+[<14ce4bfc90d0434232ce680beb25cd1f><14ce4bfc90d0434232ce680beb25cd1f>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 26 0 R
+/Root 25 0 R
+/Size 33
+>>
+startxref
+8540
+%%EOF

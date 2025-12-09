@@ -1,0 +1,308 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 5 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/Bytekeeper)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 741.3646 67.28146 752.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/mbrubeck)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 234.3646 62.27146 245.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://limpet.net/mbrubeck/2019/02/07/rust-a-unique-perspective.html)
+>> /Border [ 0 0 0 ] /Rect [ 346.769 160.8646 398.8715 172.1146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/Annots [ 4 0 R 6 0 R 7 0 R ] /Contents 37 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 36 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/cannot-borrow-self-as-mutable-more-than-once-in-a-recursive-function/77475)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 727.2208 268.1915 738.4708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/mbrubeck)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 713.9708 62.27146 725.2208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/Bytekeeper)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 647.9708 67.28146 659.2208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/how-to-resolve-error-e0499-cannot-borrow-as-mutable-more-than-once-at-a-time-in-this-case/48815)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 562.1208 126.4615 573.3708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/how-to-resolve-error-e0499-cannot-borrow-as-mutable-more-than-once-at-a-time-in-this-case/48815)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 550.8708 122.974 562.1208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/how-to-resolve-error-e0499-cannot-borrow-as-mutable-more-than-once-at-a-time-in-this-case/48815)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 539.6208 135.6415 550.8708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/how-to-resolve-error-e0499-cannot-borrow-as-mutable-more-than-once-at-a-time-in-this-case/48815)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 528.3708 44.18646 539.6208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/why-cant-i-call-a-function-which-accept-a-param-with-type-a-mut-a-a-twice/86664)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 505.8708 134.404 517.1208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/why-cant-i-call-a-function-which-accept-a-param-with-type-a-mut-a-a-twice/86664)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 494.6208 124.4065 505.8708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/why-cant-i-call-a-function-which-accept-a-param-with-type-a-mut-a-a-twice/86664)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 483.3708 85.63896 494.6208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/when-a-self-bind-a-lifetime-not-support-mutable-more-than-once-at-a-time/37203)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 460.8708 130.2415 472.1208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/when-a-self-bind-a-lifetime-not-support-mutable-more-than-once-at-a-time/37203)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 449.6208 130.4815 460.8708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/when-a-self-bind-a-lifetime-not-support-mutable-more-than-once-at-a-time/37203)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 438.3708 77.53896 449.6208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/cannot-borrow-self-as-mutable-more-than-once-at-a-time-for-the-nth-time-i-know/110647)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 427.1208 109.204 438.3708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/cannot-borrow-self-as-mutable-more-than-once-at-a-time-for-the-nth-time-i-know/110647)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 415.8708 123.814 427.1208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/cannot-borrow-self-as-mutable-more-than-once-at-a-time-for-the-nth-time-i-know/110647)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 404.6208 126.724 415.8708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+25 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/passing-a-mutable-self-reference-to-a-mutable-function-of-a-struct-member/136340)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 382.1208 103.7965 393.3708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+26 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/passing-a-mutable-self-reference-to-a-mutable-function-of-a-struct-member/136340)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 370.8708 131.734 382.1208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+27 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/passing-a-mutable-self-reference-to-a-mutable-function-of-a-struct-member/136340)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 359.6208 90.86646 370.8708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+28 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.discourse.org)
+>> /Border [ 0 0 0 ] /Rect [ 71.03146 275.6208 104.369 286.8708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+29 0 obj
+<<
+/Annots [ 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 
+  19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R ] /Contents 38 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 36 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+30 0 obj
+<<
+/Outlines 32 0 R /PageMode /UseNone /Pages 36 0 R /Type /Catalog
+>>
+endobj
+31 0 obj
+<<
+/Author () /CreationDate (D:20251207211035+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20251207211035+08'00') /Producer (xhtml2pdf <https://github.com/xhtml2pdf/xhtml2pdf/>) 
+  /Subject () /Title (Cannot borrow as mutable more than once when calling &'a mut self method - help - The Rust Programming Language Forum) /Trapped /False
+>>
+endobj
+32 0 obj
+<<
+/Count 3 /First 33 0 R /Last 33 0 R /Type /Outlines
+>>
+endobj
+33 0 obj
+<<
+/Count -1 /Dest [ 8 0 R /Fit ] /First 34 0 R /Last 34 0 R /Parent 32 0 R /Title (Cannot borrow as mutable more than once when calling &'a mut self method )
+>>
+endobj
+34 0 obj
+<<
+/Count -1 /Dest [ 29 0 R /Fit ] /First 35 0 R /Last 35 0 R /Parent 33 0 R /Title (Related topics )
+>>
+endobj
+35 0 obj
+<<
+/Dest [ 29 0 R /Fit ] /Parent 34 0 R /Title (Related topics )
+>>
+endobj
+36 0 obj
+<<
+/Count 2 /Kids [ 8 0 R 29 0 R ] /Type /Pages
+>>
+endobj
+37 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1802
+>>
+stream
+Gb!kt=c_;q&:WMD1!N):.D2a\_igOu^i#8K!E-9rNV4Nb,.(%ulKW=:C)s4oJ+$5)+\FrZ[?EcgHVbWC_`>FKcB*X/5IC2-_uM^uq!L-GC;O?ee0['^?Ga%b`VYQppd^[W9oiD"cgH?s(rZ%u$eJEC;n/PJKt)k+9aBesjd4R`?R5En,IZXC%`CW7*cWVmY"00&IXsi4[9P?SH4C@&.OE.B`DH]J`)./5PJdSbK.2T-Gp_K/O\Q%;j"Qn:99r7l2W=-f'm]][#(IF>%(--@h^ZTO'oK]YY+FsJ`%pjkQ[6A]H)=YEcQfBNealX&bOp[*qRm??Tcc2u2(c]qFEE?!d?U/tqIV1WBWD'MOsH;H9SH%#^bU^eabCC_3#*FoPU2D<!JgK8-P3L1;Pn\DB]$@2C,TTb)FMa11`\`p.^hinSkC0nFISf<j\m5F*[&/X&DK63HHRVKFh73($d%isT5gRjd",Pk#c?O%_)/+J"g:_8)0.7)[8G;T=t7%-dK/SG9)!(./42&6!.X#4i[IE^&WG?Dk+S<2OdMt!M`Am>$oo!_LR=8l&#Dh[`FTGba]U51=r6Z0-<pV)7mRmLO'p*6n$gj)VIiJGrnj;(0:S>s*6YG\fkU@DP9LNJR6R>aY05f$<Dk9d+14-/X<"u$l,0a/]ft#8/ZG,>[.g'X+h%,+gHTqU$+kVT)bkt0*hCWHmF:G;>MSSl]!esgL%-^/@Cie4GFW?M+)X0\fNFaV[ni%=ESmGaOaAk,Zfu?&1;&&+oFT'&$1!VMBc"*0\a:@eE5^jE,7Luh*tGl1/bVKLl9"Ihl1#8BNo$SWJaM._qL#Ff*Xp_M6S4hsH19(J[g+o7p&H<Z'OZrn=$bi>UWE!Ted?8SU>m^/@pSYG4<R(<DRM_Oc(<fjWipLY;8XcafB+J2e:$r4Y^QPRNf12PcuE,d%iX[QH`&qaWs=G1UidRkeJ^^gfG[$jgH*r7@4&mZ2_fN!<K;Bc+7V<:,3t_Ahq<k8:E*i5es7t+K'Zl!ZtFNX]o>CA23LeR``kQj#!jk`n#._?U9"7Mlh]3NG^MOSO0\]_&nZU&9MNiOffikcg&J-%H,`@d`As=>D!YG2ec$(N\>inE0FT8OnrFk;4sKJDFtN;BO%,tQQ)(h)foj']f>2>qEERJRf^;.)(Ge&Eiq[+7Rsa]>07%fmjAbP0<)#TtSj-D[fIEYYf&m&tS^nCB`&CK\LuY2MLHN'sjPJK!Rhk_8Am=r,htpUU0Q2:+6doi4]aIASa0Xo[k!`!s6W^\HTgD2V^'9bT2SX-I?8aJk`i;<Va]Qb1$HHBl9Bn-$&Hs7$Idg=[E&o%i,7'Ja*$N8?je@>3J`6a('S7h\X(EGnR]S^$M:,q?@TkCqbTNH(lQ&id:gI'QdN%`Z^Qdi7OA/XsYG1M-pT@%#-5\b#l1.cpZZY4o?)Qf/JEHm?IIc&0Y#`-df(#)G(3PIN+r*W"=9^EZK2.]-_Y:u>\B^=/0CR;NS0qSGF`dr2'$-:+I9o2Va:qpk"=6]1L&]\.KX\NH6B>Wi-!)ntGg$8H^;j3^:(q44Lsk36X%ogq&I%u,B##&t$=8;A9^mBt/0nIcMJ*`Tk7GLYNT:P#]7@4Vlf:Z4o*_u,^Esr_C]R5*3>t[GDrf9D8q$tb0iOOtD936jq=l<Y79_N8>$A1*.`7W*nsK",P_j.^Wgk4m)l]XL)LcTFZ^._$DX>)h5CYcSp5%*Gi6fPj#g6)[+.uL.rM=Y/<kg.)D4XM6<SR#reT7@%[s!jYXX1.pBdN[EDV_\C[u."Gf;5Lb"tolYHB:p9~>endstream
+endobj
+38 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2165
+>>
+stream
+Gb!;f=``=U&:XAWf]8`l1H%jUGM6aY<tf5p:@)ZJLT8g"'PsK*Tobo]9rJ$)$dtb?>Eg8PC(kr);RlL1O)Gh-;_[^-Q@Hdhi-?EYrJ:Sed(]Ws&I\I(i)Tg@e'S>Jkj<'G&^tbO#@-"1bVr7dgZYMR7]R<a)CB#Rbd?gM!3J!/-F$9]m`.RA;)dqTSd@$S'gADjc*!`fi^n4nrP,$"I<@O[Wp:2G"ffa%NA5oA^\+5KmHr(sde`fcd&V&uBeOnhSb)&[E3dAkem6e"A4hSjQDLoPj$F6%K+g!ho'rC<)\,WWdsB/$G=PXBl5!BL;6'Vi_Z3AgfTqNuZkVg=cag)WH=*cghME2cJ@,ssURK2)oj#3p9(9hDQL24@`5#'-Ga;XE7.=VXfX->1,"Rkr6DYRppdAiV,6U$"P(I,\+\jg'EZ??d-6WVV5QDZ4M_#ZC%Tc(38s*-i<XV8f!es2R/T#T#^gtArq[4MfB#Tje2shXXi9)3ja'bM@1T5d1hG\#^n=dE#G$IOYHQ?]gI6sofh45WX&HnkkdZHXlqRP_pc[t?p6BQsj'P+/G/"U`[?Of@W!i=q`gGUL4#]c=JTe%tLO4k(/Ag4mU6Q"m_i\Z;2,+$>1aSCKV50kO9:Wo$_+ISRe0Zhc//;Reu>_D+r3"_d?C:W%sK4.qS#c=R<WDRqlnngKL9T^1&jO'K2$X&tI&+@o+`V-ZOQh]_BpAB:jq$lL#So(iJS"W8Tg)Hj-Iq-lS,b#a?VZfb>2Fequa,clMF,=78MWQJ1!f+iOLKQ<do;*=a5Y(t&dE[E`^)RcGMr;C,k;cr69f!Y4;QWhB,G+!pRB]p$%2e=^L,!uX%!jlu[IVWVI0?/Ri:9/Jc"h*49Gco:b54HbJ72/RTVuJ^Y-hTj2r/gi`9F/<8hi(fDoKf%RC:(ZaeM+q5\)nf@BL!\ZqOrZ>$e:R[)fY61=ouXVR;)r:nt.P<,#OF(YT7D`[?)@CG9SjO.*Mn<nN/\b[N5<m?q6aUGfptd<uQE`2:8NL%(7$,/Njs`n&oTN$^=e[<uUO.5IbL`Ere@j\70^Ap,<(9EUpJlmYAeR`s;Jp^FKdWK?_K(`SZ#5iTg?2PP!W0;_UjW!M&M8q*dE'E`R'@LhpHC"p+Q_sjgH=u-U>dCjrF2-^Pqp9JDW1olWK381_(n+T/%kn@\m_cAMO%AnFtO61/08_dg9a^=c=/&UrV5G$F7(Ud4/6:`=QX9[QQ&!6uLHOqo]X>1B`l+F9+cF)+hr&>`1i-*7Z#g+>*D`T1UlNL4G)\[)48u4/ZAZ9#h\so%fO,`!C*ab#b!ATtEB5E)qo@X.Q]]:5sLHG\(Wg&7?`me,$VD.9Rb-^XE\&2EnB5VF*%5+:X-N3Z3ADlK)B1j_Y'n<GF-E]\HNfF&s<f)9GXKn?M:kso(<!Tb7#fk*k4q.6T3VXl8<$,^=NiOBj]96"=!bPg\'b$0[&b7$QT`VTuYE]GKDE.rB!2e!ELBQRS3^>7,i.*M]ZOQM!-<P[e?c`GpmUcNMb>b3)"I+01%S6\5o]ESRJVE9e#@W5;QmYO60$=AO'R7D"n0ED#q\[oC[!$GS)s"t+SZ(rmMs=1,XPhJ9*b66AK'5;Ci@nAoXmJ?.6h+uUM$U&pAK^YKL[3TQ%aluunI0QAgHLLh[N'Kqn%l*_FP"J:?17$XUc)`BWf!fsNd?Y)'$R^_btXHF&f"iUVK97=db,C5e+u*MVM!*l&aX`42-k\r+9ptH.O!FCIR"TcMeKh\QE-jfb2"YY.qdEWVCm(:;<g5r8s>Y!f&#gK@^H#]rI'djWeMPDO\^7LmDX4]?(J9f@p1NYb2@Mu]iFG4ipne0Kn#^4`)&\jX)rFJ*6boO"k7*c59'lBptB0TE%$0,Vl_37C<<Ptola`Xkc>Q[Ge0c*^%qn%"08W0f75qEH3<HD-$[A7d]b5f1u>+.n(k/PX5TMN<8OFUIcY;n)cWoRk'bAO-Q<HFTarE<(P1Z!BsssbD^Q^hE9E.d*m5^epE9$P?&0)R7'__uQu=h<`I(8JEEqM(UA%#GW6_e0#7Q;.GW$;q%\D79e*6so^Xgb4mb+=J"3jPMSmnq;ro9Z7pA8sOeXO_?*9t4<U3J-X0J0TBFn4B<%!aI6.ejG8Q$'RF_)1ouAmus8-Ru_FXlOXbqA2fj2[T~>endstream
+endobj
+xref
+0 39
+0000000000 65535 f 
+0000000073 00000 n 
+0000000124 00000 n 
+0000000231 00000 n 
+0000000343 00000 n 
+0000000535 00000 n 
+0000000640 00000 n 
+0000000830 00000 n 
+0000001050 00000 n 
+0000001285 00000 n 
+0000001541 00000 n 
+0000001732 00000 n 
+0000001925 00000 n 
+0000002203 00000 n 
+0000002480 00000 n 
+0000002758 00000 n 
+0000003036 00000 n 
+0000003297 00000 n 
+0000003559 00000 n 
+0000003821 00000 n 
+0000004082 00000 n 
+0000004343 00000 n 
+0000004604 00000 n 
+0000004871 00000 n 
+0000005138 00000 n 
+0000005405 00000 n 
+0000005668 00000 n 
+0000005930 00000 n 
+0000006193 00000 n 
+0000006370 00000 n 
+0000006730 00000 n 
+0000006817 00000 n 
+0000007187 00000 n 
+0000007261 00000 n 
+0000007439 00000 n 
+0000007560 00000 n 
+0000007644 00000 n 
+0000007711 00000 n 
+0000009605 00000 n 
+trailer
+<<
+/ID 
+[<18689c9ce1dea33523e28967b651fde4><18689c9ce1dea33523e28967b651fde4>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 31 0 R
+/Root 30 0 R
+/Size 39
+>>
+startxref
+11862
+%%EOF

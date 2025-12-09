@@ -1,0 +1,301 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 5 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/sahilmaddi)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 741.3646 65.18896 752.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/Kyllingene)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 667.8646 63.94396 679.1146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/sfackler)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 613.1146 55.18396 624.3646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/binarycat)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 558.3646 59.77396 569.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/collinvandyck)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 503.6146 73.94146 514.8646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/scottmcm)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 448.8646 61.43146 460.1146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/jumpnbrownweasel)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 352.6146 93.53146 363.8646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://doc.rust-lang.org/book/ch03-02-data-types.html#integer-types)
+>> /Border [ 0 0 0 ] /Rect [ 62.69146 297.8646 182.339 309.1146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/ZiCog)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 245.1146 49.34896 256.3646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/RustyJoeM)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 147.1146 66.85396 158.3646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/Kyllingene)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 69.86456 63.94396 81.11456 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/Annots [ 4 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 
+  15 0 R ] /Contents 36 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 35 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/Jesper)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 806.2208 51.85396 817.4708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://docs.rs/num-bigint/latest/num_bigint/)
+>> /Border [ 0 0 0 ] /Rect [ 247.7915 719.4708 284.474 730.7208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/system)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 698.7208 53.09896 709.9708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/use-of-integer-types-in-practice/54213)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 624.1208 131.3065 635.3708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/simple-questions-on-integers/39826)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 601.6208 124.639 612.8708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/native-integer-type/109990)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 579.1208 100.369 590.3708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/whether-to-use-type-isize-or-i32-fsize-or-f64-usize-or-u32/86303)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 556.6208 135.4765 567.8708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/whether-to-use-type-isize-or-i32-fsize-or-f64-usize-or-u32/86303)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 545.3708 110.0515 556.6208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+25 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/integer-type-default-integer-type-methods/41609)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 522.8708 135.8965 534.1208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+26 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/integer-type-default-integer-type-methods/41609)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 511.6208 80.44896 522.8708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+27 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.discourse.org)
+>> /Border [ 0 0 0 ] /Rect [ 71.03146 427.6208 104.369 438.8708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+28 0 obj
+<<
+/Annots [ 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 
+  27 0 R ] /Contents 37 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 35 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+29 0 obj
+<<
+/Outlines 31 0 R /PageMode /UseNone /Pages 35 0 R /Type /Catalog
+>>
+endobj
+30 0 obj
+<<
+/Author () /CreationDate (D:20251207211024+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20251207211024+08'00') /Producer (xhtml2pdf <https://github.com/xhtml2pdf/xhtml2pdf/>) 
+  /Subject () /Title (The confusion for newcomers with Rust Developement given they have worked in other languages - help - The Rust Programming Language Forum) /Trapped /False
+>>
+endobj
+31 0 obj
+<<
+/Count 3 /First 32 0 R /Last 32 0 R /Type /Outlines
+>>
+endobj
+32 0 obj
+<<
+/Count -1 /Dest [ 16 0 R /Fit ] /First 33 0 R /Last 33 0 R /Parent 31 0 R /Title (The confusion for newcomers with Rust Developement given they have worked in other languages )
+>>
+endobj
+33 0 obj
+<<
+/Count -1 /Dest [ 28 0 R /Fit ] /First 34 0 R /Last 34 0 R /Parent 32 0 R /Title (Related topics )
+>>
+endobj
+34 0 obj
+<<
+/Dest [ 28 0 R /Fit ] /Parent 33 0 R /Title (Related topics )
+>>
+endobj
+35 0 obj
+<<
+/Count 2 /Kids [ 16 0 R 28 0 R ] /Type /Pages
+>>
+endobj
+36 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2657
+>>
+stream
+Gau`VD0+Gi')q<+Z'-ha>D;%J.,T,-M;-lHQ^]gk3g[J#bRHs,,%;0m$.+Rtf68$q.*Jo3fWogeZ%iMaE-Lj=gOfXej1iD/c>.qh;g@tV!'pn>3<ZT'_t4uI1d1[5j9,Aale,_/7<'6DOSQU,:8/$GhKU'VbFfsI`dSVT#qSmK2o#@j7,gT!`CVs_TS=R]]lAR`S"U0QStHY2+P58hdKHF,2=PQ4'Scf2HO39r:ML\b2D$reg1^Z(Zte!o\e];en!I@%Cr,(CeTUUE0`>H^pp:+"hi_FjXC<:><c:)1]dUgSqp_*oUFaW,X-\+1;3XgP^Gnm"e.:U,fUd\Gmfd.\7om[K9<qs#Ak;A7ZHAc=\WZPZ$RK5a>*+-"X.$L9QGSm"*Id)$]M]3B\MUN%f3EnVq$K`;c!dU*.pdafTQ%,hC2GBt"<5=JQY,:9kn&Zak5[chX6'`:7u8$P#=spAZT('PI*G8\eZ:1;XqGC:QH>/p.gRIH#lQHnhriC?iJ)NQMirPMW9!Yd(SVQr#l[e[?IhaU/R`S>H^GZSS`V&hE!.AE/QN6C(Qt:%JHl?7%*Y`f3DpgA$;bfB`"i5f#bGtf21'K9lJfGE!8"O%W0[ZH4?'VL^2I&L6miP7[VIlW\Ul,3fe:MM4i/mUi&dIER24<[\(R/9$jVIeNLkb9E'JFo/T;;J#-OTWDU>b*<q.)m`2,Puk/"f#<RD"1&bi`k/FdKjn%Fg4D0RS@bkVdP#F/npUG(F_T)M8908[R#7hk>4;8j!KF#js/*lEp92eUgl^mc>).C#45T#&hSZ)T99/M=SlVo1<99'E?e*-f;0&&:JOIgFh`R*Q@Q(>X]u0_Q.W2)$"32/pf;r_@XJ@hjSJkHIi)/F_$5OXr$qkHtP]"5ok]XV#h[Yne6HDM'RK9b0n>'jXf>`CJ!hQC+l2!?(`oOlIna#iQf8\onk/+$1Oh4U;HN<_(Jd5WrcU<Q//ir)'8M>ZFJ%>WA=g.@?.R@K[AY.AS^-?oCjM@M&XJKrGjf_kA^tennflikg<sPnJ8eY2<!@XQJ5Xei-;E+7PfnboVYD,RG!_"jgDhB>E+m8;'jcbejF=cM[_D(-Ch!"\1EE"X6Q;(:;Hq3eZ%]:]E:f=IG<iMK>.&=`,pcdN"6k!Lur._l8CYe#.Z'4+sh-G0<NSd3u41Eg7rBN";tCA'0ph""768,-TD==8CCa+H$%IR5h6-:60(/gV""Tl6uYaJ0jQGR+mR%./>k36]<sOW7J32W^MjN)4RVN=EH,`@7k/\`CYBom/P.C(WYKcoiC;PfeXnc>T$K'otrIUc6J38WO%?<jG:'SgJFG&$fkr]a)s%hUJMJE3Nf)G=a!33rYn#%k"NW"/#=!G7Q5=a9@]L(kck!/HKj9k<7,\tV<$Y(WLi;?Rd#O4:Ij[EL_\HU$<)@r]A$5/akD06L.l:(rGD']j(?Cb;5:@4*_7/mA`NEer0,-VWl&>dQ`b5eXAqp(`6O`O0!QW-0m8MH22tiiNP?lbi7FRS]">rlB9'l0k&BmEQ6$JW`Q:jR%a4"Vj<+f2=7A^kMaUNS^rnbB&`85S/4N@?Tm:9C>lcZEIHR>C6]B`)k;G7m-B<iUP@J\\aZa0BUR##ufL"^miq'GiH.hdsW8l6`=n_1e\?mOmPrj6cS^^rg8(Ir&UkqoX?"GR@!(;aPf[d04Ti;%e`H!`6!X))1c>PRdl_X6&5Aj!M?Jr,;ha!ekXf0@"[4iW-#D=hC=(Nt%@HkQ*Xf7K<O,BsnTA&*a'f!!F3IS-i?\u?=&eBK"C\FO'HH8'9c7k\,a=[1Ymlpmbr#]pP((\I/lo^qE.s':fR6*En!^<_0molDG4i0!a`Zkt9\<.YL)HH:)C\E8Zk(p.#h]NTDH8^<(P/k%F$(S-:6JAK!4q<Om6["6$#r/Ut,LUgp?H\W,?dR)\+rD\WN?*j+[%t$kW95JfN622FY=N<sFB''a+OYNc)Df7a!=cu(O'X4:DoCX5RU1+l?NIKn9W(&KM6;GR<s.SG3eft7Zr);aRp%(s@>:7Tqt9hT+cU;@oYL+^rW;7jg8Fl0_>Df48"3MtiQ^\LQPV>cq%_/L3$(aKrtGW_?hTGCV#s-A<85h+'jnDlODICgd';n+</:gsJn7Gh-"ZICZAiD4_)m!nOMjYj-6C2N"O7_RI=31Ei'.;O72]_1<q1[N7&,j<dDT&*adCMYJ,d4I*F<j6)+;1T3E8k0P(oeJ)Psj/<GV*:s2DE-H:o@44NsU#`b%)&G[9K4FL,jZ`G_LZ/S,^+o2aCi.`/Zs._=C`1mG+BZkQ6PNQ,;ER`YEOjh*6kqUuFM>[qNhClIp9&a$[B>l&ff[IqV-TGsJ\\]EA7EHB/Yj6Oj,m8t@!M,S1u7*U(@CFU7e:VClp$7RVD\@[4[8e`+A`S>KSHEB`@:rTVB8,mr`k(E1fIq*nMc,FLEQt7e,'rRpQ/I$B&cm[\Oi#CLCY278.>Te'7QV8W*\DHD3s+dYYptQAugsC96?lnd$:J,K-0q/I8=tmHrUY@@m1GHX.=EdsId2HLV2p/U8e:ZXhKg>)+Mh@iYBM7)d%o/=h<a+/9##"88[.@naIbN.1S^I:.7F'h[[=V9"R.6^"4)I?oEk7;8'f3Mi]+L87=?R=U%P&Zh1L8jAL;M%SdrWb%~>endstream
+endobj
+37 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1856
+>>
+stream
+Gb!;egN)%,&:N/3m.dDk@j/dMQb7DQVjDXs:)p=Z9-6KYTS8+E'jd]9Sc3sPTHmI=/s'X=&ppPh5l`rmG0_c@;Xj1Jg<\^pi8js1rCDJp(o0D#&MWt`IMh]@ordeYMr$!1>kl0kd.7O$36/:p`t\BWD'=JN.?cIO[85ZXeB@B?:P9,Y$"IA%8.WHe>;E_V+U5N0'p-e/0Gjng"=HMm#%'Wk!SDQFDrJg7W[=bD(']9B7aF!0AXk]!3<pIn"7qmB#P"=@M4)S2*IML9]<\kND72,("6'V'$P.mG,-9ddcGjjeki^6AI,C(W%\OSk,H03SPYG/q9Yi-K.]<_g.Ku9IF3qXOZm[(pWQoX8$h[%V'%\kfo*P-4X'3IK'IdShUUdSu69e0(B,AlHSj!;t)`Moe:K4HN[@%&f:Zh>KaIO4,_NBC$cCkiDe:EFb()H*@&tPo"<+o!0(1V-%JKJG,I=$TiW`sO+0,gdR16&,^(pC94qY#&<=(cC%\S]R`:r/,0`eIUMR]ED;Ttl^G.qSng3:!@sh$i-4.'=#Y_kJT>/#mbh;WQ`b9A5t>B>ott^Jk9"r`]tI7O]_5.EFS+Ai(c"aKCo,,a9=Gk!]EMQ:Snm<YQWMPSb19@]\jW\[0+`8^VCZSjONJ1tJ/qJF1?,X)u_NL`:bXic/)?[CV\RS=/pm7Y7BJ*[cMLa!\N7N_18J:O![Y;5*Sg@,tka=\kKfa.1B_fEnn@?t9>KR-5^;il^D9EEqg<S7QaY[O+B`VNj/*9P[X3De:`dUf'pm3J$ooE`66o)^h#GMM]L'qmi.I-J!#>=\Y\dC%M\')HG>!a=EI.L;eCrK!*m70;:V4QOsc-`sE7=JlttgTaOa82UceHhPgqD125]KY+S0.;1qS=bLq3b1@EgNc;mBHP68@#2l'^[D"k&:qGqPJb.qN>2FtENAfEjLN*4l_?QZi'1l<&g:6.^)&P453K^]udPZH<T`jN'U0QL,I'p3tcMi9[%pq'S5Wlnjaj;*E#Hh^85OXtOq=l=o$"dX1nj1J#pBCH[uGhI2K(Z8IL'rtS34\!d)@Tt=IDQ37eXJf6*(H'u#A1G2@.:Y2MGct07:aKGHnV<SY#fSI;RPRjp`#1?'!YS>"Q=;^1kT1Ki]CS/ppSG3]k"geb$ZBDN]@6EZE@cugBT)KEI7S#)4!A*Yf\%(Sf>>h>^\GUSMp-p-*?TOXH9B;K\'!j6L%,0^MS-,j5Zij@'1Ik!Q-Um6Lr`RY-U_t-j9fI.V;jR/-Xp;%'8/kT+1"@IO!'pu?ZGHp<G-(NkkbGbis/q*bmF10P'u8gR1k1FT%k^LQ"Wnuj0HL<'pVfVS+1;-N?<!h2r_Vl6`L6,\RZ'Rj``:'i:[@h8?p?u+Jlogo:.^2hiF#X#;-Lng(PuX:h'-Nk'1ZaP`dY';dZ&)kJ^`Ef`A\F8$-VmV_B,2r/a0ScD!E5!$5&$.X!!ADrPds![aue\[*3b1pOE!olp2jn"(`"4A_0'&_qasJg<SYo=D&Ms*eYSf^H^.Q,ZO!0C.RhPfr6.:rPkDaHEjt&^UC&Y>U?trd@<k9)!beW?<n[qsM)%;k^EAP0!gXQ0ZW9X0$#V+f]+o_;XN$e.0dFi*LujqV]I;1h\Zrin50s/I?WVdG3Mq5E'c5CXgAtcc+Q8Uu[OT5:"X:KBCM#NPKi',B7c:@jW_KjZ2@0$q]5LI?Do%I,]pB_Tu#;:/n+^#Os$@k61]UiWo3hd>k\E#;J&3jg[(DPh2q**c`U<Of-GE(u6'C)f6?M-L;WkaECX4lmol\`CuOHJXcK6f6FK@e\27$p[[ViDH'WR<3$msS*>60h`G0U90K7?jmc'BP)[!mHN+!L'09%~>endstream
+endobj
+xref
+0 38
+0000000000 65535 f 
+0000000073 00000 n 
+0000000124 00000 n 
+0000000231 00000 n 
+0000000343 00000 n 
+0000000535 00000 n 
+0000000640 00000 n 
+0000000832 00000 n 
+0000001022 00000 n 
+0000001213 00000 n 
+0000001408 00000 n 
+0000001599 00000 n 
+0000001798 00000 n 
+0000002018 00000 n 
+0000002206 00000 n 
+0000002398 00000 n 
+0000002591 00000 n 
+0000002884 00000 n 
+0000003073 00000 n 
+0000003270 00000 n 
+0000003459 00000 n 
+0000003680 00000 n 
+0000003896 00000 n 
+0000004104 00000 n 
+0000004351 00000 n 
+0000004598 00000 n 
+0000004828 00000 n 
+0000005058 00000 n 
+0000005235 00000 n 
+0000005533 00000 n 
+0000005620 00000 n 
+0000006010 00000 n 
+0000006084 00000 n 
+0000006283 00000 n 
+0000006404 00000 n 
+0000006488 00000 n 
+0000006556 00000 n 
+0000009305 00000 n 
+trailer
+<<
+/ID 
+[<bee7e9eef1984f46488ade52874c1633><bee7e9eef1984f46488ade52874c1633>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 30 0 R
+/Root 29 0 R
+/Size 38
+>>
+startxref
+11253
+%%EOF

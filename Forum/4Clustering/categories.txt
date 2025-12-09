@@ -1,0 +1,175 @@
+CATEGORIES = {
+    # --- RQ1: Learnability and Usability ---
+    
+    "Core Language Concepts": [
+        "extern_c",
+        "ownership", "borrowing", "borrow checker", "lifetimes", "lifetime annotation",
+        "move semantics", "copy", "clone", "type system", "generics", "trait",  
+        "trait bound", "associated type", "type inference", "error handling",
+        "Result", "Option", "panic", "unwrap", "error propagation", "? operator",
+        "async", "await", "concurrency", "thread", "lock", "Mutex", "Arc",
+        "Send", "Sync", "data race", "pattern matching", "match", "if let",
+        "smart pointer", "Box", "Rc", "RefCell", "closure", "iterator", "macro",
+        "ffi","array","enum","struct", "fn", "module", "mod", "scope", "visibility", "pub", 
+        "loop", "while loop", "for loop", "break", "continue", "return", 
+        "mutable", "mut", "variable declaration", "let binding", "const", 
+        "static", "tuple", "vector", "Vec", "String", "str", "HashMap", 
+        "Hash", "Deref", "Drop", "size_of", "primitive types", "casting","slice",
+        "slice","attribute","unsafe","workspace","pin","lambda","From","syntax",
+        "undefined","Pointer","Into","Language Feature","LazyLock","TryFrom",
+          "tryfrom",
+
+        "pin-unpin-issue", "macro-rules-difficulty", "recursion-in-macros", 
+        "Send-Sync-confusion", "unsafe-block-difficulty", "raw-pointer-usage", 
+        "Box::pin", "macro-design-complexity", "trait-object-confusion"
+
+
+    ],
+
+    "Compiler Interaction": [
+        "compiler", "rustc", "compile error", "error message", "diagnostics",
+        "warning", "borrow check",
+        "lifetime check", "check", "check", "memory safety",
+        "thread safety", "release",
+        "error_e","error_E",
+
+        "false-positive-error", "borrow-check-bug", "compiler-throughput-slow", 
+        "incremental-compilation-broken", "link-error-unclear", "linker-flag-issue",
+        "diagnostic-suggestion-wrong", "strict-check-undermining-confidence"
+    ],
+
+    "Learning Experience": [
+        "learning curve", "beginner", "getting started", "cognitive load",
+        "mindset", "paradigm shift", "tutorial", "guide", "example",
+        "documentation", "Rust Book", "official documentation", "confusion",
+        "hard to understand", "complex", "abstraction", "concept confusion",
+        
+
+        "giving-up-rust", "learning-plateau", "documentation-too-academic", 
+        "conceptual-block", "tutorial-outdated", "example-not-working",
+        "frustration", "sense-of-helplessness", "migration-difficulty"
+    ],
+    "other1":[
+        "destructor","destructuring","prime","sieve","join","downcast","getter","init","actor","avx",
+        "dyn","fnmut","fork","waker","phantom","random","borrow","mir","whitespace","deterministic","docs",
+        "re-exporting","move-semantics","cow","cstr","iterator","garbage-collect","container","vtables",
+        "vectorization","default","inheritance","functional_programming","builder pattern","into_iter","callback",
+        "AsRef","atomicptr","ptr","ergonomics","context","polymorphism","reference","leetcode","endianness","hashset",
+        "dsl","mutation","gat","coercion","shared_state","Cell","state","namespace","security","blocking","poll","index",
+        "chunk","error","simd","lifetime","API Complexity","API_Complexity","integer_overflow","safety","sorting","fmt",
+        "optional","mpsc","import","futures","boolean","unstable_feature","dynamic_dispatch","iteration","function_signature",
+        "btreemap","lint","io","artialeq","safe_code","wrapper","volatile","memory_order","atomic operations","command_line",
+        "method","transmute","no_std_environment","type_annotation","control flow","map","filter","llvm","project_structure",
+        "initialization","recursion","type","collections","integer","constructor","immutable","bitwise","f64_to_i32","synchronization",
+        "parallel","specialization","design_patterns","binary_tree","self","inked_list","function_parameter","floating_point","function_pointers",
+        "systems programming","language_design","buffer","TokenStream","memory management","utf",
+        "code","Structure","impl","Tooling","E0","Eq","eq","I/O","FnOnce","cfg","api"
+
+        "bits-byte","stack","fn-signature","Path","arm","cpp-vs-rust","float","code-refactoring",
+        "mutable-borrow-conflicts","Future","data-structures-and-algorithms","attributes","compiler-optimizations","iterators-and-adapter",
+        "type-conversion-and-arrays","type-inference-and-definitions","generics-monomorphization-polymorphism","blocking-nonblocking-try-blocks",
+        "destructors","immutability-borrows","newtype","derive","llvm-and-vm-tooling","char-type-and-methods","control-flow-ergonomics",
+        "method-chaining","core-language-feature","language-semantics-and-spec","dynamic-dispatch","functions-parameters-calls","method-calls-and-implementation",
+        "initialization-and-lazy-init"
+    ],
+
+    # --- RQ2: Toolchain Support ---
+    
+    "Debugging and Analysis": [
+        "debug", "debugging", "debugger", "gdb", "lldb", "breakpoint",
+        "step debugging", "stack trace", "async debugging", "tokio-console",
+        "profiling", "performance", "benchmark", "flamegraph", "memory profiling",
+        "static analysis", "code check", "Miri", "formal verification",
+        "Clippy","Bench","Flamegraph","Valgrind","Miri","Loom","Tokio-console",
+        "Tarpaulin",
+
+        "async-local-variable-missing", "debugger-setup-complex", "symbol-loading-slow",
+        "profiler-overhead-high", "miri-false-positive", "instrumentation-difficulty"
+    
+    ],
+
+    "Testing Tools": [
+        "test", "testing", "unit test", "integration test", "cargo test",
+        "test framework", "assert", "property testing", "quickcheck", "proptest",
+        "fuzz testing", "cargo-fuzz", "mocking", "mockall", "test coverage",
+        "tarpaulin", "test stability", "test maintenance","Mockito","QuickCheck",
+        "Proptest","criterion"
+        
+
+        "integration-test-setup-complex", "mocking-trait-limitations", 
+        "test-coverage-setup-issue", "test-isolation-problem", 
+        "test-fixture-management", "BDD-tooling-lack"
+    ],
+
+    "Build and Deployment": [
+        "build", "cargo build", "time", "build cache", "dependency resolution",
+        "linking", "build script", "package management", "crates.io", "dependency management",
+        "version conflict", "semver", "deployment", "production", "release",
+        "cross platform", "cross compilation", "target", "containerization", "Docker",
+        "CI","CD","Workflow"
+        "build-script-difficulty", "target-triple-confusion", "wasm-build-size",
+        "CI-integration-failure", "deployment-automation-lack", 
+        "pre-compiled-binary-issue", "binary-size-bloat", "linker-complexity","x86",
+
+    ],
+    "other2":[
+        "gitignore","cmake","borrow_conflict","lsp","fold","deadlock","doctest","license","bsd","virtual",
+        "firewall","wsl","symbol","driver","risc","dll","backtrace","mingw","ast","assembly","assembler",
+        "allocator","glibc","latency","migration","STM32","cross_compile","cross_compiling","interrupts handling",
+        "ide_autocomplete","ide_autocompletion","legacy","cache","caching","config","resource","linker","alignment",
+        "cdylib","rlib","timeout","network","libc","wasm","installation","msvc","arm64","path","process_exit","cargo",
+        "CLI Tool Development","registry","IDE Tooling","vscode","rustup","Toolchain","memory_leak","rust_analyzer",
+        "runtime","rust_version","nightly","ARM","Android","Application","IDE","RustRover","aarch64","android","binary",
+        "C header","C interface","C++",
+
+        "linking-errors","windows-platform","versioning-dependency-management","code-analysis-and-quality-tool"
+        "WebAssembly","cross-platform-compilation","cross-platform-deployment","selenium","dynamic-linking-dlopen-dll","git-commit-hooks"
+    
+        
+    ],
+
+    # --- RQ3: Libraries and Community ---
+    
+    "Library Ecosystem": [
+        "library", "stability", "maturity", "maintenance activity",
+        "version update", "library selection", "ecosystem", "crates.io",
+        "dependency management", "API design", "usability", "documentation",
+        "examples", "best practices", "community support", "issue response",
+        "libraries", "tokio", "serde", "reqwest", "actix", "diesel","crates",
+        "Axum","crate","std"
+
+        "api-breaking-change", "deprecated-library-usage", "unmaintained-crate", 
+        "library-design-inconsistent", "dependency-hell-issue", 
+        "security-vulnerability-library", "auditing-tool-lack", "library-discovery-hard"
+    ],
+
+    "Community and Learning": [
+        "community", "forum", "Stack Overflow", "Discord", "GitHub", "discussion",
+        "learning resource", "tutorial", "course", "book", "blog", "article",
+        "RustConf", "meetup", "workshop", "contribution", "open source",
+        "maintainer", "contributor", "code review", "pull request",
+        "resources","Community","request","Book","Guidance","Learning",
+
+        "response-time-slow-on-issue", "mentor-unavailable", 
+        "community-toxic-behavior", "contributing-difficulty", 
+        "RFC-process-complex", "governance-issue", "newcomer-welcoming-level"
+    ],
+    "other3":[
+        "immediate_mode","retained","pwm","jsvalue","js_value","bootloader","uefi","cratesio","parquet",
+        "checksum","uuid","cookie","session","yaml","antivirus","mdbook","rusoto","rusqlite","seed","graphql",
+        "sdl","duration","time","date","rwlock","plugin","jwt","file_descriptor","dns","mongodb","threadpool",
+        "threadpool","ndarray","rayon","syscall","shutdown","rfc","bigint","RTFM","RTIC","I2C","browser","database_driver",
+        "crossbeam","Cursor","playground","aes","geometry","sqlite","bufreader","constant","middleware","query_param","ecs","aws",
+        "protobuf","bevy","cryptocurrency","template","subprocess","stdlib","cpp_background","interpreter","port","orm","gtk","routing",
+        "embedded_hal","ascii","wgpu","executor","grpc","cryptography","validation","egui","openssl","image_processing","editor","scheduling",
+        "authentication","proxy","protocol","event","widget","code_conversion","windows_api","json","graphics","logging","std_lib","webassembly",
+        "http","csv","websocket","tls_ssl","regex","data_format","stdin_stdout","desktop application","tcp_stream","serialization","gui","web_api",
+        "macos","ESP32","Embedded",
+
+
+        "atomic","tauri-tui-app-dev","tui","compression-archives","distributed-systems",
+        "orm","ai","database","serialization","blockchain","cryptography","image-processing","ecosystem-library-docs-quality","filesystem-and-file-operations",
+        "open-source","async-web-frameworks","context","buffers-reader-writer-bnf","datetime-parsing-formatting","flutter-dart-widgets",
+        "rust-ecosystem-gloo-mio-mime","sorting-and-ordering","windows-rs-and-rsa","io-and-iokit","tcpstream-and-bytestream"
+    ],
+}

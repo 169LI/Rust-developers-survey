@@ -1,0 +1,233 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 5 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/travis)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 741.3646 47.26396 752.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://rustwasm.github.io/docs/book/game-of-life)
+>> /Border [ 0 0 0 ] /Rect [ 522.2315 432.6146 550.994 443.8646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://rustwasm.github.io/docs/book/game-of-life)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 421.3646 41.43646 432.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/system)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 376.1146 53.09896 387.3646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/wasm-export-a-function-from-rust/127193)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 301.5146 126.2965 312.7646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/wasm-export-a-function-from-rust/127193)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 290.2646 43.76646 301.5146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/wasm-bindgen-and-js-sys-showing-error-in-browser/97086)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 267.7646 117.964 279.0146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/wasm-bindgen-and-js-sys-showing-error-in-browser/97086)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 256.5146 110.449 267.7646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/how-to-call-wasm-function-compiled-from-rust-using-javascript/32784)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 234.0146 115.039 245.2646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/how-to-call-wasm-function-compiled-from-rust-using-javascript/32784)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 222.7646 110.0365 234.0146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/how-to-call-wasm-function-compiled-from-rust-using-javascript/32784)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 211.5146 64.18896 222.7646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/webassembly-rust-assistance-getting-started/53973)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 189.0146 99.40896 200.2646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/webassembly-rust-assistance-getting-started/53973)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 177.7646 113.389 189.0146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/how-do-i-make-it-so-that-the-main-function-in-wasm-runs/77304)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 155.2646 121.309 166.5146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/how-do-i-make-it-so-that-the-main-function-in-wasm-runs/77304)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 144.0146 127.129 155.2646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.discourse.org)
+>> /Border [ 0 0 0 ] /Rect [ 71.03146 60.01456 104.369 71.26456 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/Annots [ 4 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 
+  15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R ] /Contents 29 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 28 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+22 0 obj
+<<
+/Outlines 24 0 R /PageMode /UseNone /Pages 28 0 R /Type /Catalog
+>>
+endobj
+23 0 obj
+<<
+/Author () /CreationDate (D:20251207211026+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20251207211026+08'00') /Producer (xhtml2pdf <https://github.com/xhtml2pdf/xhtml2pdf/>) 
+  /Subject () /Title ([WASM] wasm2.__wbindgen_start is not a function - help - The Rust Programming Language Forum) /Trapped /False
+>>
+endobj
+24 0 obj
+<<
+/Count 3 /First 25 0 R /Last 25 0 R /Type /Outlines
+>>
+endobj
+25 0 obj
+<<
+/Count -1 /Dest [ 21 0 R /Fit ] /First 26 0 R /Last 26 0 R /Parent 24 0 R /Title ([WASM] wasm2.__wbindgen_start is not a function )
+>>
+endobj
+26 0 obj
+<<
+/Count -1 /Dest [ 21 0 R /Fit ] /First 27 0 R /Last 27 0 R /Parent 25 0 R /Title (Related topics )
+>>
+endobj
+27 0 obj
+<<
+/Dest [ 21 0 R /Fit ] /Parent 26 0 R /Title (Related topics )
+>>
+endobj
+28 0 obj
+<<
+/Count 1 /Kids [ 21 0 R ] /Type /Pages
+>>
+endobj
+29 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 3081
+>>
+stream
+Gb!;f>BAOW(4Q"]^h+\RFCg+*n*/,0Z;$e2UpIUFRYSK7Th%^`bZbA$Wi"8F^?:"Z77rdRajr:C`jQ/)i446m\H$*WJH&=A%T>^n4!maP@YA_VSe>X4Mi?PUQfGEUB-6&eX_)X8R[.GD`%qhEIFEj^41?*<@*Jt"%?ke$/C'\G+((RMnA1famC>,H#r<Ue1AJ@#9$!nd&;%<1\^Y\:15;ce_Fbp\$KtA,-#=on1NG[N$hCQg'mX0KZSG)#31H%S5rPcrR34`UAXu"3j"K[(".p^rmnp>#9!JoElFAOF-AN-/eFQtpj5.4j*X.Ns`s;RQc)>-_c=Ul_6"Ws59uBpkg=5iK>"t%O9XIDfeR(O*s7Go$A.cnIe#TOg,gN-PaKB%gPSK$$amt;lA6NVS($F6^C0Ma%4I7)W<Js%o:ZioNNf`,)WFapVHC+I=+b!Dq2mM^"E)(ilQ@t;)2n2!pr_qQ$?l_*r7lRZRSnANH\<61'G:<P8M))#k4UAA+#r;&U7Oq@;_kq^Bj9rULatbWBlH8Mh-M=codZ`F\[`Pu^2g5FD(nlUC-dA:RZ4JZJ19QCf8^j07EnU:%aOIg3H<37mBj&;1.6Eq&a)dogEXg$>Gu,2!6Z9r3Eo5X0-MS:@E<0JlX$erW6:&IN&o]e.^6<@$MhiqH!ZaM)j!5i5;LsC^f:is5%G0<-`<Gmr@(;ZleG[n'PAP&$-;KJHbOOKar@E/Ce+\6XpBMbe-OVZ>R`m2*IIol7M0&4a*UgRNXY6uldX]hsoWAbYZR[K)WuZck4RSL5'ebgq/g#9ai4oht0$i-jf'>QbX#sHSl4!coHIiMEIB,NYk*bW%Aq<*9@Qn?sMfL<T-$^%nnc`fjBq1#;K>K`F7928aFJ*lFh)[2N-[AupU<)/0>*;e-JhfrOPU)m\]>/_=!T%>WIm\f9JeDJSSXX<E>9;iUQPW(#6(okL8<pA=I1H0V[8di8b+N"JE<+"$?a3p<4&FSbcqG;^KEmE6mcfC[J,Y>n\Q\gkZI.t.nS]B!:U;*!>ON#_'BchlqL=A8r/kOi\3,95>!Us3h>Ee08Mn#Ldce#-4g+d`cQB+P:RS+]U]GWQ0q_WG#)eIs?kouH1GI@D6<7[!i$6>iA7Q=;1H?Y)Q7V!,<L;Ak%U3<4M,`ogr$Z*HXFf`PRm.i^rb#l'&J8#fq3^FKflDMc89Be:5==E7/(TfY.uY"DPdMVInVfS+A3Rjc5X,acgb6Xu3\DSb=#m?N,(]0=7VKLI$Gs<idCd9*61R_('%Z$Ps/;<D&.1[N'b"l73!u=CaWOoU;us'<gp%72fsM1>+:U)B,9m5o2\K71,@\J+Lec$[7)fh3G>^fcPpC%7-l;(T+q#g4l2k<7a>bHKa5cn^MXgt'26<iB%>I^c4Q:QGYL6rcTI0L8C%N!N=INL_F@;G@WTVsEMSEnbCp'5[c5<uZHho2TU0M3Y:iU7FRt:Q+4U7J'n*6SFjbl(XVi^&<nZ53I6@MnJB[Dg3$*n+P8Q[5Ni^]QAWaIM@Z32k3mINLU@-G?RK(-?#Ig6S5(</^!o`tP[Kl'i'5`VR`D(jNuLp)CE=>XmDm(7Kl[bJd$Y4==X&s-+dgoq?C4,Fl:5`8<lW1bXgH)E"MiW=psboD7W=04HGPmAS81dH5?\C\kqZ4LG,?*9smmRr;cC>L`Jh;`J22@C@\dQ3n:.Z:qRBK(/Rg`C?0J3cO2Gu@nnG2F6)fF#H*bD,1Cf2(^1<CmNDZJk,l70k$7UJO/mk(RJ$JA=T+.rD#KSpA1LccE`n>%l+=l6c!`gE>:IY0HFM%3h-hWcT335:3oDi4c<:Kpumo5D3f&Bq7#gWe.k*$]*QYK)hj;"r/7<!MRD#!T,"sY_8Lp8i6>d$(t0K7?IQQ59kJm@R0WBYE>X]XUI1NM8a5gGcGZ+"3:R[I!u6@2T60ggSTI^qB4ke*KIV&Xrc520hmQVUN"B0*Cu6s^/7(O7!8H#I&SV1"/3BY;<ucXf%\H(g2?'?Aof?]HU_A)AuBsiDsarN/X(LhCN(+07pSp^!DfIGCL&Rh:[V/@@=r:"qabBsS,'LYKHC4k:j$SblohsN7M@c*/Dn"1'fjmQi\.Q=aK?7>:[X@lJrK.Yc98:C1'#"JK[6@)"Ze9JB'_Xm7nEE[EN-S2ldn@E>Q=INPY7Ks>DabCZO%*)ipHF,Tn.Pl-/8W1gpSHPr_quNJ@)F&k$W!=[C=iJa)^[/#8tG54rW(SR!jR]!G4U]aW+O6NJGX)!6`#*&@U!GA0Q!A\O20I3&m<;Degc4RG6fo6#erdDTHaA[+U^I:%.%8'd?/3ch",gLc^QE*ooT5huO,9fg\lo)dhY@<(&>6jLfQ*Ju.n2bSSVA*^WCgfRHg`lFHU*+:a$BLleNu!K*J\:A-T14Im>hK77J8AL4Yt/Vc^D+>!U6qcN*/#Et<4m7r8r:re>/mEf\h#otWSGjI[BRp[Q.2C;pnWWVeC3S*O"X+,9chEPC<0!@/h,F)T/oouN%VfoonBQ'_^DkA&cDs-'4iu=]$B2S7gR(fmo>grS'1>&0V]2'io$PA71l-0[52tOHAmJ)%]D&o6e>t,9Y+.R7dC>?s0m<gE2JWsOSB[QiKg<pbi#NN(j!o004M+W3861';_kQ!B,LDM2m#TGXKHIBt17.1@?la$"J&j.hi3.X(>]+0UL+o4K6Eqe.tm,/Y[gM_,t+&5*D1:m2k'Z<BWjl?kBK56$n+Ym-RXCQapY;Uh3W--jD'L&Qm[B)0088>dkW.G!$hia+J?9SRV_b"77qE:5Pgi?]fiqHt]HkJlu9oj\3E#@R^mr@s:hOR@lP&K#k*Su&/#j\8TXi,R)S6rRe5s_).>W7u$CuCe-]mg.!RBF)Ws#Nr02S_8[0c2cdfq/60Ch(:Bm"'!E@o/"b?ESKb&$h;[;2ET=hJX82Kbf7Uc$L$!]W1!_,]S!dI9[/@%DG:.5Zd+>rSJ5Oa?jB6VWrM5T1!r<LIX&#CT$.[o2rI(D>60mcu48:V-PLuq7Y&V)f*47(BVqM-d1m5nJAG=o=C1@#N6m_&^X>2`+";T:5u<"pTRb1_'E16n_;V=BE&3uEB22~>endstream
+endobj
+xref
+0 30
+0000000000 65535 f 
+0000000073 00000 n 
+0000000124 00000 n 
+0000000231 00000 n 
+0000000343 00000 n 
+0000000531 00000 n 
+0000000636 00000 n 
+0000000836 00000 n 
+0000001037 00000 n 
+0000001225 00000 n 
+0000001446 00000 n 
+0000001668 00000 n 
+0000001904 00000 n 
+0000002140 00000 n 
+0000002389 00000 n 
+0000002639 00000 n 
+0000002889 00000 n 
+0000003121 00000 n 
+0000003352 00000 n 
+0000003595 00000 n 
+0000003838 00000 n 
+0000004015 00000 n 
+0000004343 00000 n 
+0000004430 00000 n 
+0000004775 00000 n 
+0000004849 00000 n 
+0000005003 00000 n 
+0000005124 00000 n 
+0000005208 00000 n 
+0000005269 00000 n 
+trailer
+<<
+/ID 
+[<6e15b28f55958324cb9788457c0f2326><6e15b28f55958324cb9788457c0f2326>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 23 0 R
+/Root 22 0 R
+/Size 30
+>>
+startxref
+8442
+%%EOF

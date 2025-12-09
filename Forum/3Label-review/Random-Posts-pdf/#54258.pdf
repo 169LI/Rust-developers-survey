@@ -1,0 +1,260 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 5 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/frosklis)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 741.3646 52.67896 752.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/quinedot)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 253.3646 58.11646 264.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/system)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 70.36456 53.09896 81.61456 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/Annots [ 4 0 R 6 0 R 7 0 R ] /Contents 31 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 30 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/simple-question-about-borrowing-and-references/21867)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 773.7208 102.5515 784.9708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/simple-question-about-borrowing-and-references/21867)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 762.4708 113.3815 773.7208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/why-does-the-borrow-checker-raise-an-error-when-i-keep-a-reference-to-an-element-in-a-vector-that-is-appended-to-within-a-loop/68106)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 739.9708 127.549 751.2208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/why-does-the-borrow-checker-raise-an-error-when-i-keep-a-reference-to-an-element-in-a-vector-that-is-appended-to-within-a-loop/68106)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 728.7208 121.7215 739.9708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/why-does-the-borrow-checker-raise-an-error-when-i-keep-a-reference-to-an-element-in-a-vector-that-is-appended-to-within-a-loop/68106)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 717.4708 121.729 728.7208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/why-does-the-borrow-checker-raise-an-error-when-i-keep-a-reference-to-an-element-in-a-vector-that-is-appended-to-within-a-loop/68106)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 706.2208 135.904 717.4708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/why-does-the-borrow-checker-raise-an-error-when-i-keep-a-reference-to-an-element-in-a-vector-that-is-appended-to-within-a-loop/68106)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 694.9708 52.94646 706.2208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/struct-having-a-reference-to-a-value-in-one-of-its-variables/25653)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 672.4708 126.7315 683.7208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/struct-having-a-reference-to-a-value-in-one-of-its-variables/25653)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 661.2208 118.804 672.4708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/how-to-correctly-write-struct-that-owns-bunch-of-items-and-list-of-references-for-those-items/3924)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 638.7208 135.0415 649.9708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/how-to-correctly-write-struct-that-owns-bunch-of-items-and-list-of-references-for-those-items/3924)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 627.4708 130.894 638.7208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/how-to-correctly-write-struct-that-owns-bunch-of-items-and-list-of-references-for-those-items/3924)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 616.2208 115.0465 627.4708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/why-is-it-borrowed-for-too-long/13900)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 604.9708 133.804 616.2208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.discourse.org)
+>> /Border [ 0 0 0 ] /Rect [ 71.03146 520.9708 104.369 532.2208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/Annots [ 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 
+  19 0 R 20 0 R 21 0 R 22 0 R ] /Contents 32 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 30 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+24 0 obj
+<<
+/Outlines 26 0 R /PageMode /UseNone /Pages 30 0 R /Type /Catalog
+>>
+endobj
+25 0 obj
+<<
+/Author () /CreationDate (D:20251207211038+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20251207211038+08'00') /Producer (xhtml2pdf <https://github.com/xhtml2pdf/xhtml2pdf/>) 
+  /Subject () /Title (Struggling with borrows - help - The Rust Programming Language Forum) /Trapped /False
+>>
+endobj
+26 0 obj
+<<
+/Count 3 /First 27 0 R /Last 27 0 R /Type /Outlines
+>>
+endobj
+27 0 obj
+<<
+/Count -1 /Dest [ 8 0 R /Fit ] /First 28 0 R /Last 28 0 R /Parent 26 0 R /Title (Struggling with borrows )
+>>
+endobj
+28 0 obj
+<<
+/Count -1 /Dest [ 23 0 R /Fit ] /First 29 0 R /Last 29 0 R /Parent 27 0 R /Title (Related topics )
+>>
+endobj
+29 0 obj
+<<
+/Dest [ 23 0 R /Fit ] /Parent 28 0 R /Title (Related topics )
+>>
+endobj
+30 0 obj
+<<
+/Count 2 /Kids [ 8 0 R 23 0 R ] /Type /Pages
+>>
+endobj
+31 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2387
+>>
+stream
+Gb"/)iKN!('*!E1`D/Vha;^j])_fXjG1s<K]hVngjHt*Ojirc=!n=P&8!8qR]QsO(<tZ&QL@ZG--##0'S?O9Bp:'qRQ0`Vn/c6Ep^I\Y!bn-I1%j2-d3/+#"g+[mTh[Rn<T=r2C_.n/G,>l)-mR",-,%3]nnD:;+!1j>-LW$;C#Wo7Mo-:I<FXHTJQaAif\-!TO;4#3%r`jZDE-[11"<5$`dd)'aLf4D-P#*1"?q`U^6U+/eTJ;rmGZADZ5:\`m1s<Cr_$_`)"e@Am/le#sL>a6BNg@?\LB"Kn?92IIX5V$;8>6ZF*.le'UL)U-L"@Q*.-gLX^7\9Uh/;s]h]BS+7=m4.71Ng_FF(bAAn]4/CR#O^9;@Bt/@>Hogrs1XQ')N'%s[I_l1X,prn_FS\)FqZ9CmLD+*C+93^NWs,#K&GY5VBlI@]pL#;k?D.LN2A&B%9K>@GmsYSsnF']lm)2)'4N+UMn/W9RFj9S?A+NlJ-u,?p*eK@^:UL.ahj!mI0mCMXA5@7hIg-ErjjZ("$'-Oe!GPm`sWSn^?8:2^tGQkgmN&o\mL0OmR^k:\@e3<a;&VI@scdU8t^e#&=P_\+1/NbXkT7utKhFE'KqP[?4#&ge6uba;=BVUn:RN2^D&^m,[Y-*DfW/TJ_REt^4^BHjcFV-MXQ)RG)4Rc0F.Kdi85D?[M"<udK8MM["#YB:L[iQ9j^npuQhYL]2;m\uF2WU8P%W(Gs[n^;dTHZTTum)%Ht*`462IubSJYNdSSG'bV+n'eJhI[/s&+-;d_=(T-:qgR^!Ds-$_ph$Ijc^"/"?fRcm_*BPW?QciVY:iPn8d&&(FT$ecAk\I8S6o:PpqKPqD7[lL=lug8nJqg6H*K$ra$5%up9<b[.'KG4=.$%p;8WS.TJUno4[tK*o:K!5IDp;jRZa16b[euH,hk*lCn\M:_2^B%1SsE=0K\<5gfA,on(5B@Yf-kkf.us&k3:@CAO&kS5Kg]1W@@]d1ML!)Y)PWa.(e9r)qV5S`88!NpfEGu]mc,cN\q\3ao&Z7mqhB$N=CNVi0heE-HrE.[:>7N.N/0apS[7P;5'sNGDmG#<Hp3rV=ON1pb&)]NtKt',e:i,)kMs/R(Da\g!+"`8au@MmOKZfYPjEr^h<G4XDT1Q.L!00-tT^q"6OS:fM&r4Th/SSq.OW$[ud""]%PaCSe]D>W]<-i[6JcNVakHIM2r.A7T,ds<`boq@[:QGbN2a`mBHM5A$lMtPDunM1gYHW\IR5E:jo1"no=Mg7I#6QmQLaX-b/.5jU#2#:F4`#H&ctCULNqF6@3RCNst=22MfC1V'9??iqQFlIu<:$MF-e%$2e#1(d<H,P[EE4n;Dm^"E3+D568K];!RoAHF/R:m<I>glIIoamJ+V7=-(;iagJ;'"W(u!I53rllP`/3MT`T!FTAl(%peJ3R)2`:Yb8kcl;F>n27@Pe<8Mr/^AYKe92G^'.5Z6%?#3AR]2BoU4IN(jQb[Q^:[$pMo<q3W$Xkn?"'#a47CLT#?,B:HWg32k3,HWk-H/f7<!ib9CHo[&<a3.QMH(*e53H+>)jjJ[[WV0V"?'u*=r\@40KObO1L&)P9>&J"34TSokrI)WWYlQFhMc#D/I;hs\H(aBfA%(iR\jf&cOn0gnhe[XUre"ng;aB\!kTmBDWtqYBJRQP;'k0YYq"SKN4u$AN_HUX9s("iR"qD77aW\b3tp>6MIi(GDPMCehn>1Wr_/t\JtN=Is"+tL2bZ*F(/^^*<&L2C#Z)7mnZ8EN>,sqaNF>H3&uP982ar=a['a%0TOc@$%@_mF;hcQ=4?scuL/3:AE(Kf9WspADTN`u_D+kPOPg565j6XN;b>[!Ipe`!0I$M+V;7Dg#8n#4Z^X`m!cZ*/g7ST"Z$`U9p('YVb2Q?/ocFYXbg+QXR!lN.6H/a!ITT_Ue8bQFP&s>tKFlf:)\sO<"II=A:Y1KqUb*V>?qGDH,[l#0Nmh:#`nZDC:g9'K6(A%gq_1BTSLh!>"C/nup0I4'nq&?3N1^2*U@ld)^:6`u'D,sel/Wi5pb#Idr\!D(/A'N$n.QcP2$e5o**rp''o4VQ[NK^Ma6</m?Zh5U=h(naila\pM<>gc;0NoL_oNS+5`N=c"RXM[c*?Il2-0gF-dVfk<cbPND+5WgdhX.)YYi$?,lf5f+[p?oJ<)L&'>Ns:qjR#-02p]ucoX<*62^+2u69ac/dl*:!?JlTslb_npD1'o3k4&+eET\p$:Zme(]2'9i;JEo:qDq\?h1*Y)lCr)bn'^8aRi7:1H%ICd9Tk*l)'3i4G:#pEJpn(SFGYWKj,W2F3k)b%/5PfCr%#Z!Hc,A6`1Elgk;$ZOcan][<e@l3C2n5I/X/?9XhWH9J0C6RCAi\m'$gIZ%M*8T~>endstream
+endobj
+32 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1480
+>>
+stream
+Gb!;egN&cS&:N/3oV6U\T$2lhk%SUL:,]La[C0)I0Dg@JfU<6N"cu^_q_WrD,nUDn;fSn%9-359]'4;4#W&.K@eP#U#5Da>Df6IH%eBp5%WPnU-i?0#I@B!ORiQ*^T*WJ[>k!t%64&3Y)j_FIZZ:_D;@-.9IYJfJl7?0m*'@\i#8&;@1Z$u-*+m0pe@s@$\@U-dOR"4Rai9"e%l"#*k!'W#DCqC5e"EN*'<_I[ghh3CNS;a('j(p'.7Ug`a&48(L-c((?\K\\n&cge7hB$RPiLDD$-_gZLs%$K*S7r[k8;KeHY$9#9G0i$p.UR48>bGjOEZ!a)4f;3>AH<.$8)U*Pl'fPE]u1DrtrGqR^m79li?8UMC5s\c_Y$$HUC't*9LjGnu$(T)iHdsinMFM4qFm1E;+5c(EXo/n8Zts4GRl*l]DJ@]2g**A\#mKKF1ik'PgkY?lib#AtT_lCW=S7bkG__M)9V6l7=kc%)F.@k/RU0/Wqqbp*P6A+C7C7+*=OCn5+"&id0fp"Bq<U.Q;L7W,9cEM6a_;rB[T.Zl':?;3,r1[iK]t`rRY?NU_'F=UE2l+<99'K;-qRktla5ibac@U"6sZ::W=jWNgFp$W7SKs'^)Okia/2BNLb)aq":p6BUq;%jcpjEt?Fs.GAGmd^+hC7*0b?O#*f0Sn/A].*>L]DldhqLU]KpU;I90n*14FM9[5NBdcCO_NbTqlEo!"1bb=eh#NG$;qS9q%"H&_XZ$g@PE(fXm_R2.oNK9qR(+kbVo'KuaB&CKa<9,OFM+u8"84'KRCJ\'5a3O`T16ncU>Mk,0sk@*2oU58Ed+`I9o+CHNZ'HE'B8d;8Ac1P<h)pcp*juZ]L/+BdG;%CH%kD6+3SmtnRGq"%^l^i\d`^_"ZpK*TZu;]X[0>E"bDk>6h14(cX7Qb-<N[2N.Z5m9DIfqkFd0L8M(E!k%"aboZp[,MNsBV\C$5aH3WerUo!_N^*f>jq,h5eRQ.&pERb4e*"R0]2f[_$??^6&?a5A#pNp`1aP7?]2`B=P$21@?2.S#XMf)a=3n_Ok/@I8_Tk1T;BD*91A?m1F^2E*O4P5[bTEVRKa0S<makSfqb+f7tT]I+bV!1]\Cqe:dG'`TbXEUf$<1`>T"-pK;W9=sjI^#_`(MuSf$!P:BEK!?!VM#^Lm(7('P.9:E8pt1r9aej=K=fR-5VD4uMbLUN%o#3DrM'0\D@<dp`8#mC$Kr5]c3m_R1!d2a&^SSq0(\"%2(jd$)^A](Gra\"<p9"9[2rT:F`(GZGgB=VDjMCJpL,_>RpUeQ5:3?I@AW8u3Ju0b=Zm8+-iZX+o58?03\p4oq%9q&08\;F+10IRHS8;`F.K%P6Q:6Qe"$du@9OmOV^J/&pD)E(QlUo=cjUi#%_[:'d.D_$A[_WYm[mtg?T^UhCRL(;9GSu02#AI%=)VK?dFdlG/pp%VN!VZN]APkHbpEZ9(LLa?-aat,T)j4rm(*~>endstream
+endobj
+xref
+0 33
+0000000000 65535 f 
+0000000073 00000 n 
+0000000124 00000 n 
+0000000231 00000 n 
+0000000343 00000 n 
+0000000533 00000 n 
+0000000638 00000 n 
+0000000828 00000 n 
+0000001016 00000 n 
+0000001251 00000 n 
+0000001485 00000 n 
+0000001720 00000 n 
+0000002034 00000 n 
+0000002349 00000 n 
+0000002663 00000 n 
+0000002977 00000 n 
+0000003292 00000 n 
+0000003541 00000 n 
+0000003789 00000 n 
+0000004070 00000 n 
+0000004350 00000 n 
+0000004631 00000 n 
+0000004850 00000 n 
+0000005027 00000 n 
+0000005345 00000 n 
+0000005432 00000 n 
+0000005753 00000 n 
+0000005827 00000 n 
+0000005956 00000 n 
+0000006077 00000 n 
+0000006161 00000 n 
+0000006228 00000 n 
+0000008707 00000 n 
+trailer
+<<
+/ID 
+[<692225df40013631fa0cf4f85d7b6352><692225df40013631fa0cf4f85d7b6352>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 25 0 R
+/Root 24 0 R
+/Size 33
+>>
+startxref
+10279
+%%EOF

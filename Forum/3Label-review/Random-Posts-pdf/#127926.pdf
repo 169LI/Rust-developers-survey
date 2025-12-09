@@ -1,0 +1,306 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 5 0 R /F4 14 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/7urkm3n)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 741.3646 58.52146 752.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/Cerber-Ursi)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 376.3646 68.09146 387.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/7urkm3n)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 87.61456 58.52146 98.86456 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/Annots [ 4 0 R 6 0 R 7 0 R ] /Contents 36 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 35 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/Michael-F-Bryan)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 785.4708 84.35146 796.7208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/jumpnbrownweasel)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 553.9708 93.53146 565.2208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html#the-string-type)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 478.4708 85.61896 489.7208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html#the-string-type)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 456.615 244.4825 468.765 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/kornel)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 421.6208 49.76896 432.8708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/jonh)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 100.6208 43.52146 111.8708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/Annots [ 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 15 0 R ] /Contents 37 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 35 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/system)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 806.2208 53.09896 817.4708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/strings-references-and-derefrences/132696)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 731.6208 111.2965 742.8708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/strings-references-and-derefrences/132696)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 720.3708 69.19146 731.6208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/reference-vs-pointer/126684)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 697.8708 97.54146 709.1208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/how-come-strings-dont-need-unlike-string-literals/44901)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 675.3708 133.159 686.6208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/how-come-strings-dont-need-unlike-string-literals/44901)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 664.1208 97.53396 675.3708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/undestanding-str-and-ownership/99736)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 652.8708 135.8965 664.1208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/solved-difference-between-str-and-string/44074)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 630.3708 122.1415 641.6208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+25 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/solved-difference-between-str-and-string/44074)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 619.1208 77.95146 630.3708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+26 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.discourse.org)
+>> /Border [ 0 0 0 ] /Rect [ 71.03146 535.1208 104.369 546.3708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+27 0 obj
+<<
+/Annots [ 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R ] /Contents 38 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 35 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+28 0 obj
+<<
+/Outlines 30 0 R /PageMode /UseNone /Pages 35 0 R /Type /Catalog
+>>
+endobj
+29 0 obj
+<<
+/Author () /CreationDate (D:20251207211025+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20251207211025+08'00') /Producer (xhtml2pdf <https://github.com/xhtml2pdf/xhtml2pdf/>) 
+  /Subject () /Title (Trying to understand the basics of Rust - help - The Rust Programming Language Forum) /Trapped /False
+>>
+endobj
+30 0 obj
+<<
+/Count 3 /First 31 0 R /Last 31 0 R /Type /Outlines
+>>
+endobj
+31 0 obj
+<<
+/Count -1 /Dest [ 8 0 R /Fit ] /First 32 0 R /Last 32 0 R /Parent 30 0 R /Title (Trying to understand the basics of Rust )
+>>
+endobj
+32 0 obj
+<<
+/Count -2 /Dest [ 16 0 R /Fit ] /First 33 0 R /Last 34 0 R /Parent 31 0 R /Title (What is Ownership? - The Rust Programming Language)
+>>
+endobj
+33 0 obj
+<<
+/Dest [ 16 0 R /Fit ] /Next 34 0 R /Parent 32 0 R /Title (What is Ownership? - The Rust Programming Language)
+>>
+endobj
+34 0 obj
+<<
+/Dest [ 27 0 R /Fit ] /Parent 32 0 R /Prev 33 0 R /Title (Related topics )
+>>
+endobj
+35 0 obj
+<<
+/Count 3 /Kids [ 8 0 R 16 0 R 27 0 R ] /Type /Pages
+>>
+endobj
+36 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1971
+>>
+stream
+Gb!#]>Ar7S'RnB339rr$%Z[R$A/E/1Y*Tme6ef+!#3:K(ka7>TH6eco*VSB78D0"<b;"EZ=7fs-8G\j;+2;m%#;6#Gbl:fPn8\f\hK[uS0H>]]3["ph_s?:'h^9N9T/RkZVbRfC@19.$3ds:!E:1ka&'hiMM3GH#k=9K4d_,DJp8#Q`fEn<0M4au)Ln2K%bJg4Xc;2dmDeW;4Ui?N)*9oPo&t5R)9UnXXfF/CZE&sLcpf'li*sB=mUb#Yk$1CH.=d)JcDn)ahV_J$`B"3-k%"HffI5Ht4luk$RHmeFR@Zu0;,Y7n+^3ci3*X-Ojqq$lL5BPqtB58!'Y2f>/)]0YA-VD(+S%a=fBN3]gMOAW_EN#q.$E6R]K0oT.7']Jf*ucL!E&UI]3).'aG;F?$Z'Q,-9_YbTLn$.Y^j<bF'^Lrd>a7V*G2O'@9EcphmXaj';%LN0&.r0i%(#I6Z*i>Uh/$u1HWNPRc&ikO?G]oQi5t57A5u+h%OOT\Pd<t*h*B=A'i_q6_U7.i5=bs@Q]tPckj>`"XFcTR8kt4>RZKHAU4AM*1+ChsbEQLp6ei3BrWBdfmJVpkI1='Ao8PCu]uD>)V\@bg:J5q>Z*AjRJQ)^,QNMX:g@]OY?m"i!#=N:aGZHX]p/MLqId0=PIik(d*>pQ&GCL<+[I.Vlm^Ld',F$PFccrl;d<7tYJL-eV)%?.o\7iV7ip!nTcu2\LUfXRpI_f1e%&X%glEpg[Sq$M"@[9sjQ2u<gZY++[3HFG'eU)5jgLNFl80#-JhG:8.Oh5&V\/E9"V>fnX;!1<*:dGLf>!dJ9<hp!YB#N51EPPs''5'Q5"d5jR'ZCLOj[$O+Jrrnr-&cd`X^2Zidk!,2E_1iq2V1&6GqQ%[4o"U2?gt\pBoN2G&s3XUGSlRUqr%88i-bOnlG`8c.q@0<H=h5R<1pIZ!g"@Ol<D^YN7ff-&Nj$"@B`-#G,uuLEr3la730)ba7&nV_6]69#Of[JTU$;S"."8=3$=:6B/88fjfT,1>mphmd_u<B1(Kj#[1Q"]J_4=5Nit.8QSub&.'lsA&0Z?Jp)cc:?k`(g*FtPrj;`;n@Hd]bF.&PnF>/Do%_f5LKV7d:L?Fj-[aB2`XZl6L`NcO_-al@O+Z0d.-OC;Zc2XGG7)dhl+kbH=4E</>pT6A49(pq?bMY<4.BMV]^oD_D;#L?(ZiQK*hm'?#_IUN;^$tptnAgb0(LE9k=^Z=kI)N`DoO/L<UOnPKEqFYPjt)569MtW@)N<0mE,U2'0GY#'&JIUV.2PCri0r%45g=,@h10't:7OLmaF8#KSm^ua=9b6l1>&O:XK1PB-GimA1JF`#:<-VsOE+N450:fgpmFf\dnHqh'c36OZE!.b@3-n1Mnia'E>1R7W]qrN.gicrCW7kn=G9iqCp>PM),W6Z6I>?oFMgOBGpO>o/"gn.l$QNq]#2dG<quIn2i0&U+Qq=dr$oS>"2^hp>Xo'9^;!2;Zr:A=X9<ALp<rrcrKusu?rs..D#_B3?GhT,;@*`E7If7ZkOjS7A::N]05K,-'r,PMjQ;@j'T$!IA2:@H9P]7"&e"*$`kl"^:E"!ARPoRcAiO$3F1O]-Elf$5H2&20.D%>t-b/LG0lN@#9@-K1<3_U7,C55)e\*P\rF;8^Kurb.cV@.tTM4mWPHk9nqtcUhWgM&c_\-hi;i2LiB_#X/_M,eSLl0j!7V8efCl,%lT,,ZpBpq:s-DW]G$6j'!.+rAs7(TlqnnN2[.2=2VO_P)TI7r!G/B#ALZDt")F48/V=8Ls[%qSWF>$A8<aZ&&#5;=1s8fuor.r)1e9tk7Mb_A1GL]2r>%:!26"kLq>pNo4iS<3"C.5dl2!ai@R#n5;LRneH6HVb2oFl]F@3lYs7c[u.uA^TRD`h0,>B2XJ-hp/g0jm#,']t?Sm:tC>0Qk"#uc?2&02B6jfb&n2i<NOV'6g5/`_fNYRpTiP%3;F(t!(Gf~>endstream
+endobj
+37 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2967
+>>
+stream
+Gau0ECQI4.(B$G3K#i_<ahh)[QQK-WM?M`d\k(4C1I+fR('-#72D^MpOOQ8XUAqq$?<XWlp=+0s,FDRdP4s7i\R`cNn1UU;Z]_RpGO3<7OG+:Y>Hfdf&pF#(rU]IBe(%[t$b'J5di_E*ad>dmUEH#E0oXq8*O9,;Sck6S*(DA]?bsZh\(2glN`1+&Z7l^F/M)I2:4a0]*RR*bA2c_V_m2UJbpp+2T!Q%im-a<jc!-@nm;\O@P?Eto4u0Z-^\mDtJr=W1UshoX8sZ?jBU!ZN$MNm]ksLX5-^h*H.#+p\YOmQN,lUOtp9N8T@,h9G7Su2HMr0Q7Fib87294_bRXW]Kq_G<l]qn:u:S[AMj$`C$kac0o;cm0=Jrs"c?H;G72h.SMrL^c+DO<8>ZanLfXdNAZY(Ij)]ZOB[KW-LQ\[=c1'tbtp[:I](s1!uM?uduWr$L]ZrONUVgSfk/pk(P?NdV"7RfTiG_(o$AZ2bVb@hiZ-1L:b7-7^=J72oB,ek1"s@1QU95)8A=9&lZ&L)>sq:IACTWb:=11^bYZkcpE56Rrti\e&m?^%pHqqa^*-M8#_m1s+^l&%0r;1&+kd[QjX&e)W/goYsMP]+pqVq7mA8od-iB5KPi_%3sp9knfpln?^_7OiKksi-5(%:.uRQ:)][peC0n)fn8Naj\%XoK$h-]km\VV.rLdM>SeBCS?5j3`q*F:[W*DE?r4b@V(`#n0Mi-efT7eCCVaa3.uTTo"nUhrYn.fTEJGR7U63Idm+r[HdW'NJd[%*rnm3/O@?RUfGFkH@j!4o.?V`%52J$1=Tk7;?_2Tj<n;6?e)?HC"^"&&p=hW+W'.Hc(ZW#j73q5QRX2\n1?uq5B`!,#F"(+oh=a\%nI7ZO(l8<-l"U,i#$HS1E]RjK]cPdZ/E1/l0ZWBcTHQ+u56siNMJUpRjY7L#*AV"`X*J0$h5j;iE[_6cS:Gj?\/=mj/AK%EPl4Seb&B<buaal(K;Og.N9GE.aAKl@=p6GFgnJ47Yo=>RgXCV8mi$J6^(XS9B8#rKKAVlfM#./7B;L&'HY%AKN'-Y2d[k(piYufF>&NeAg8>:#6482?K-c%LM%3kkjZ+"nO8J(<([t_YI?b-!ARZ&s"j(SM4HNH,SrY(L7;pb&DDYjkmnQH\3[)eQXTgiPBKkcQ`Es6Nk!LSC>CQ)@P"h[ipAQfZ;APgqo>*UcMq?a,,71M;ns)73f%VS/DI^I_Z0!$q=8Sc&V21]/b,-sNi+9a1K+V/Ud#YXX7+/asnZ(BtOZQK[)p(f-@E5:!$,KPga<nGn[<ZE5?LXI:sO<k:aAL2BH&"&=*/IMp<ceFRQKM(ofQ6.eJT5@[7PDINtC]Lor&Yn`$Y^GoEQ)0!@9keXCG^q[_-#'K)"+KUh(CYtg/Kd_A]\Lmi>S85G$ZL8a?/'7JXd0&JpKD$*3+dn$/=J'+b2Vk:0Q-[)/RHb3nL02(!rYZ*G(c?f3/4(<,mRdgX;&=a=GJ;Jh*'O%W1npI-(6OJBR*1CS(Yfh^*U/5-.iK>7e74i'md[XO=K!RPAX63h-NAd.hEJ;EL7i[?D>UF@H=`27C6epVVd)._b=Khb^k%YEe)gi<qe=CccDgD1^m)Y6aXql;*rbAS_-*"(hiC3o,Q4#lp;;@:G@0,a+8/Z7FVCm""fg5_0&'.>c<St*L/Rjg)>/X8mtdN2bkQh-A(PpK-kcP,-+%^DVi2FbsiKPcl]dZ?pr'cZEc8G+JK!Uq9FY1G%I\>![A%9"Da\k[;hf%DRW`rV(m:u71F13PK?6Lm"cs:!_pN&gtYhT8>Y;`@ek/]rI['RmR`]*qe'2mLq@9o?0sV3.k?3<)U`O+cd<rFNDJQ>`gM:XRK<p(0Igar7jY/C<0Dl3[p>l#*WQ`+P`n2ZSu\g.m<g^F:)#o@@55H(+#,nj.nT;$f?+BKE%*=q[RL9]mP`$f)o)SA0e1pqN]CM''2pd3Q.)iU!Z$Co.gX!8=qKmZTLNlu+G&rKJ>&646IJ&nGMn.\aHN$_&OK&+N.%_k9*AIX(Y"I=RfV/mh1spj]E*rnrt9/?JcL1S>_P%8Md:VohLXEs.%m_p946W!!)Nt?JM,-b_i%dDRjGkX/949M!aJ_?#ko6G$Nms2bYeEmk@E(9jaqnqA9M<r"sgI3q+hQ-=SaJl"arj+7PlXEJm6WJno22T,`pc!.j8s2$:LT'Ic*YI!`8t(fK6LA^_F4:BFg8?KU/Vm7gT;%(S[)9^VP(8)j(@U+Y0$u'enR$f7:Em$R5cX;d8cs2jk&sARW/Bfsb^Q7Y4,AP$lNMeiG7hK=?tLD<<='7->Mb.2F?HD?),aV'=q/KsfR+4A^>q9"W?uS_kMj.MSj[\qH"IGf$SDXf)+R,+5"H.DHKf0b5&*6@uHO8E;6#J/7.eW#FS-\))s_1fb',d/kA+VP,_[+i(5ah]QSQ,Nac(ekgVrrt$H\bSf*aC>:_OPVnOh6]j%@&D7UN'#<!?n[^kh^k&V-pK)`lF*dG(qbt7Z*[#QRE9k9RH2me->Y8iAL5tj`#1`H/h0HZiOkEr^[+a#cX`W.A04K9NAdD^&IY1-Y/`h':6X;ZqBcnF1lc/!\T=Fr@(Pi=9E]d][@&Lg6O'T9d6h?Msk6RtLg=q1ApAciLZ^?-me&_d_CLYW:i;g#';dKc:%j=i8MdsAu[iA9:F\AHgA'ln.FsYG=E#31&Tt6?XiaYpC@h/^#S^i^Qd&p_p@q9]<L@Hf<O+grR2%h6%3;Eat`i<45g_WPG\muKCPJ,%=[AUWX^OnMs4(%7P4?f=(LUY<!A$-7V\?,Gi^Wj-04ED29mk9]Dk0LmmI^XG;k:'2KN]cJ1E-bTGo"`.-?]k\#*TO5cL7fHK4u`[]ZTTmeHj!4rjN+l1B857CfC7q56nk;)O'D8[%FjDOR43YE=P(#>FtoN8^'J1#E_mTN(H`qJduf$\29-p-3$N"4OLt2r)>S:-@97p["J.&i~>endstream
+endobj
+38 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1459
+>>
+stream
+Gb!;e?#uc!'Rf_Z\506]fr4a4#l;t`2sp$D3h7U@gP<3J"O"&R5.lF5n\=Mr!leNM_%*f@AFMQF''ESlF,s-7;#FnDV]Q!<0SaRq@_atIQbY.]_>Is@EBa1P\]9UkpZ;qtQ>P=5:eJ5J"HI?SAoPZ1(8@a8>f(AVhKa?)M=?Et/EnPh+`K`3`"#d?!4)u@?o9K(**^9B"NC`@6Spee7:Zn4m$'WK1u5't%_mVk5=HeK)W>NEVg8AfRpZct%<0J[;gp7Y3WuAE4T@I'm_4MF^-+r^>U$:60b+:l@[sVq$<b#"54#or]M0/s?=nR<5g4\6hkdRHp3:YHkle;WL;6G<8G"sq'DOqIM7+b[Y`C_&'uXl.JHq=o4\om[`N>E7eZdgS3'dTf2EK)V*2O2oi5]9)UF[_)F!B/&FdK7-+6<W\$]>fmiIj?AKjuo#:<J2!]F4lqi2:uhfp!/Z?DqVI8O[>s:n$!h5/:Vo*X>TCTmLWf[C2ADN`;6QgO.CRC#6/DGq`5L2od/T6=Z0d5jTDBPXsrZ?3hX7:e%>fN(7A>0FF$uZX!C=/99T'Mn^4E9:K(#N9ifC$&VNaYKW_KJu_'@^\9O:EniV&fGNBE&hhbQH$i,)'^;<)=\'Ro^-"75FgPY?<>T!Fk#ep,po*mA72Y>fHtQSkU8J]Ci'B#=U*F#TZ&0;s#,\l^\1HBq9CrNnj$em(%a)j93&E:c:';sA)9YVWle\!H<CAR3[bk6u_c*ka3`cdVOtdjX-I-o"TdG^&ig4nj_acPhB4#RGe<p#-"K3a2%BG2!6?DCfFL,8)V=JB4eH1>>$L?>4kkG6*UE"C4=/d%W,,,>79;nT]8nLI"Q5"a)1Eq^g9r,TC-l@a%S8-Z6Zj0[rL1`5U&L[$&bdMPk3N%\ef=0VW]6rqFTe`i@*.=76`Yl7W?e"5GM$!9eeHZ02BI@,JIQ*eV2C$L<$[_SYVP<jA(i7%c;LCkH1VM(+A)O((3pfX`l#[ksFa7!+jd4S#e_d))^9HRn.OSYn-2INIia&@DFCk=#>7*^0<f7OWVmhHo0h?3Ve^'%"DREioLXAFPmC(Ol+!J7EJdpVZ2giJ2aprp3EJ[Cs^a/oL`PGS.re=X`XS-7e3nn?heJ;#N`O(e>Bb^_,Gs_n_J(UgOA\Z3tKT,*f9T>C0Yok_m#JBG_L#V$*C7qQr,=UI5SXi=Wj`9?GYPi.@J^r#Mf75r$9`JS%/@LA4Q.BLj%O]1=s1A/]\Er)DPk[CZp3Q?-O;io"5&gT#l#L:m4R@cBo@D+W;k03U7l5u0fr0GIP!,+*D!+7Xo58%R3\\rMq*?fW5>)46MRZp)%"m\'#ucYH0[n.ppm3D2Of.m_gc\69esJ%D*,#PY,bb.9Il`kJr\`QkL0t%CH`1F+;fQSN5Md[Ms)KfAK3O*fK<<N_*4I`W$LYR/2tI]hc9OnVA"XX?[2gUo!AhLUQi~>endstream
+endobj
+xref
+0 39
+0000000000 65535 f 
+0000000073 00000 n 
+0000000135 00000 n 
+0000000242 00000 n 
+0000000354 00000 n 
+0000000543 00000 n 
+0000000648 00000 n 
+0000000841 00000 n 
+0000001030 00000 n 
+0000001265 00000 n 
+0000001462 00000 n 
+0000001661 00000 n 
+0000001891 00000 n 
+0000002119 00000 n 
+0000002308 00000 n 
+0000002424 00000 n 
+0000002611 00000 n 
+0000002870 00000 n 
+0000003059 00000 n 
+0000003283 00000 n 
+0000003507 00000 n 
+0000003717 00000 n 
+0000003954 00000 n 
+0000004192 00000 n 
+0000004411 00000 n 
+0000004640 00000 n 
+0000004869 00000 n 
+0000005046 00000 n 
+0000005334 00000 n 
+0000005421 00000 n 
+0000005758 00000 n 
+0000005832 00000 n 
+0000005977 00000 n 
+0000006133 00000 n 
+0000006265 00000 n 
+0000006362 00000 n 
+0000006436 00000 n 
+0000008499 00000 n 
+0000011558 00000 n 
+trailer
+<<
+/ID 
+[<1604836e0e0193bad8ae8ec0a2f49a7a><1604836e0e0193bad8ae8ec0a2f49a7a>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 29 0 R
+/Root 28 0 R
+/Size 39
+>>
+startxref
+13109
+%%EOF

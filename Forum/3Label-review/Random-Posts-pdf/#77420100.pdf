@@ -1,0 +1,1382 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 13 0 R /F3 37 0 R /F4 43 0 R /F5 78 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackoverflow.com)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 792.9708 79.77646 804.2208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+4 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackoverflow.co/)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 779.7208 60.19396 790.9708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackoverflow.co/internal/)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 753.2208 76.85146 764.4708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackoverflow.co/internal/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=top-nav&utm_content=stack-overflow-for-teams)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 739.9708 341.9765 751.2208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackoverflow.co/data-licensing/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=top-nav&utm_content=overflow-api)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 726.7208 364.9115 737.9708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackoverflow.co/advertising/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=top-nav&utm_content=stack-overflow-advertising)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 713.4708 320.294 724.7208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackoverflow.blog/releases/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=top-nav&utm_content=releases)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 700.2208 319.0715 711.4708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackoverflow.co/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=top-nav&utm_content=about-the-company)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 686.9708 105.2165 698.2208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackoverflow.blog/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=top-nav&utm_content=blog)
+>> /Border [ 0 0 0 ] /Rect [ 107.3015 686.9708 150.239 698.2208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<< /DA (/Helv 10 Tf 0 0 0 rg) /DV ()
+ /F 4 /FT /Tx/MK << /BC [ 0 0 0 ] >> /MaxLen 1000000
+ /P 36 0 R
+ /Rect     [28.346456692913385 669.0433070866143 128.3464566929134 681.0433070866143 ]/Subtype /Widget /T (q)
+ /Type    /Annot /V ()
+ /Ff 0
+>>
+endobj
+13 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackoverflow.com)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 639.865 113.9582 652.015 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackoverflow.com)
+>> /Border [ 0 0 0 ] /Rect [ 51.84646 618.1208 102.2765 629.3708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackoverflow.com/help)
+>> /Border [ 0 0 0 ] /Rect [ 51.84646 604.8708 66.02146 616.1208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://chat.stackoverflow.com/?tab=explore)
+>> /Border [ 0 0 0 ] /Rect [ 68.10646 604.8708 82.28146 616.1208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://meta.stackoverflow.com)
+>> /Border [ 0 0 0 ] /Rect [ 51.84646 591.6208 121.034 602.8708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackoverflow.com/users/signup?ssrc=site_switcher&returnurl=https%3a%2f%2fstackoverflow.com%2fquestions%2f77420100%2frust-lifetime-mismatch-a-does-not-necessarily-outlive-lifetime-as-defined-her)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 548.0208 66.02896 559.2708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackoverflow.com/users/login?ssrc=site_switcher&returnurl=https%3a%2f%2fstackoverflow.com%2fquestions%2f77420100%2frust-lifetime-mismatch-a-does-not-necessarily-outlive-lifetime-as-defined-her)
+>> /Border [ 0 0 0 ] /Rect [ 76.86646 548.0208 94.79146 559.2708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackexchange.com/sites)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 526.165 175.1942 538.315 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackoverflow.blog)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 504.4208 87.28396 515.6708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackoverflow.com/users/login?ssrc=head&returnurl=https%3a%2f%2fstackoverflow.com%2fquestions%2f77420100%2frust-lifetime-mismatch-a-does-not-necessarily-outlive-lifetime-as-defined-her)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 491.1708 61.02646 502.4208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackoverflow.com/users/signup?ssrc=head&returnurl=https%3a%2f%2fstackoverflow.com%2fquestions%2f77420100%2frust-lifetime-mismatch-a-does-not-necessarily-outlive-lifetime-as-defined-her)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 477.9208 66.02896 489.1708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+25 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackoverflow.com/ai-assist?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=ai-assist-stack-overflow&utm_content=announcement-banner)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 464.6708 144.8015 475.9208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+26 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackoverflow.com/ai-assist)
+>> /Border [ 0 0 0 ] /Rect [ 51.84646 424.9208 81.02146 436.1708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+27 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://chat.stackoverflow.com/rooms/259507/stack-overflow-lobby)
+>> /Border [ 0 0 0 ] /Rect [ 51.84646 385.1708 67.68646 396.4208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+28 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackoverflow.blog/contributed?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=so-blog&utm_content=experiment-articles)
+>> /Border [ 0 0 0 ] /Rect [ 51.84646 371.9208 76.43146 383.1708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+29 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackoverflow.com/jobs/companies?so_medium=stackoverflow&so_source=SiteNav)
+>> /Border [ 0 0 0 ] /Rect [ 51.84646 345.4208 89.77396 356.6708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+30 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (javascript:void\(0\))
+>> /Border [ 0 0 0 ] /Rect [ 51.84646 332.1708 88.10146 343.4208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+31 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackoverflowteams.com/teams/create/free/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=side-bar&utm_content=explore-teams)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 249.1708 77.27146 260.4208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+32 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackoverflow.co/internal/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=side-bar&utm_content=explore-teams)
+>> /Border [ 0 0 0 ] /Rect [ 79.35646 249.1708 117.704 260.4208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+33 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (javascript:void\(0\))
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 235.9208 86.45146 247.1708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+34 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackoverflow.co/internal/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=side-bar&utm_content=explore-teams-compact)
+>> /Border [ 0 0 0 ] /Rect [ 286.9865 215.1708 325.334 226.4208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+35 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackoverflow.co/internal/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=side-bar&utm_content=explore-teams-compact-popover)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 62.42081 102.7115 73.67081 ] /Subtype /Link /Type /Annot
+>>
+endobj
+36 0 obj
+<<
+/Annots [ 3 0 R 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 
+  14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 
+  24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 
+  34 0 R 35 0 R ] /Contents 144 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 143 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+37 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+38 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=383c28645fcdb91b26b05d723e1a27e2)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 630.4708 97.28896 641.7208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+39 0 obj
+<<
+/Annots [ 38 0 R ] /Contents 145 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 143 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+40 0 obj
+<<
+/Contents 146 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 143 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+41 0 obj
+<<
+/Contents 147 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 143 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+42 0 obj
+<< /DA (/Helv 10 Tf 0 0 0 rg) /DV ()
+ /F 4 /FT /Tx/MK << /BC [ 0 0 0 ] >> /MaxLen 1000000
+ /P 45 0 R
+ /Rect     [28.346456692913385 305.91580708661434 228.3464566929134 320.91580708661434 ]/Subtype /Widget /T (post-text)
+ /Type    /Annot /V ()
+ /Ff 0
+>>
+endobj
+43 0 obj
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+44 0 obj
+<< /DA (/Helv 10 Tf 0 0 0 rg) /DV ()
+ /F 4 /FT /Tx/MK << /BC [ 0 0 0 ] >> /MaxLen 1000000
+ /P 45 0 R
+ /Rect     [28.346456692913385 159.41580708661434 128.3464566929134 171.41580708661434 ]/Subtype /Widget /T (author)
+ /Type    /Annot /V ()
+ /Ff 0
+>>
+endobj
+45 0 obj
+<<
+/Annots [ 42 0 R 44 0 R ] /Contents 148 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 143 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+46 0 obj
+<< /DA (/Helv 10 Tf 0 0 0 rg) /DV ()
+ /F 4 /FT /Tx/MK << /BC [ 0 0 0 ] >> /MaxLen 1000000
+ /P 60 0 R
+ /Rect     [28.346456692913385 788.2933070866143 128.3464566929134 800.2933070866143 ]/Subtype /Widget /T (display-name)
+ /Type    /Annot /V ()
+ /Ff 0
+>>
+endobj
+47 0 obj
+<< /DA (/Helv 10 Tf 0 0 0 rg) /DV ()
+ /F 4 /FT /Tx/MK << /BC [ 0 0 0 ] >> /MaxLen 1000000
+ /P 60 0 R
+ /Rect     [28.346456692913385 734.7933070866143 128.3464566929134 746.7933070866143 ]/Subtype /Widget /T (m-address)
+ /Type    /Annot /V ()
+ /Ff 0
+>>
+endobj
+48 0 obj
+<< /DA (/Helv 10 Tf 0 0 0 rg) /DV ()
+ /F 4 /FT /Tx/MK << /BC [ 0 0 0 ] >> /MaxLen 1000000
+ /P 60 0 R
+ /Rect     [28.346456692913385 679.1933070866143 128.3464566929134 691.1933070866143 ]/Subtype /Widget /T (display-name)
+ /Type    /Annot /V ()
+ /Ff 0
+>>
+endobj
+49 0 obj
+<< /DA (/Helv 10 Tf 0 0 0 rg) /DV ()
+ /F 4 /FT /Tx/MK << /BC [ 0 0 0 ] >> /MaxLen 1000000
+ /P 60 0 R
+ /Rect     [28.346456692913385 625.6933070866143 128.3464566929134 637.6933070866143 ]/Subtype /Widget /T (m-address)
+ /Type    /Annot /V ()
+ /Ff 0
+>>
+endobj
+50 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackoverflow.com/legal/terms-of-service/public)
+>> /Border [ 0 0 0 ] /Rect [ 192.7415 597.6208 245.669 608.8708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+51 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackoverflow.com/legal/privacy-policy)
+>> /Border [ 0 0 0 ] /Rect [ 370.739 597.6208 415.7465 608.8708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+52 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackoverflow.blog/2025/12/02/introducing-stack-overflow-ai-assist-a-tool-for-the-modern-developer/)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 408.3708 273.194 419.6208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+53 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackoverflow.blog/2025/12/05/treating-your-agents-like-microservices/)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 395.1208 170.6315 406.3708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+54 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://meta.stackexchange.com/questions/414604/chat-room-owners-can-now-establish-room-guidelines)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 368.6208 218.579 379.8708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+55 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://meta.stackexchange.com/questions/415115/ai-assist-is-now-available-on-stack-overflow)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 355.3708 187.7315 366.6208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+56 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://meta.stackoverflow.com/questions/421831/policy-generative-ai-e-g-chatgpt-is-banned)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 342.1208 200.249 353.3708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+57 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackexchange.com/questions?tab=hot)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 81.12081 112.274 92.37081 ] /Subtype /Link /Type /Annot
+>>
+endobj
+58 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://diy.stackexchange.com/questions/326815/how-to-protect-100-year-old-wooden-floors-for-the-next-100-years)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 60.37081 260.699 71.62081 ] /Subtype /Link /Type /Annot
+>>
+endobj
+59 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://physics.stackexchange.com/questions/865271/misunderstanding-the-lorentz-transformation)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 47.12081 186.9065 58.37081 ] /Subtype /Link /Type /Annot
+>>
+endobj
+60 0 obj
+<<
+/Annots [ 46 0 R 47 0 R 48 0 R 49 0 R 50 0 R 51 0 R 52 0 R 53 0 R 54 0 R 55 0 R 
+  56 0 R 57 0 R 58 0 R 59 0 R ] /Contents 149 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 143 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+61 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://blender.stackexchange.com/questions/342772/curve-has-weird-bumps-when-triangulated)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 806.2208 180.6515 817.4708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+62 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://academia.stackexchange.com/questions/224243/is-there-any-point-in-sharing-a-scientific-discovery-as-a-nobody)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 792.9708 256.019 804.2208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+63 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://askubuntu.com/questions/1560398/download-is-performed-unsandboxed-as-root-why-am-i-getting-this-message-and-h)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 779.7208 365.744 790.9708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+64 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://blender.stackexchange.com/questions/342765/i-cant-add-a-loop-cut-on-one-face)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 766.4708 150.854 777.7208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+65 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://english.stackexchange.com/questions/637127/is-there-a-term-for-forming-emotional-or-relational-bonds-with-ai-chatbots-if-n)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 753.2208 437.4215 764.4708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+66 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://scifi.stackexchange.com/questions/301338/recent-time-traveling-tv-show-the-lead-might-have-been-asian-set-in-san-fra)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 739.9708 344.4665 751.2208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+67 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stats.stackexchange.com/questions/672757/proportional-odds-logistic-regression-for-ordered-category-outcome-how-to-conv)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 726.7208 450.3515 737.9708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+68 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stats.stackexchange.com/questions/672748/how-to-reduce-gam-sensitivity-to-sparse-data)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 713.4708 192.3215 724.7208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+69 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://travel.stackexchange.com/questions/201767/correct-website-for-thailand-eta-application-form)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 700.2208 206.069 711.4708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+70 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://mathoverflow.net/questions/504652/the-first-pontrjagin-class-of-milnors-example-of-exotic-7-sphere)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 686.9708 250.8515 698.2208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+71 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://movies.stackexchange.com/questions/130003/what-does-felix-mean-by-telling-bond-to-pick-a-contact-point-while-standing-up)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 673.7208 396.074 684.9708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+72 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://worldbuilding.stackexchange.com/questions/270937/could-a-world-tree-have-different-biomes)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 660.4708 179.4065 671.7208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+73 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://rpg.stackexchange.com/questions/218203/storm-sphere-and-obstruction)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 647.2208 141.8915 658.4708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+74 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stats.stackexchange.com/questions/672767/zero-inflated-beta-regression-or-not)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 633.9708 170.654 645.2208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+75 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://rpg.stackexchange.com/questions/218195/how-to-handle-expeditious-retreat-with-the-optional-chase-rules)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 620.7208 252.779 631.9708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+76 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://math.stackexchange.com/questions/5112524/explain-this-seeming-contradiction-in-euclid-book-1-proposition-16)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 607.4708 259.859 618.7208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+77 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://rpg.stackexchange.com/questions/218213/does-short-range-teleporting-end-floating-disk)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 594.2208 195.674 605.4708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+78 0 obj
+<<
+/BaseFont /Symbol /Name /F5 /Subtype /Type1 /Type /Font
+>>
+endobj
+79 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://blender.stackexchange.com/questions/342777/why-does-blender-import-ply-vertex-colors-incorrectly-89-%e2%86%92-0-1-instead-of-0-349)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 580.9708 318.944 592.2208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+80 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://physics.stackexchange.com/questions/865343/2-ways-of-resolution-of-vectors)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 567.7208 141.4715 578.9708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+81 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://mathematica.stackexchange.com/questions/317173/finding-real-variable-where-a-2%c3%972-complex-matrix-is-singular-in-mathematica)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 554.4708 292.9715 565.7208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+82 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://literature.stackexchange.com/questions/31114/is-the-phrase-murder-will-out-from-chaucer)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 541.2208 191.804 552.4708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+83 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://gaming.stackexchange.com/questions/416264/is-there-any-way-to-restore-hearts-without-consuming-anything-without-hot-sprin)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 527.9708 386.174 539.2208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+84 0 obj
+<< /DA (/Helv 10 Tf 0 0 0 rg) /DV ()
+ /F 4 /FT /Tx/MK << /BC [ 0 0 0 ] >> /MaxLen 1000000
+ /P 104 0 R
+ /Rect     [28.346456692913385 403.6870570866143 128.3464566929134 415.6870570866143 ]/Subtype /Widget /T (feed-url)
+ /Type    /Annot /V ()
+ /Ff 0
+>>
+endobj
+85 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackoverflow.com)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 388.8646 83.53396 400.1146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+86 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://chat.stackoverflow.com/?tab=explore)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 341.6146 56.43646 352.8646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+87 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackoverflow.co/)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 320.8646 62.69146 332.1146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+88 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackoverflow.co/internal/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=footer&utm_content=teams)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 300.1146 86.45146 311.3646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+89 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackoverflow.co/data-licensing/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=footer&utm_content=data-licensing)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 286.8646 111.044 298.1146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+90 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackoverflow.co/advertising/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=footer&utm_content=advertising)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 273.6146 74.36146 284.8646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+91 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackoverflow.co/)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 252.8646 63.51646 264.1146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+92 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackoverflow.co/)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 232.1146 60.19396 243.3646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+93 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackoverflow.co/company/press/)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 218.8646 59.76646 230.1146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+94 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackoverflow.co/company/work-here/)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 205.6146 76.43146 216.8646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+95 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackoverflow.com/legal)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 192.3646 58.94146 203.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+96 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackoverflow.com/legal/privacy-policy)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 179.1146 87.26896 190.3646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+97 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackoverflow.com/legal/terms-of-service/public)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 165.8646 97.27396 177.1146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+98 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://policies.stackoverflow.co/stack-overflow/cookie-policy)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 126.1146 86.02396 137.3646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+99 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackexchange.com)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 105.3646 118.544 116.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+100 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackexchange.com/sites#technology)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 84.61456 79.36396 95.86456 ] /Subtype /Link /Type /Annot
+>>
+endobj
+101 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackexchange.com/sites#culturerecreation)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 71.36456 107.2865 82.61456 ] /Subtype /Link /Type /Annot
+>>
+endobj
+102 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackexchange.com/sites#lifearts)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 58.11456 74.36146 69.36456 ] /Subtype /Link /Type /Annot
+>>
+endobj
+103 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackexchange.com/sites#science)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 44.86456 67.27396 56.11456 ] /Subtype /Link /Type /Annot
+>>
+endobj
+104 0 obj
+<<
+/Annots [ 61 0 R 62 0 R 63 0 R 64 0 R 65 0 R 66 0 R 67 0 R 68 0 R 69 0 R 70 0 R 
+  71 0 R 72 0 R 73 0 R 74 0 R 75 0 R 76 0 R 77 0 R 79 0 R 80 0 R 81 0 R 
+  82 0 R 83 0 R 84 0 R 85 0 R 86 0 R 87 0 R 88 0 R 89 0 R 90 0 R 91 0 R 
+  92 0 R 93 0 R 94 0 R 95 0 R 96 0 R 97 0 R 98 0 R 99 0 R 100 0 R 101 0 R 
+  102 0 R 103 0 R ] /Contents 150 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 143 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+105 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackexchange.com/sites#professional)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 806.2208 81.86146 817.4708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+106 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackexchange.com/sites#business)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 792.9708 71.02396 804.2208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+107 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://api.stackexchange.com/)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 779.7208 52.68646 790.9708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+108 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://data.stackexchange.com/)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 766.4708 56.43646 777.7208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+109 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackoverflow.blog?blb=1)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 753.2208 55.60396 764.4708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+110 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.facebook.com/officialstackoverflow/)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 739.9708 73.52896 751.2208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+111 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://twitter.com/stackoverflow)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 726.7208 63.09646 737.9708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+112 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://linkedin.com/company/stack-overflow)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 713.4708 68.94646 724.7208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+113 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.instagram.com/thestackoverflow)
+>> /Border [ 0 0 0 ] /Rect [ 40.59646 700.2208 73.94146 711.4708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+114 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stackoverflow.com/help/licensing)
+>> /Border [ 0 0 0 ] /Rect [ 297.929 679.4708 333.3515 690.7208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+115 0 obj
+<<
+/Annots [ 105 0 R 106 0 R 107 0 R 108 0 R 109 0 R 110 0 R 111 0 R 112 0 R 113 0 R 114 0 R ] /Contents 151 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 143 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+116 0 obj
+<<
+/AcroForm 152 0 R /Outlines 118 0 R /PageMode /UseNone /Pages 143 0 R /Type /Catalog
+>>
+endobj
+117 0 obj
+<<
+/Author () /CreationDate (D:20251207211108+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20251207211108+08'00') /Producer (xhtml2pdf <https://github.com/xhtml2pdf/xhtml2pdf/>) 
+  /Subject () /Title (borrow checker - Rust lifetime mismatch - 'a does not necessarily outlive lifetime as defined here - Stack Overflow) /Trapped /False
+>>
+endobj
+118 0 obj
+<<
+/Count 14 /First 119 0 R /Last 135 0 R /Type /Outlines
+>>
+endobj
+119 0 obj
+<<
+/Count -1 /Dest [ 36 0 R /Fit ] /First 120 0 R /Last 120 0 R /Next 126 0 R /Parent 118 0 R 
+  /Title (current community )
+>>
+endobj
+120 0 obj
+<<
+/Count -3 /Dest [ 36 0 R /Fit ] /First 121 0 R /Last 123 0 R /Parent 119 0 R /Title (current community )
+>>
+endobj
+121 0 obj
+<<
+/Dest [ 36 0 R /Fit ] /Next 122 0 R /Parent 120 0 R /Title (current community )
+>>
+endobj
+122 0 obj
+<<
+/Dest [ 36 0 R /Fit ] /Next 123 0 R /Parent 120 0 R /Prev 121 0 R /Title (your communities )
+>>
+endobj
+123 0 obj
+<<
+/Count -1 /Dest [ 36 0 R /Fit ] /First 124 0 R /Last 124 0 R /Parent 120 0 R /Prev 122 0 R 
+  /Title (more stack exchange communities )
+>>
+endobj
+124 0 obj
+<<
+/Count -1 /Dest [ 36 0 R /Fit ] /First 125 0 R /Last 125 0 R /Parent 123 0 R /Title (Collectives\222 on Stack Overflow)
+>>
+endobj
+125 0 obj
+<<
+/Dest [ 36 0 R /Fit ] /Parent 124 0 R /Title (Collectives\222 on Stack Overflow)
+>>
+endobj
+126 0 obj
+<<
+/Count -3 /Dest [ 36 0 R /Fit ] /First 127 0 R /Last 129 0 R /Next 135 0 R /Parent 118 0 R 
+  /Prev 119 0 R /Title (Rust lifetime mismatch - 'a does not necessarily outlive lifetime as defined here)
+>>
+endobj
+127 0 obj
+<<
+/Dest [ 40 0 R /Fit ] /Next 128 0 R /Parent 126 0 R /Title (1 Answer  )
+>>
+endobj
+128 0 obj
+<<
+/Dest [ 45 0 R /Fit ] /Next 129 0 R /Parent 126 0 R /Prev 127 0 R /Title (1 Comment)
+>>
+endobj
+129 0 obj
+<<
+/Count -3 /Dest [ 45 0 R /Fit ] /First 130 0 R /Last 132 0 R /Parent 126 0 R /Prev 128 0 R 
+  /Title (Your Answer )
+>>
+endobj
+130 0 obj
+<<
+/Dest [ 45 0 R /Fit ] /Next 131 0 R /Parent 129 0 R /Title (Sign up or log in)
+>>
+endobj
+131 0 obj
+<<
+/Dest [ 45 0 R /Fit ] /Next 132 0 R /Parent 129 0 R /Prev 130 0 R /Title (Post as a guest)
+>>
+endobj
+132 0 obj
+<<
+/Count -2 /Dest [ 60 0 R /Fit ] /First 133 0 R /Last 134 0 R /Parent 129 0 R /Prev 131 0 R 
+  /Title (Post as a guest)
+>>
+endobj
+133 0 obj
+<<
+/Dest [ 60 0 R /Fit ] /Next 134 0 R /Parent 132 0 R /Title (Related)
+>>
+endobj
+134 0 obj
+<<
+/Dest [ 60 0 R /Fit ] /Parent 132 0 R /Prev 133 0 R /Title (Hot Network Questions  )
+>>
+endobj
+135 0 obj
+<<
+/Count -1 /Dest [ 104 0 R /Fit ] /First 136 0 R /Last 136 0 R /Parent 118 0 R /Prev 126 0 R 
+  /Title (Subscribe to RSS )
+>>
+endobj
+136 0 obj
+<<
+/Count -1 /Dest [ 104 0 R /Fit ] /First 137 0 R /Last 137 0 R /Parent 135 0 R /Title (Stack Overflow)
+>>
+endobj
+137 0 obj
+<<
+/Count -1 /Dest [ 104 0 R /Fit ] /First 138 0 R /Last 138 0 R /Parent 136 0 R /Title (Stack Overflow)
+>>
+endobj
+138 0 obj
+<<
+/Count -4 /Dest [ 104 0 R /Fit ] /First 139 0 R /Last 142 0 R /Parent 137 0 R /Title (Stack Overflow)
+>>
+endobj
+139 0 obj
+<<
+/Dest [ 104 0 R /Fit ] /Next 140 0 R /Parent 138 0 R /Title (Stack Overflow)
+>>
+endobj
+140 0 obj
+<<
+/Dest [ 104 0 R /Fit ] /Next 141 0 R /Parent 138 0 R /Prev 139 0 R /Title (Business)
+>>
+endobj
+141 0 obj
+<<
+/Dest [ 104 0 R /Fit ] /Next 142 0 R /Parent 138 0 R /Prev 140 0 R /Title (Company)
+>>
+endobj
+142 0 obj
+<<
+/Dest [ 104 0 R /Fit ] /Parent 138 0 R /Prev 141 0 R /Title (Stack Exchange Network)
+>>
+endobj
+143 0 obj
+<<
+/Count 8 /Kids [ 36 0 R 39 0 R 40 0 R 41 0 R 45 0 R 60 0 R 104 0 R 115 0 R ] /Type /Pages
+>>
+endobj
+144 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2284
+>>
+stream
+Gb!#^968iG&AJ$Cm&>+h22VXTa3dJB1fJVP,\g,c^_A'!-4(E_i]+]e$W<-6Kjsh7S+5-@Os%<]DnfS>!Q?-]rJ`U`B/B>Y,m2.q[K,G%%q[ci@Wq;1`>e_dgXSD3_Xfo46:qQFKYVpF/i1"HobeB=_750qMu(TN<u3mritG4CJV4I0J4+F-SAMlGP^r.T$:sARQt=&M_8i3"::bsH-XOL-0&cBW?*]455c0\a@[!->07SN*5LgD3QGDiWVoG2uNAo,)"CXQo2aSBRM'p:n;l]U&rqN/R+uT)se-H0`>("aLdt&p0'5dclZPP53WJ!Wa)D+m'q.Ld78a$=jSR!o;BVXltZPhb2T+]i:iQ4d2)be^ffD8X"=u5'SAPkUqMiqDnRZipa.Jii^`KG<]pV/O#Am/cbJ.O]E:@ePG[A(J:Q9L6@s"(bR11-"pY7W*uY#9M8X](c6A:fEFgt\fR^=9A^<OjeAK2b!Ild0ckmdZnSZa$1Z]ka)O)H8nUldpC;U]hXo%o/`$XdW.nc.kVukt_tq[Cq&eV1P0^ep3D=96d;\hJoWT_V)@Sl`3!FmQegn4GhH=qVtc6db4CZ.9B@"9i:19Hj?Z&D0!7.#MW]H`:,U.)D(4]'0N!7R]9-4QG9"-nD**8NlsJ2Dlnq$BD*&Yf@Y3ESo\4'Ar:VIkK4A`29Q+u`[8keGu>u88<E_2pG@uuosAiYOap5;lF/h)WmCqIVY(icl`8H=buLaZjKR"2gfV44O*EC_/:Yla.MOmtV'0F\g!`3qlt>HGOt\jNEfM[[M=9CIL-QSF'02iI7oaY@i3$)ZE,<`kfH8`2s%\HI?@Rk65L/iE$iK5(27kJn<a>pep)&('';b,]eYrJX[n57V1E&8T#QA#`k/O>[!q^h7AQR%9$djj.,`n,oc9t7FUuqe%oSCgqYWpV#Ise$\GbkNjCo[]Ze*K$oif1@KU@3'e@=V/0)uB8OS<K_hk9N+3=fSl*e.g"Q`2YRf);u8/Ub:aO65''K4eU:!C_HJ>H)9!_(Xb3JW<$:d$mkGU<ML5S)$#rj=V.rljb]*E7f;b'p$ZD+h_c%Ld=H@HXQB]#+C:u$+-=^S%4f_E^d,KJP4U`-I5CXS,)fA@o$ageboAs<j%)#D7%>i3k/\W>6Q]OHPN^%Z"\F0S%_5#e"O:Q"-XF'l'F>cDCblihE%I50:V']L6s-#u/;?S.a8.$XI(n+&7748Gp(.YGZ#LqL^kdh\qNdoc,Te))./sK5)<%6)')UH@7!^6("H5b+@,K@b.9"#N:QmUgOBBoN9S"'K/<o1Mg=NOe\gUhTR1t`mO+`Kl>;a#<m]pt6*6/F,&2#isS0N-cfhPl/CKnTkRLE/3NLMdJiQlY'*Uk*+>T;,I=/ZZ&@&I*U]1#Tkbb?nP@PR'W0dfp#X-]XFUSJD8psiodZfm"M_FYQkV,-m^iDC]=he[C3-781doK<tuk'SQHfk4!&T_SC,mOUPerR:5"W(2NKN&CIQ5?#bNQ5:,T*V2H@PYE@to9DpHNEi0hr'Ai?NfNQ9K(b(Al;8qh6rk2P0aXYb@rhtp1C^8(.9e-=g;C,HPE&?df1E>KlosG/<F?^0/3E"b"?GT6C#J?'79"W@@"S:9M[:#Zo6d:)p]q1GR=+4l!$+nWR3.TR*`5,h\K5C""OWbVG0LOKb]ZWoTfs<_Pknd*Y7#C)1VWXo:0fr8fEeD+kQM8T$JKbN&&"!+2frR)G[B7WU"gG)Z##q8qpGCP[op?'Z*>fQo@c"'iS?\j8Y:Xu,JAM;h8WSTV++>cAc\r,VK+e/2To+2gPSrLm/E7p9upn.!jAs7[GCYXW,?6HH(ofZ2Jd`4:A&]&V$LW;MaDffS>_jIfn[`4$`iq:k(bm!fc8dp@6an`W..NX(a?2@^'PXD%CD\t1ugBLm<aWH(*PnUR9K;VT;eQ4;J/q:#IDDR/>W5AV7@?'9n9uKlM"Pf1S&Ii4W&3jDXJROF7_4Rf>K^'X\+dQHN)BB06t0(?hl<DA^mieDJrKWZZ/(SX5gMI]Ejun<u]SYiJJ*'8r&T</8;D$Ut9m4nJGu5Wf>(sQ'S\X".:=+2%2CO`LhRL3;RLl&Ip.pbN7$AIK`_nIjM@k])518$KhoQS;HDo&93.+dlEqBS?X5:qLN<N,kn*a<hCcO+V.BA#mh!8n=sa&_2+>)piu3_SJWZ3$S!X6,`s6s%">i9S0<p-gH^FD1g0#taUiES!dtlgi!R2"0K7]_[M!WJ5#bE<8KRpG3lOdA]LN\jf8CnES3pXBce7795L[::3W~>endstream
+endobj
+145 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1296
+>>
+stream
+Gb"/'D/U=Q&H9tY(obr;<:+kd(Xh/3NS="K[3*g>^)U-`=>0HT0:_D5EE3$ca1Ho\AKa]5e5WQE^g`AlB:aB\`aF@SIoc)#8cVV5nES4!bD'=+Q>="WqZuY;XoDQ@pi"tjgE"1OIFj77Bc;0HEH(=!Zir+bEl85Wa0Ijq\&t,b+'L*WpkJ*W!Y5o_?,JVK?o\k;AIC4p.p.AMnNH(^?s*]f+W?%f0K]NC1u`"Y^D5@>O]*E+Q6&E^hdX`-;p]lo*4RC:\>XTrkQHY)2K<4kCuu?L%Ddc&-!\*uPt@:a$'9.-+Dl]`E/\13RN9jrmD)pN4$]1(i#uWt%XlJd(,>Gq`H2t#gP1e@`6,Fb@c3`1pLl;F1HJT'5[d<O:skYU2eXW/qk.sJ_m')0,j5(R!M62<9?4hGR6f%@Wb;G\"==l--Su"K(Wl`UPAE]sQuS]H:.$33%&oaq1_Pu7,:O%G.tPKhN@,:d)3*VQ.)]u+WELBU+L6[CM:t`7Si#TGoQDQJ^%Z;;G81E7caQZV#?DBMTFasP\L"![$0IJ*8B2p2+_!/X8LB<G`P=0g,0HBQi-4RZ;L"oMKN(dn8Bh''#u$.[irB5b\PPs6a1XNTQHS"pc]Te8BhV:Kh3kEAPai<m6rIOtlRGMXVK0e:,,"!iOJJ%]NCi[=S_`[iOtu2ohIn4Y,nt)kflJ7ElO@+f&Sq:$(rmkp'Magjb'EZK?tbD.UHfT'<CPNb1&Y6+90^I5L=K="k\UL#(i\?A55M_BYYT)GO84@SFUrF5qj\$#e!M]+4NgZ'qU=c-:>j)[`Qc!KM;M+DnroqDY@HVSeuhWofhBUpPU3,2[[T2KV3%:=I(`eYV\e(Z]A(?umIg;a.XCFGffpXKc0/P`6$9)651YKiB+Bs:<;3!H6QKge&[\7<XLr5Uhir%LAP[">V-/5Km(AcXZ)*t(VLRh,gn%aSpMDu*WmEUgog%kdDqjHU>Xk^d0r=KX5&:Xf[?6eua=h6Ih;=Lo\(uBH*bYZ+-uIX\,FCQeqa5IS9))2_o*8b)Xn*X0oBlC=S1n6?I3t?*pjH8+MlH,:T>Walp6dLj/('n:(fuk/@sYQ\U9I::K=2Qp,hK^B(^*![AJ<bP;:d=]3e1=AWoLhA55hI-d#cq/P]F5shVjg/;_9-hH!cCa)3*iZC*`QHaCp1,O7m1-BB>lA(g",m*uo4SKcXPM\+155P3\cbLF:43Tp+R"Gb_E2$jsN@R>3Dh%2D]@8ZTZlBLAo*^H3pd*N(!^ErYLV=TL?;3d%8=(C#YpaW%uH5jLL$2Eq*~>endstream
+endobj
+146 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2189
+>>
+stream
+Gb"/(D/\/e&H88.ETi1t*>2B%Me.5g5`7L(JRV_#DdVY/Td;0h,De$%gWd>.pDk\e2AOtTS-3&I2,,Lhosq\ia#f0/Ma'W0N=19'6[4&LJ9WbAJHS^J_`.("GkCOi/cLoEDm/@!5r\!o2t3?9n,#(fURAnHWGA$FonaL%i]m*h6BXfUdd9)uO7gBl#]\A3)q9ELOV92j\GA^#674:\q(ik:JBg)rED5]h]=NO(3"rqY\t*iTDjWOGjhc7l8VP-PT/YY^?T%LgOd>,[!ZcEHC1+p9O*:0>k^C#ObrNtr"5rPsE`O(H`QW_5kW!3Ec*qOI%L+4`N&jbS<'2$]qtf02P00J<bbiph;cc*;"776I]HQ=\=oN=5\l#_]C6>6`=ZL5$g!5%`)jq["m=?fmfd#V6g)fW-`[5o!c*Ef@2<iT%fjhc(eM"MT\(X9bh;KbFcZ'%+7qjr\aQ[j%Sr)7p9Z%/=-3P-;'rKaTpcY.c$I>(;A8'FZ,Bu?j=0InbgFLm"HbZ$a.p+[fM,@8nPE[dTVR4M"%V_&*'6?AGRaiW?M].qneYc"O5?E3\&TSHT#N<pIbMo_&V%`L1[+KVlQ;<l\1998Ip[`jX;)J`Igu@rO*W[Xc[&+n2j&W)$6&3eL>EiM?l5t6LB0)h>AQ;cuQ7apqcmkVhfVmV8H7WSB1Y'K/9j(^UPCPF#/86sT-Am_g]Z!FN`"o6K%Q)hW:/N+?8GT@b&s]cA`7;eZ]TlqBa7R6IT[J'Z=IPL,RS9)VNoU'+EP=u)Z\'iCd"F4(q!A0_A20:2MCcM#lM7O(ZaiZ/7qLRDe;FN:/*]QMlsZ<nrMjP_9#0kYOPPsG%:@\-.7)9`J-t0(EES-cnGp_A\Z+e[[o8J^Af=Fb4fr!89[[1%RB0kmlLYdOV&\l6eEZ8^@dS&N%7r8dhfkEk4YY`KL\iQkCLXfE%@n)fC9A\RFei-cr9f?8EZ#g>SKR8f+V`l1:)%TqjD_hiVXAnKW)!!E8pbl()i]OMhB;dSdn&)3q@BB`g:a,u',Fq0EJSA<G6hHoZauRY&C]Gl]'Hk:Q\6-B=Y8J*KJ%I]UMVOO]Z;j6gjqXU<5!XRIpG_OT/0;m!^=nsCjaC]U`mJ6/`@kpmhsGm^9ArElWPXL]/1Hf6$F^LX]<Q-%)[>bM9gbJ5V!tn+:R_A>7VDCqsh>bGRkom9[fASLBnFpO*EJ?]3"Z>'J9d'jEUf:RU!"IVH(hYoKd*bS-bsugKTps(;0R/D78/Sf6&0tqc$lR8`ZM:a7;'N4Fc9%COC^#7F2PDOO34qpSO!^o)mdDk6I=65E%ZsdWirE)aB.f.M(Tq7imflmNF9mGAnd"*q/#YkW,?gMA]#_]>KPcd%XN].&1)o#uHG';6[>]WRZQ:Z$8(sDB'obc\[HJFt*^DL-a<I@,LKF^IN$)I,%%\<\96-g@PWL9hQ+D;9FT@J4*4pT%EGfa^2KJ88lro]q0;;.&)HFc@n=E`n(;kcQ.8N,cdTtJ-dHkjji0M!"$535I(mm&EH&fQP0dR5fT1$_5O\n3C96fPt>"_@\pm,\u];"WOYF2c1"l4AD$-n=ttD"Z8=rE8!o&be8/hGA@604"f%?#`H,age_8;4``?,`50*o]_MJ&GD4q,l45AEm`9@oXcQ?>-JDocQB*G6GG.?ZjJHe[_@.[Vsn7:$+qUut^'h,"Z=eK>Xbm\8jc"IUPY(.t!Teg@QG^55`<VO%cQ)\=@TXe;i!FDL[og]$Z(GRV;(belBmS-[75,Ej?5:0.t@N>CR4T_NGW?Z6W^JHUa]D@>Fj\4kCQ!6o.q>34FmL2*JrM^iqP!Mc7pjhTTc8n<EJ53(Y_8j(@''0b">!jL,[4"S^f.^c&nri/22:-_:Y8*h1fC0KO<*%1>blFmV6hN`>f5&&@b>$7P`a,PsGIlCqo:J<(1"X:oi)20=gZY&8TDYZOIjitYMYXF8>CL#0[MMRlZ%d!s"H@fh9@E[B&b]QcDCj?>F9P;,\,`XV.gq[+g7&(<.uaOG>]M*K<qSQgMR#4=A4iU9/7.jBZ^Y;NlLIhU'iMK=Vi7TcZ;Gr2QSN3ZB$s]$(Gurtm23G^>kpG2,U[to!VDNpZD+(nG8g_XF"&RErElljdV8Y8iAj!!onA$&/4[6#-*1:&I6o(gX%&1"hIP^_nogScFca_.2,d.I?&ifE4+lJT+!P]$?N~>endstream
+endobj
+147 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1371
+>>
+stream
+Gb"/'hf%d<'RoLXEMQ0A3cQrBTX;DEH`4NV4m]#V;5Iu#Pt;tbPf-hIJ[)9TmlP[ui$=E2B(o>)Kj#Jnq#('8k84I#pi5qU56eXji5^lg3!8Y:E/+&t]\hW`n*KZ!4oRG\l+rYP%PNU(0HQ;Bn[7]BhS!J*hDtCj4mor-?j*Oa&K5`!p>*IM?B2gZ_/X9r7_?g,Yru!fo^t_u_"sU7&Feac!qBhkU1audP"8^H9Ycl#_,i'V%T<]HMj^@A9\1EM'EelETSZIpZC89'mk6NW(.PBdS8[PuL92MY:f7=-8_M1ETn8XbBh<.iGRP!$9*314[7V]44IP1%LkSg6R.apV8SuEC!A#O:ScXfd4AFKcU;0*4Ka>dejte#baG"!]m5_.*X%cY!Vc?#(<oq'I1T2+I6s)ZjVK*-scW*DZW`:6@&lY'26*le%ZZZggCjIm1P.`F">#;-<it/N2;21pGGnH1M<#kFu*;"WtjSY[N'D0Wt($jBi5l_Qk`POFA(CU!`;(84O$P87Jd888BUq5+_'qCSRMZO[HDtgj#mLOE141%MqYM+-U>h,3u!#C/2:(cZ'Nc3`t;@pcp5XUhka`rsa/K.'*V/*0O"T=iF6"?A)[&7ESgn<;i?nW)tZc#qW<OQKRn\BOf0#QQ#,uXgaX`![+-Zag"?!limm2gpob4d9*UMA;tMb(HIPhdhS0IVEGY^ri7H!i(b>dS=`4!MeK-79_]p(6bB\rcfO/r7:k&4nftEH14O?@[rO7L$Gorj=o')O0dR<q3T=2@PeIcI.4uB(kh%hiriUQYdVL;s'EO0;tk>6lCF1Zn4t1a/*h?;%i5Ma6BJ.'.[GEO@Yn00r-W5H_r;P`a^OiYr5;'3o4@R&N*jA1nHmuc8MQ`C"GY_Tmgf1E2?!0=QNGkncgla5FBQ2JZtjKAso]2?08/%Md$D)_rP9nf=eOKFo1CVC&.1.o]4Z=C.%d2WoFLJSq,-%8P0?2`2R3YI;Z&@9[3g<`IX+#_PBJ5Z>pttO'Ldo9<rj_]nVXMcdD7)*k?-J%")nAOfJcOc-;S:MBdLgB)b]6.6eQr:[e&@<S-V-hu+.[fTK"2K6ltL1n,L^4h:?oXLl](W>(b=;Et?A)iV8TI":r(Hu#Z,SjMbgO'^MkVo+?gY=^C:lnjrIl:R;4d+.3AE(fBV]/n8%+dYF6eRMt,Fm96I:=2OpQ!tc5hD^#Y/SY6rp<$h"Bddo(mL%P$?Q0p>4*Gm_h#+ae&2-Af1G0;I)%+^$@%:EKf72'/PS[->Bir:_X\el/X[Ldc[kVgQ'8gh^[+S0s[DYU_$805kdo3`I\;cmeVc\GDI-$`$3T`t6Y6Fn-^2J??&Nhti)R@j5+=f[.^tHKfm'=5~>endstream
+endobj
+148 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1881
+>>
+stream
+Gb!;d>Ar7S'RnB33:4VPD@&g2eBQeRZpdn-kdIkgb6G`.(2[iL6s#Q=VSiE1%OKl7Hj_IF6\iIN7$5oA^2kY(MLV`(5=bf]FlC@k#)kon#YYd1h=pE9HhQ^j"9-q^2%PKf4Q1i-pr![`#PYAaAoPlW)<+SME>Rd;aVBD?.sVtEKK;*M9n>$.0&E@>%f!t"_U7X%+2Ks"L[JN=__>l_juVn#7qJSQH_kk5nP_S5PP+]D4nP=)<aRa+/gbL912KY^]meT3ILj(Y6__`CI6)6%Qa36^`lubg]2pcVF>>`BSNlMbr+YWqMk_Fa-'<h2RZtMWHK)O=clV5">;GVpb<MJs[O1FG2N/iFERrmoZCUtQFk!dLVEWALQMMG5D68lD:\:-bMctSN#&9nTmeC27Oh&E_n=b^K+8/).cR2]E7#:]]a1#\!??elJJaYo4S.`tFpBfV3h:sB/\*;phh8`[[j#:J9fClH>HRn`k@i=1tTL\5a`<F<AJ!WoN4]>1;irWalbZ3Ld)F93qV2MO0=GP9SSKrNq1m&$JE1cW0Qjl&aicnp4'UL;$ht.>q"WA>(5aIf53n.q20P4!?@rF_RXnDp#k8l0u3^Qs?:?ca6brrqWj*;`fiBVDWlT)tgT$W96H<\ENG;6m(-P>u^1f?b*-,SaL7@_S$hK\;hb7XT]cG$7MV`*Q1_U:*kLj'Mn171h0e<$_,;cT&987WbPj+/akSUo'P7ZmMck$BAgcrm>3QOmeSRAMGa$Xt]H#RSO<Cp,Mug(jUa0P46#YZ`*'"Mu!Z,n`/_WhOB:.L*(lACe9;Lj^=jV]kl4+`L#=2'hIMcp&8@6Ht`H&qQ1qNgr6EK"7hc7Y&R1q'93<K.6SSpdYROPusNpr;Df9NIsj5;\FkJrq^ja]RXrO3qbET+^rS]8):GoDW+>d@>J5lNYT.&6*3=H&t)bfq#oQ**0aBi,^1r.&S)g>84enk4Y<]tQ%3XecEblI-K/pQZA.T`ihDei.!,WjO>BQk.Gc<*3JN3lT&p4?Ts=,ZS05YuqSL1,A`UW<Z`4cKS]p)0<8k_M"tT9Z"c:VkU0*_]QGkn`#ZmPC;bU*&AF,J:0#bKG4'W?Cp&Fr@dLN,)(^3!0J?al\=5maiI8lEkc5I$ZKgTab)o10O6\AnAn\#IYHd)47:l&e_I'le:1;;>'4%SAt[Z-fh(XR:KQKKj,3cEu8e!</cG/ErWKD&OJp01g[7=)2QR!G5"rs-OgG^80\=fBG^-jc:\Zk82)heJ>P"'`*H';r@f`?GaIj.;TW<%7F)07.NuY-Lo%V'8h=k&GlSRM[Z`7Jge6aI?';DS`.$+guhqCrtk3+G/uNrf+pLCJ;bPf(577Vl1GsIuu_0.WI)?_*h@)f9ciQOt2*!CumBg6_m<l-`3MsTJ-Tb-Jdg_oE+X`@,-Xch$\m']T\c+.kEilR@*4ug+Fq&S@[9\EPCQeru3b>=kjoc0qL1%alK2L@9o69$T1&o=]Ep>)DmmU^@3WLhMTeOTME7!G(,\k4%5![?e%hZIp?B,BmS)sS0:6QE!E'EP*287FWQlZ,]'E"Pmst;7/A7O;q7@HBrpmXbdX<`k5lD%#H_lVqr;15,Q.66LA>Mq_%@^5+q/6@9gAo^cIE)!i!N/6fP#<JGZ#@_kBU;9ku"To\[8;p#0E;_L+Sj-Qfj_T5.J#GF3N]*IPB)&a+#5X\KTNP9n`jJ*9oQ*5LpF@3f.uM8AiurQ9t(^No60l3+8k6,9Ugs&W5Gn6D@!&!Emleg12]q46E2K=r;U2X7[mG4oeuT'DH%jU5A52MA`WjJCh(TjuSQ>;2-r!f"sP%p054l3,H"qdCG\=e(FN<8GIja#I,g#UQqN[lN1Q%<[TRVV9D\6E:tqe\&MD~>endstream
+endobj
+149 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2075
+>>
+stream
+Gb!#]D/\/e&H88.ETj<BBN1+g?<dmXOu6r8XDM8P$j-PVZp`Yb,gdp7\F-QX;+b-+NBLHgQGE!Z7$2]fgrjaa!?Y[Eq+M0HUHZ=Q+[@IJLHq6IT`5fJp\-l?S`-'nNM_OKY_Y`0pqB7F6%I96ga6u*g+-Lr#D@gch8>)kI')$oU(I/)&E;YS>f&*3H_F`qDdI_mq]C&+SjWMkoRF,$S2E'lh(M?i,R]c_;o<P'TQa"mm6eU+051G'.jp6BcY!cbeoAN;m]9L2*mhdeic?]ZaBlZTY+QK<6A$/VC$@0T^q=o)Agc(9f:"kh"n>C"io:'7NO%%YGKNgr9U:r,<Mfh8JA\<$VK,Zkl4K(>#p55fhL["W)EWgCYP0l$4C[7O>'Og)O(d`G4#8tp.!mYS2_P)jW\kc^Ar;J[Q6t]SF&b(c?]U_=B^_J+6-Vt8GX4!9aCAY1iE6.,OV^jjrDJX[.3W(%#L^SR6%Zk<L36AjBEi0'di2GMi0)OH7l0'\p&\j+#!UI%5c)9QCol&;AS7uq/e"[%(nkkZ.d"4p7=^^BnFWSWdp-E.dEFQ3[fZ*^fmON/[(PMb$ml=8S,G%3kDW!Vr\Nh@4W4M8k\M%Mf/B<\Ak/&F"TE3'D4G_VW2%+M&b&14@b"T98S)J'=dVD-oIj2NK@ugjmU4t1DHV$(5l:e@B@L^3=Eg*MII#88bk5*3//L1rK@[Ei09]XT)](N<6oLC\fe$=mYP$ZIKj'S7B4[P?[.;69-&LYO.$Wrpgt!mbOP'[\+`o#Xm;PQ$FmVpj=;\4Fm-uV>TgS:i+9SIJRNA87OkpB"`AI<"#bm*uJlkg-/7d&@-Pce_=cI:`0j&8ea>i?!7`)P>nUY]:*4^7$4snsD8?@QVR_hq)7aCl,Y&n>_:pRl0f]o9DOV>GZ/$6*<[7(NT>^H!IZ,:d)BT+b_nqi`D3DhdFQ#92fTe`<7aH0`jC3&LN)s--'krIne25VKeZ"UE^9D"@u<7VIPdGuNL<X*SiK?D>9X#lVX3bTG8D`s\jPFnL.C2>-qRDXAKEE=4m,$0r6%Tr?5)XJm"r\<OMBVc'O2@/OcUq?ik[=IM"%ruC(mG1Vk1Qfkd'?I8aI:SNQVq[=qc_D;PBp@_gfV>1P_?.:gl5eBn,-u^i,4Fdl3s,5bkrN.e)hAQ1+Ch0u-FhhIhT1$Eecjp#p+N%BCCGGjMJPANmiR)ACe(=ghUgF>r6dG4Bod*PLJ-FY,Os@'SN)OsONdl@;;?[U0A].$@I%-o\ZF`c8e_AiAKn`)oDC)%,?a""]5geNVm<sQ6OP-?R,k!WJq;V'<ljUUA(p.[s(hN)Z**SYj\$7a^;a1,G%Uc`V6B40SWcObjq5.F\3jo=6ag958L["mFo]#H1(gKSY/OWT52fkYc=SAm$St(pb6Kehea3,9Jm6tNHSuHiiL1RW_ERk.hZYX`@I*.iUD&,o'qN;2"L-FehHAnaV9ScmFrFQT>^dDA_GkFb]\1h3X5_90)%[pp[H^"L.<414?)8n@6F+"ZN)F:rr%3,+!o!8*+#bjb#lXLB#+;bn@/`:/AfjoN9Os.q@WS?6<7j)Q?7E;m^l>=OAg>Q@ZYHM5W2kZCBJC3)PfU3`9s[V>bhW-13LD'`Sj8)d=!UB(8fh%/?;/"V(E)arVj5[d_"9Ncfdi.1nmk.aL"AYS>C)Pb`(uVt*fW73K3c@SQRd9!=L)5"&Jj-=\nqVbW9d8h`[fn8cCB14F2#)5aV'*[$4C8I=G$2b1B.k9JMSja_g]`@/7H&kj)UI\ffV)`JZ6h3/b9jY\nWG.B#Ipa"_L$i$q[4n70dN(%N?`VLW6kYp"E+NZ:/1/]OViCXJnX<?@;YNhadjY]9Y*+Z1Pfe`5G<:GhIINI5:N]=Q]C+D/?Tug#c20VE#XnL1lq-'Xp3"]6+au&&"r^kg.7oM_=lm?ieh;E40k-Z&q5kk1Mf&+7fbjGepQ.0]&h/4]\%c<S8^Mq#8*'E.+DM%&OAg9aS^B+[_f=Pa:<%1Cic]/tTr$H;AfKbE<DaMKWI\pX3GZ-+)bO=\B,S^H`iBIC3Xg1hb3e4.Q;dhS3_TL55~>endstream
+endobj
+150 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2679
+>>
+stream
+Gb!#_?$"aY(4FN4\Dr?&fh#:thg3Gt8_dptBq8A^cL1H2+s@OU7BdnJ>Q9-_5hU:W[R2k+0upOD&J,6ggjAJ"(D%f55Ks)N[mW_ZqWX@Z$Y['t(3pKD:[#^e`Et8^j-T.[#FQAt8X*'6qd-K46[\T&1SZn1^Ok4FgF&e'QGg/c\gO:[C`fpdp\3L)hE9T_nslQ@.pDpda5WqEaF]e^?M&I@o(.d.)"V\qnY/!9A(hQRR2>^L?`E8UmV)Ib[j11qie_kKd!)i-J(NpX5p^I68k<77WnTFV?&G)0QFu'r'fVk+j1?<e/cTAeqq2#Eq0r+e/G8pSNpm3<i[&:m%=TC'18W?LGeKkAakDiXW@bZHonGH6\J2H6CRJ*EgK\"k]d'2pl(D'-<U:4PNkdO^]l]R;)2<ta0%+I<IBTg=9(@LD99%;6V731lY&8MjXOK+6"%]PYTf;U6$!=\/OZ(&n$b\"ZWNBi<^(IQR3X(f6M@,%iCO&Y&N57[I]m,i$bl[%Hr^=8GUn$%$)WCo3VFmhBo$3>snP@N#k@+R9;*%W6NVq"i%(TS#+=$NE@']KMCCO0XQ'&*/(#bl&T[j%t9%=(^=.59^JUGSa8t#B)I9]^Qb\M"lk<T[A]9Ua&g+(pC1<5Xc&%Ubd/>s>a;B+;,a-^rcc'5(m(41kf;_6*.Ob8>/aK7^,j-QLG$aT[hGZnBuZn)A\!^*fSS'iDr+sO/m,2cmf#^H@>mJ3g7e-a7_B=t*Oc0O/J\SE+7H/R#5^*D!\5EW62eZ)LC`oIN[\2.$88>sKsK:1-J4@JE85#ZuSN7]Ps8(F#4@BJBGc8LQ#<?lIOr\iJV:2;LA>-7Ql<mjOdg=:2=TCZ*BnH;(I/%I$Y2cWQMV$@]RGIaB=%mRn7lP9J,9!biUD8UKHW8NCp*Q)D"c'7<mRWrO#Om%.iZkg3'A6o9tiJ`"aE`lP5nR6]6]P/j`4,.tW56Arcc'4Os-T.b%dPC8plIO=]Wf@"ADrAQZ`S6^.RQein<r0k&`&6F1Q*AlY[B^4(^1eN*BL`&lUba=S0X2rcOe;XS*<EPU>!,9]]7pqfi**t77HK-Y&QFO\:mkZU8:Y(WLILqTbZ-*Cp-EJ%caIoH**@B40DX1UPsZsiA#0>gGm)MAEAUakNIB,K-DH=!ZKh6XC&DnV&A>4pjE_9I"ir3N&D)rY04JuK=VbCVV_R*c"5]i[AtN<Eo\6B']#u\'Nkc(,k"2I%ZGi>j]`,Z4,JgM6Y%C$k_JoAB\(3TiM)^3Zir%=DX(0ONGn\;^(PNNVp:WX>@<%sU&(cdh+HBFQ!_@Pj8C_9daRVkZHZ=t6%>m`$Q"W\GlEcna@1`9AbU11A865XXTsm@uPh8GGbmWd+g.%G??#C>0,Gd$^3L<$6D2LfK4<<-8bN;E]#kd.UU&M`bo#P@(+!EAp#TMfX9>,/l!R/*W'R+I&fj9VVrA]dL8tJ>WnD^EF,?mKVMWq&@C-n->=qp5nj?I1]:N6hrXd$8^B&7/#eIJCD/]\CtVrRR7VRI(^GojoG^6SZ'Q$eYODQU1o#H1iKLbD6FF.BJ&d^'Yl;mAkY=+'1O"2m#rFcIC0mLj;dKc'nqPg,JAPL)rLK'c\63ZdglU._X8?Qlpbm44I<3N+?VD;-$<R0#>$(<F<@dV]"tbKQS<66;SWeW)mTN+Yf%!FAQ*rM?C@<Y$0d4'U<g?Do>Xd5mr.<a0lOnh)#L2oS':;]6/+`65"bB4(&)_;5!/<=Agr$732?IBacJ>5cfk:._*3PXW92IG7dP6Z$=WiS&bXkGFq)EH+t;Fa!lSn).i>P46.mqKIICc_oG`./H:CgcDAfs1^VQ#)XBdN6rhuPSh.qPpl0c`Iep\GV5W_;kUN8ZO7d"\7:C4%o$PrL09UH)IEr6+YH.]L2MA=,%EQ!$uB-]B=&ammkSP3Wm.qV$#?YMcHb39LQ!kn]g\<oDo;K0nGEO,)_r\7;_7fq%;Df?]o/0!#6:,1ibNd\ZZG!WE/:7&p%L*eLd:19;k8)[&]_\ghV]:I#c5!d\iBuS4"1s3%tW7/LO@ucK);'$F>K<-^_M431#g9kqaAa9mOOCgr.9BM153HW)N$t>JG7^]53(K5Opj6C#l4B5mgVPd1@VP;I81[D-0[7O%8f!8nUP"?An`PWlM6?P.^UK\A+7"C",jmS'uCN+qL2=%l<5]U"ri#qLh96aEU'fcG+!ZRr)ao3CL.I)-M(lm#oSB&RRh;ifY$C%dtu<9<cG_iN"EqX4BZ.1=OI:n=:BDQ4/grl!Rgc?\,nkk?q_D2(%77Q,Ae>]/OZ=Y1.CDR=Yu7&*3PAI%YfX"/d7j^P%^;Z;lBHud=a(eF!Ut1L2<S>Z-jH\bK\^m+fJprln$C,Ygr>Z:cT,WiLuO5O/JAkW]CnoSJ"!6nri/t3`VHh#P0L)(GdA&`*tM7cRsq.\iThYd$HL0mRt!i1eZ#KZH!+G'@2^2LN.bb::t$1S.tSeM>I++WXC7`"7F80nC\$F>j9.<lP$hM*h4U``uSj]m=5HO6h)6NLji!EAdaY_P'fBsI.cGZ0AW5mYJONfYR[4:RTUPRGT+nA!^9MCa]L;OCO<L>2s-@\isYg5#c3>%d6q>JX%]DprBOQIp2J<UZXL,>Ls?U3$.IN?\[FKNmB`]8'Y<Sn*"`N*e0J]#X*W\$DA0_Y+4FU"aT~>endstream
+endobj
+151 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 607
+>>
+stream
+Gb!$E9i'e'&;KZL'ltoV1&0L[3)LGlPrMU/b=Z#+C-lV"BTmPkT?ecKV+>$o8e-uK803gTYFgcoiP;D^p76($VD4THF5R,Z8)O^h`&DWM#Ch=c4oEQ/KIE*_#"$=+6rMIg]jVDK]X,t*Hl'V.BJdYs2M+BRKSZ)i=kh*co7>"H\+Tsak=,h_-FqLm&p,Y]r<bZ+NasoDFD*OJ5RZ*>h6;XQ^6m2m-`H?/^c_^h@h\aJ/08(sjb6L]XbNAtLjq75jt3*K59_%MA87'Z'Lu[#0T;m`.ea)1#X2:`*G#Qa8J29%F)a9'!fUQd8!u>g1--<Vbg3([^.5'X6.qBd-"3`:e<sMW=W@8MA5\Dp$7Y&0(l$+SP.HFC=<1((Y`[KX8O[V9-Lj`8f<.4Q$*tkY3\j#X#a(V3YM=0\%n0qO2:?5+B1GJ0Urgh^Fcr$3jqoTH%WnuU09^^+-qoFXr:o(cPqMdp0%ni<m-$(mg;23;H04&oW-/qq0/NuI1hff7kmFTmV,)ro*6`eV%bo-kO;>P_o7q0W^OI!"o@3TY/Rdt31q:0/3eiuf0`?F2\G1<D9`Ul/Ip:s/Rke\e+r@1S>,-?rEsQ(QcJ3M:~>endstream
+endobj
+152 0 obj
+<<
+/NeedAppearances false
+/DA (/Helv 0 Tf 0 g )
+/DR 153 0 R
+/Fields [ 12 0 R 42 0 R 44 0 R 46 0 R 47 0 R 48 0 R 49 0 R 84 0 R ]
+
+/SigFlags 0>>
+endobj
+153 0 obj
+<< /Encoding 154 0 R
+ /Font 155 0 R
+>>
+endobj
+154 0 obj
+<< /PDFDocEncoding 156 0 R
+>>
+endobj
+155 0 obj
+<<
+/CoBO 157 0 R /CoBo 158 0 R /CoOb 159 0 R /Cour 160 0 R /HeBO 161 0 R /HeBo 162 0 R 
+  /HeOb 163 0 R /Helv 164 0 R /TiBI 165 0 R /TiBo 166 0 R /TiIt 167 0 R /Time 168 0 R 
+  /ZaDb 169 0 R
+>>
+endobj
+156 0 obj
+<< /Differences    [ 24 /breve /caron /circumflex /dotaccent /hungarumlaut /ogonek /ring /tilde 39 /quotesingle 96 /grave 128 /bullet /dagger /daggerdbl /ellipsis /emdash /endash /florin /fraction /guilsinglleft /guilsinglright /minus /perthousand /quotedblbase /quotedblleft /quotedblright /quoteleft /quoteright /quotesinglbase /trademark /fi /fl /Lslash /OE /Scaron /Ydieresis /Zcaron /dotlessi /lslash /oe /scaron /zcaron 160 /Euro 164 /currency 166 /brokenbar 168 /dieresis /copyright /ordfeminine 172 /logicalnot /.notdef /registered /macron /degree /plusminus /twosuperior /threesuperior /acute /mu 183 /periodcentered /cedilla /onesuperior /ordmasculine 188 /onequarter /onehalf /threequarters 192 /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis    ] /Type /Encoding>>
+endobj
+157 0 obj
+<< /BaseFont /Courier-BoldOblique
+ /Encoding 170 0 R
+ /Name /CoBO
+ /Subtype  /Type1  /Type  /Font >>
+endobj
+158 0 obj
+<< /BaseFont /Courier-Bold
+ /Encoding 171 0 R
+ /Name /CoBo
+ /Subtype  /Type1  /Type  /Font >>
+endobj
+159 0 obj
+<< /BaseFont /Courier-Oblique
+ /Encoding 172 0 R
+ /Name /CoOb
+ /Subtype  /Type1  /Type  /Font >>
+endobj
+160 0 obj
+<< /BaseFont /Courier
+ /Encoding 173 0 R
+ /Name /Cour
+ /Subtype  /Type1  /Type  /Font >>
+endobj
+161 0 obj
+<< /BaseFont /Helvetica-BoldOblique
+ /Encoding 174 0 R
+ /Name /HeBO
+ /Subtype  /Type1  /Type  /Font >>
+endobj
+162 0 obj
+<< /BaseFont /Helvetica-Bold
+ /Encoding 175 0 R
+ /Name /HeBo
+ /Subtype  /Type1  /Type  /Font >>
+endobj
+163 0 obj
+<< /BaseFont /Helvetica-Oblique
+ /Encoding 176 0 R
+ /Name /HeOb
+ /Subtype  /Type1  /Type  /Font >>
+endobj
+164 0 obj
+<< /BaseFont /Helvetica
+ /Encoding 177 0 R
+ /Name /Helv
+ /Subtype  /Type1  /Type  /Font >>
+endobj
+165 0 obj
+<< /BaseFont /Times-BoldItalic
+ /Encoding 178 0 R
+ /Name /TiBI
+ /Subtype  /Type1  /Type  /Font >>
+endobj
+166 0 obj
+<< /BaseFont /Times-Bold
+ /Encoding 179 0 R
+ /Name /TiBo
+ /Subtype  /Type1  /Type  /Font >>
+endobj
+167 0 obj
+<< /BaseFont /Times-Italic
+ /Encoding 180 0 R
+ /Name /TiIt
+ /Subtype  /Type1  /Type  /Font >>
+endobj
+168 0 obj
+<< /BaseFont /Times-Roman
+ /Encoding 181 0 R
+ /Name /Time
+ /Subtype  /Type1  /Type  /Font >>
+endobj
+169 0 obj
+ << /BaseFont    /ZapfDingbats /Name    /ZaDb /Subtype    /Type1 /Type    /Font>>
+endobj
+170 0 obj
+<< /Differences    [ 24 /breve /caron /circumflex /dotaccent /hungarumlaut /ogonek /ring /tilde 39 /quotesingle 96 /grave 128 /bullet /dagger /daggerdbl /ellipsis /emdash /endash /florin /fraction /guilsinglleft /guilsinglright /minus /perthousand /quotedblbase /quotedblleft /quotedblright /quoteleft /quoteright /quotesinglbase /trademark /fi /fl /Lslash /OE /Scaron /Ydieresis /Zcaron /dotlessi /lslash /oe /scaron /zcaron 160 /Euro 164 /currency 166 /brokenbar 168 /dieresis /copyright /ordfeminine 172 /logicalnot /.notdef /registered /macron /degree /plusminus /twosuperior /threesuperior /acute /mu 183 /periodcentered /cedilla /onesuperior /ordmasculine 188 /onequarter /onehalf /threequarters 192 /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis    ] /Type /Encoding>>
+endobj
+171 0 obj
+<< /Differences    [ 24 /breve /caron /circumflex /dotaccent /hungarumlaut /ogonek /ring /tilde 39 /quotesingle 96 /grave 128 /bullet /dagger /daggerdbl /ellipsis /emdash /endash /florin /fraction /guilsinglleft /guilsinglright /minus /perthousand /quotedblbase /quotedblleft /quotedblright /quoteleft /quoteright /quotesinglbase /trademark /fi /fl /Lslash /OE /Scaron /Ydieresis /Zcaron /dotlessi /lslash /oe /scaron /zcaron 160 /Euro 164 /currency 166 /brokenbar 168 /dieresis /copyright /ordfeminine 172 /logicalnot /.notdef /registered /macron /degree /plusminus /twosuperior /threesuperior /acute /mu 183 /periodcentered /cedilla /onesuperior /ordmasculine 188 /onequarter /onehalf /threequarters 192 /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis    ] /Type /Encoding>>
+endobj
+172 0 obj
+<< /Differences    [ 24 /breve /caron /circumflex /dotaccent /hungarumlaut /ogonek /ring /tilde 39 /quotesingle 96 /grave 128 /bullet /dagger /daggerdbl /ellipsis /emdash /endash /florin /fraction /guilsinglleft /guilsinglright /minus /perthousand /quotedblbase /quotedblleft /quotedblright /quoteleft /quoteright /quotesinglbase /trademark /fi /fl /Lslash /OE /Scaron /Ydieresis /Zcaron /dotlessi /lslash /oe /scaron /zcaron 160 /Euro 164 /currency 166 /brokenbar 168 /dieresis /copyright /ordfeminine 172 /logicalnot /.notdef /registered /macron /degree /plusminus /twosuperior /threesuperior /acute /mu 183 /periodcentered /cedilla /onesuperior /ordmasculine 188 /onequarter /onehalf /threequarters 192 /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis    ] /Type /Encoding>>
+endobj
+173 0 obj
+<< /Differences    [ 24 /breve /caron /circumflex /dotaccent /hungarumlaut /ogonek /ring /tilde 39 /quotesingle 96 /grave 128 /bullet /dagger /daggerdbl /ellipsis /emdash /endash /florin /fraction /guilsinglleft /guilsinglright /minus /perthousand /quotedblbase /quotedblleft /quotedblright /quoteleft /quoteright /quotesinglbase /trademark /fi /fl /Lslash /OE /Scaron /Ydieresis /Zcaron /dotlessi /lslash /oe /scaron /zcaron 160 /Euro 164 /currency 166 /brokenbar 168 /dieresis /copyright /ordfeminine 172 /logicalnot /.notdef /registered /macron /degree /plusminus /twosuperior /threesuperior /acute /mu 183 /periodcentered /cedilla /onesuperior /ordmasculine 188 /onequarter /onehalf /threequarters 192 /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis    ] /Type /Encoding>>
+endobj
+174 0 obj
+<< /Differences    [ 24 /breve /caron /circumflex /dotaccent /hungarumlaut /ogonek /ring /tilde 39 /quotesingle 96 /grave 128 /bullet /dagger /daggerdbl /ellipsis /emdash /endash /florin /fraction /guilsinglleft /guilsinglright /minus /perthousand /quotedblbase /quotedblleft /quotedblright /quoteleft /quoteright /quotesinglbase /trademark /fi /fl /Lslash /OE /Scaron /Ydieresis /Zcaron /dotlessi /lslash /oe /scaron /zcaron 160 /Euro 164 /currency 166 /brokenbar 168 /dieresis /copyright /ordfeminine 172 /logicalnot /.notdef /registered /macron /degree /plusminus /twosuperior /threesuperior /acute /mu 183 /periodcentered /cedilla /onesuperior /ordmasculine 188 /onequarter /onehalf /threequarters 192 /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis    ] /Type /Encoding>>
+endobj
+175 0 obj
+<< /Differences    [ 24 /breve /caron /circumflex /dotaccent /hungarumlaut /ogonek /ring /tilde 39 /quotesingle 96 /grave 128 /bullet /dagger /daggerdbl /ellipsis /emdash /endash /florin /fraction /guilsinglleft /guilsinglright /minus /perthousand /quotedblbase /quotedblleft /quotedblright /quoteleft /quoteright /quotesinglbase /trademark /fi /fl /Lslash /OE /Scaron /Ydieresis /Zcaron /dotlessi /lslash /oe /scaron /zcaron 160 /Euro 164 /currency 166 /brokenbar 168 /dieresis /copyright /ordfeminine 172 /logicalnot /.notdef /registered /macron /degree /plusminus /twosuperior /threesuperior /acute /mu 183 /periodcentered /cedilla /onesuperior /ordmasculine 188 /onequarter /onehalf /threequarters 192 /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis    ] /Type /Encoding>>
+endobj
+176 0 obj
+<< /Differences    [ 24 /breve /caron /circumflex /dotaccent /hungarumlaut /ogonek /ring /tilde 39 /quotesingle 96 /grave 128 /bullet /dagger /daggerdbl /ellipsis /emdash /endash /florin /fraction /guilsinglleft /guilsinglright /minus /perthousand /quotedblbase /quotedblleft /quotedblright /quoteleft /quoteright /quotesinglbase /trademark /fi /fl /Lslash /OE /Scaron /Ydieresis /Zcaron /dotlessi /lslash /oe /scaron /zcaron 160 /Euro 164 /currency 166 /brokenbar 168 /dieresis /copyright /ordfeminine 172 /logicalnot /.notdef /registered /macron /degree /plusminus /twosuperior /threesuperior /acute /mu 183 /periodcentered /cedilla /onesuperior /ordmasculine 188 /onequarter /onehalf /threequarters 192 /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis    ] /Type /Encoding>>
+endobj
+177 0 obj
+<< /Differences    [ 24 /breve /caron /circumflex /dotaccent /hungarumlaut /ogonek /ring /tilde 39 /quotesingle 96 /grave 128 /bullet /dagger /daggerdbl /ellipsis /emdash /endash /florin /fraction /guilsinglleft /guilsinglright /minus /perthousand /quotedblbase /quotedblleft /quotedblright /quoteleft /quoteright /quotesinglbase /trademark /fi /fl /Lslash /OE /Scaron /Ydieresis /Zcaron /dotlessi /lslash /oe /scaron /zcaron 160 /Euro 164 /currency 166 /brokenbar 168 /dieresis /copyright /ordfeminine 172 /logicalnot /.notdef /registered /macron /degree /plusminus /twosuperior /threesuperior /acute /mu 183 /periodcentered /cedilla /onesuperior /ordmasculine 188 /onequarter /onehalf /threequarters 192 /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis    ] /Type /Encoding>>
+endobj
+178 0 obj
+<< /Differences    [ 24 /breve /caron /circumflex /dotaccent /hungarumlaut /ogonek /ring /tilde 39 /quotesingle 96 /grave 128 /bullet /dagger /daggerdbl /ellipsis /emdash /endash /florin /fraction /guilsinglleft /guilsinglright /minus /perthousand /quotedblbase /quotedblleft /quotedblright /quoteleft /quoteright /quotesinglbase /trademark /fi /fl /Lslash /OE /Scaron /Ydieresis /Zcaron /dotlessi /lslash /oe /scaron /zcaron 160 /Euro 164 /currency 166 /brokenbar 168 /dieresis /copyright /ordfeminine 172 /logicalnot /.notdef /registered /macron /degree /plusminus /twosuperior /threesuperior /acute /mu 183 /periodcentered /cedilla /onesuperior /ordmasculine 188 /onequarter /onehalf /threequarters 192 /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis    ] /Type /Encoding>>
+endobj
+179 0 obj
+<< /Differences    [ 24 /breve /caron /circumflex /dotaccent /hungarumlaut /ogonek /ring /tilde 39 /quotesingle 96 /grave 128 /bullet /dagger /daggerdbl /ellipsis /emdash /endash /florin /fraction /guilsinglleft /guilsinglright /minus /perthousand /quotedblbase /quotedblleft /quotedblright /quoteleft /quoteright /quotesinglbase /trademark /fi /fl /Lslash /OE /Scaron /Ydieresis /Zcaron /dotlessi /lslash /oe /scaron /zcaron 160 /Euro 164 /currency 166 /brokenbar 168 /dieresis /copyright /ordfeminine 172 /logicalnot /.notdef /registered /macron /degree /plusminus /twosuperior /threesuperior /acute /mu 183 /periodcentered /cedilla /onesuperior /ordmasculine 188 /onequarter /onehalf /threequarters 192 /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis    ] /Type /Encoding>>
+endobj
+180 0 obj
+<< /Differences    [ 24 /breve /caron /circumflex /dotaccent /hungarumlaut /ogonek /ring /tilde 39 /quotesingle 96 /grave 128 /bullet /dagger /daggerdbl /ellipsis /emdash /endash /florin /fraction /guilsinglleft /guilsinglright /minus /perthousand /quotedblbase /quotedblleft /quotedblright /quoteleft /quoteright /quotesinglbase /trademark /fi /fl /Lslash /OE /Scaron /Ydieresis /Zcaron /dotlessi /lslash /oe /scaron /zcaron 160 /Euro 164 /currency 166 /brokenbar 168 /dieresis /copyright /ordfeminine 172 /logicalnot /.notdef /registered /macron /degree /plusminus /twosuperior /threesuperior /acute /mu 183 /periodcentered /cedilla /onesuperior /ordmasculine 188 /onequarter /onehalf /threequarters 192 /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis    ] /Type /Encoding>>
+endobj
+181 0 obj
+<< /Differences    [ 24 /breve /caron /circumflex /dotaccent /hungarumlaut /ogonek /ring /tilde 39 /quotesingle 96 /grave 128 /bullet /dagger /daggerdbl /ellipsis /emdash /endash /florin /fraction /guilsinglleft /guilsinglright /minus /perthousand /quotedblbase /quotedblleft /quotedblright /quoteleft /quoteright /quotesinglbase /trademark /fi /fl /Lslash /OE /Scaron /Ydieresis /Zcaron /dotlessi /lslash /oe /scaron /zcaron 160 /Euro 164 /currency 166 /brokenbar 168 /dieresis /copyright /ordfeminine 172 /logicalnot /.notdef /registered /macron /degree /plusminus /twosuperior /threesuperior /acute /mu 183 /periodcentered /cedilla /onesuperior /ordmasculine 188 /onequarter /onehalf /threequarters 192 /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis    ] /Type /Encoding>>
+endobj
+xref
+0 182
+0000000000 65535 f 
+0000000073 00000 n 
+0000000148 00000 n 
+0000000255 00000 n 
+0000000432 00000 n 
+0000000609 00000 n 
+0000000795 00000 n 
+0000001094 00000 n 
+0000001387 00000 n 
+0000001690 00000 n 
+0000001975 00000 n 
+0000002259 00000 n 
+0000002531 00000 n 
+0000002797 00000 n 
+0000002910 00000 n 
+0000003086 00000 n 
+0000003264 00000 n 
+0000003447 00000 n 
+0000003643 00000 n 
+0000003825 00000 n 
+0000004180 00000 n 
+0000004534 00000 n 
+0000004716 00000 n 
+0000004895 00000 n 
+0000005240 00000 n 
+0000005586 00000 n 
+0000005899 00000 n 
+0000006087 00000 n 
+0000006304 00000 n 
+0000006603 00000 n 
+0000006838 00000 n 
+0000007011 00000 n 
+0000007316 00000 n 
+0000007605 00000 n 
+0000007778 00000 n 
+0000008075 00000 n 
+0000008381 00000 n 
+0000008827 00000 n 
+0000008933 00000 n 
+0000009190 00000 n 
+0000009417 00000 n 
+0000009625 00000 n 
+0000009833 00000 n 
+0000010109 00000 n 
+0000010225 00000 n 
+0000010498 00000 n 
+0000010732 00000 n 
+0000011009 00000 n 
+0000011283 00000 n 
+0000011560 00000 n 
+0000011834 00000 n 
+0000012041 00000 n 
+0000012239 00000 n 
+0000012498 00000 n 
+0000012729 00000 n 
+0000012979 00000 n 
+0000013224 00000 n 
+0000013466 00000 n 
+0000013661 00000 n 
+0000013924 00000 n 
+0000014171 00000 n 
+0000014492 00000 n 
+0000014735 00000 n 
+0000015003 00000 n 
+0000015272 00000 n 
+0000015508 00000 n 
+0000015791 00000 n 
+0000016068 00000 n 
+0000016348 00000 n 
+0000016594 00000 n 
+0000016845 00000 n 
+0000017104 00000 n 
+0000017384 00000 n 
+0000017634 00000 n 
+0000017862 00000 n 
+0000018099 00000 n 
+0000018361 00000 n 
+0000018628 00000 n 
+0000018873 00000 n 
+0000018951 00000 n 
+0000019241 00000 n 
+0000019476 00000 n 
+0000019764 00000 n 
+0000020011 00000 n 
+0000020292 00000 n 
+0000020566 00000 n 
+0000020744 00000 n 
+0000020940 00000 n 
+0000021118 00000 n 
+0000021398 00000 n 
+0000021692 00000 n 
+0000021981 00000 n 
+0000022159 00000 n 
+0000022337 00000 n 
+0000022529 00000 n 
+0000022725 00000 n 
+0000022909 00000 n 
+0000023108 00000 n 
+0000023316 00000 n 
+0000023531 00000 n 
+0000023708 00000 n 
+0000023904 00000 n 
+0000024107 00000 n 
+0000024301 00000 n 
+0000024494 00000 n 
+0000025025 00000 n 
+0000025223 00000 n 
+0000025417 00000 n 
+0000025601 00000 n 
+0000025786 00000 n 
+0000025972 00000 n 
+0000026173 00000 n 
+0000026360 00000 n 
+0000026557 00000 n 
+0000026753 00000 n 
+0000026946 00000 n 
+0000027247 00000 n 
+0000027355 00000 n 
+0000027724 00000 n 
+0000027802 00000 n 
+0000027947 00000 n 
+0000028075 00000 n 
+0000028178 00000 n 
+0000028294 00000 n 
+0000028453 00000 n 
+0000028596 00000 n 
+0000028700 00000 n 
+0000028922 00000 n 
+0000029017 00000 n 
+0000029125 00000 n 
+0000029264 00000 n 
+0000029366 00000 n 
+0000029480 00000 n 
+0000029622 00000 n 
+0000029714 00000 n 
+0000029822 00000 n 
+0000029967 00000 n 
+0000030092 00000 n 
+0000030217 00000 n 
+0000030342 00000 n 
+0000030442 00000 n 
+0000030550 00000 n 
+0000030657 00000 n 
+0000030765 00000 n 
+0000030878 00000 n 
+0000033255 00000 n 
+0000034644 00000 n 
+0000036926 00000 n 
+0000038390 00000 n 
+0000040364 00000 n 
+0000042532 00000 n 
+0000045304 00000 n 
+0000046003 00000 n 
+0000046169 00000 n 
+0000046227 00000 n 
+0000046275 00000 n 
+0000046486 00000 n 
+0000047819 00000 n 
+0000047940 00000 n 
+0000048054 00000 n 
+0000048171 00000 n 
+0000048280 00000 n 
+0000048403 00000 n 
+0000048519 00000 n 
+0000048638 00000 n 
+0000048749 00000 n 
+0000048867 00000 n 
+0000048979 00000 n 
+0000049093 00000 n 
+0000049206 00000 n 
+0000049305 00000 n 
+0000050638 00000 n 
+0000051971 00000 n 
+0000053304 00000 n 
+0000054637 00000 n 
+0000055970 00000 n 
+0000057303 00000 n 
+0000058636 00000 n 
+0000059969 00000 n 
+0000061302 00000 n 
+0000062635 00000 n 
+0000063968 00000 n 
+trailer
+<<
+/ID 
+[<7a6be28ce1081defe2495019c5353b8a><7a6be28ce1081defe2495019c5353b8a>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 117 0 R
+/Root 116 0 R
+/Size 182
+>>
+startxref
+65301
+%%EOF

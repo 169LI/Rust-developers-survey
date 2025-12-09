@@ -1,0 +1,357 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 10 0 R /F4 12 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/anon65535354)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 741.3646 79.38646 752.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://docs.rust-lang.org)
+>> /Border [ 0 0 0 ] /Rect [ 69.77896 720.6146 129.8015 731.8646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/jdahlstrom)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 620.6146 63.93646 631.8646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://doc.rust-lang.org)
+>> /Border [ 0 0 0 ] /Rect [ 63.95146 599.8646 120.224 611.1146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://rust-lang.org/learn)
+>> /Border [ 0 0 0 ] /Rect [ 461.4215 599.8646 520.1915 611.1146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://rust-lang.org/learn)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 588.6146 109.799 599.8646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/anon65535354)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 522.6146 79.38646 533.8646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/kornel)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 481.1146 49.76896 492.3646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/anon65535354)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 356.6146 79.38646 367.8646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/jofas)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 94.61456 45.18646 105.8646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 11 0 R 13 0 R 14 0 R 15 0 R ] /Contents 42 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 41 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/anon65535354)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 772.2208 79.38646 783.4708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/jofas)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 534.7208 45.18646 545.9708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/Redglyph)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 329.2208 61.02646 340.4708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/kornel)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 212.4708 49.76896 223.7208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/system)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 50.47081 53.09896 61.72081 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/Annots [ 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R ] /Contents 43 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 41 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+23 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/where-to-report-issues-against-rust-lang-org/11282)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 752.3708 130.054 763.6208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/where-to-report-issues-against-rust-lang-org/11282)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 741.1208 74.61396 752.3708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+25 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/lets-talk-about-ecosystem-documentation/2791)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 718.6208 116.4865 729.8708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+26 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/lets-talk-about-ecosystem-documentation/2791)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 707.3708 77.53896 718.6208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+27 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/the-beta-rust-lang-org-pr-debacle/22778)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 684.8708 114.634 696.1208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+28 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/the-beta-rust-lang-org-pr-debacle/22778)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 673.6208 54.61146 684.8708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+29 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/dark-ayu-theme-for-rustdoc-and-docs-rs/9289)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 651.1208 126.289 662.3708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+30 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/dark-ayu-theme-for-rustdoc-and-docs-rs/9289)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 639.8708 68.35896 651.1208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+31 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/making-external-rust-documentation-websites-better/17693)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 617.3708 98.78646 628.6208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+32 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/making-external-rust-documentation-websites-better/17693)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 606.1208 130.0615 617.3708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+33 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.discourse.org)
+>> /Border [ 0 0 0 ] /Rect [ 71.03146 522.1208 104.369 533.3708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+34 0 obj
+<<
+/Annots [ 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 
+  33 0 R ] /Contents 44 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 41 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+35 0 obj
+<<
+/Outlines 37 0 R /PageMode /UseNone /Pages 41 0 R /Type /Catalog
+>>
+endobj
+36 0 obj
+<<
+/Author () /CreationDate (D:20251207211028+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20251207211028+08'00') /Producer (xhtml2pdf <https://github.com/xhtml2pdf/xhtml2pdf/>) 
+  /Subject () /Title (Would it make sense to ask for this change to the website? - help - The Rust Programming Language Forum) /Trapped /False
+>>
+endobj
+37 0 obj
+<<
+/Count 3 /First 38 0 R /Last 38 0 R /Type /Outlines
+>>
+endobj
+38 0 obj
+<<
+/Count -1 /Dest [ 16 0 R /Fit ] /First 39 0 R /Last 39 0 R /Parent 37 0 R /Title (Would it make sense to ask for this change to the website? )
+>>
+endobj
+39 0 obj
+<<
+/Count -1 /Dest [ 34 0 R /Fit ] /First 40 0 R /Last 40 0 R /Parent 38 0 R /Title (Related topics )
+>>
+endobj
+40 0 obj
+<<
+/Dest [ 34 0 R /Fit ] /Parent 39 0 R /Title (Related topics )
+>>
+endobj
+41 0 obj
+<<
+/Count 3 /Kids [ 16 0 R 22 0 R 34 0 R ] /Type /Pages
+>>
+endobj
+42 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 3364
+>>
+stream
+Gb!#^CN%tK(&dQ-ENrm1'Jdq2*rZd_dAHR\gYF+Z('X8?7#o3j8WItK[%\?7mlblLP,67))8"`@JJ4I2j$(dLpG*>7p_13Qo:"m`.lr.r;&%L0Jtb(ml0:G1jm(q$P7RGFqQo3rOJLoY9[b[(i`VH&g:a[73fEou?kOe`SC.2OJ+N36-Oi7uK/B&m19)cq`k`q;a6fRX5+TKFBP5pBR#Wu6_PpC_42DmpE"Z\tTg-XMl1D!?oWb_SrG(uQLq6X3P2;+/fnlQ$GM703CV%*#=+kr)?2]U#qqrIkE5-a`8K9!15((Pefd*!*e$%Ss#4O#Ycer.mMh3KRe%9*[%Rsk<`CZFV+1!)Z7U%f]r\!0.*4Yj7m](k<9=;9lA7]6s[@2c^TnPDSQHE*3_KC(47:=\eDH/4E4<Xdj1`0"9dF/c!#60\TQEj[W_>5Dbdc;:sB42@KcSf)d\f#-`Jj8Ln';tJ$=)DV/U,\+<&^;rFRDA4F=[O/sGeZ='Bo&G#fm]+2`bG.:/;:\_bWB<Fe'cN=++loC2DAgkZO2s8BX@Ut&uDh^Y.7rf\s=sU'i_.O=2T+4(NaXO1c"**r*X%F>At?GOn3M;XVna]ZgXAjS48(9#mT3SqsMqiF+!?BT(R=ZdCZeKZa,a>X)p^<[AoIu*"q!A2"+U_FM$r2>,[0:;pjdW[M1<M\\=?$?dlScGt@u>;6@gWdbLd4g%+*&"uuGL<D?pSN20+h*O]3/OEQ-hgMX#$(H)H!%8J:aDVRN<ihp^YiL]edH=L@)8unfu5////XRYYn5/"]HT9-,KSm3:IBOJ+F`'H`7Y#1^`fcfcAD$L5LMH`XRdFC15^INGS\I`&s\n((1O^0*6@U;Ve8%lA5s"p5n^]T?6E,T9\$nB*V^I(aVg$;No#e78Lf*5$-q#)QK#6(M#Kr6WC#rQ>Un"$iTlAj.Z"<KqH.^!V_2>`:++NdublBO90!5b7i!n:3?f)NV+LRMLj<M,1.K7ab3K%V98G`&[Z]gigi_8\S@de>aP8V:jQCsKUE6s83okk[$R8g?#j4Oh(2&R<'%4h*<Y!M'mOl^aQ"_/qHc42cT"g6+E$-O4:]HtrN.R?%Plb(LTr^kb?dr6k,gNPgH[8pm!<<E$slZsj&oB';OT/N&uO%pBJh[:hJ*P'R;q.!5'\-$]kh0N(m8T9A7OL#ra+&h"nsX7ED+B&r<X?l7eqCW#"%@2c>HceL`HSA.j)Ir2RqJ+?Ei8o[rjp\&cLaA<J9ZRX=SYptA5)ce`OB[i`dqO:e9F9moljidJ3A:)n,ZMgKQKr6PZ$Y9ksE%)$4WV$m<:^c"@N[hh-FY!<>Z]*]#5CdU5Yt>Ah=M"c#O2u'bi7^KVb31iV?it_ZdXX0U#*i.1npoRX5ZF':"5,^R/rgBXUk2n7fNM'?]hm@XFB=%-d#N%B+1`1o%EEiZNd@\@5]47H5fI`j_?VRu?`uJSL1P?+oeJJa2AFX0>)6hk5>[n>j6&`$+$X(B'7b3\eA66m]jS5IXBh0KV3)Tl;7*K:XNYhI)?HQ:p"ep`-a]o=%D?=)MYb>\AZm9XNcWb`/.?(ZL43jFAXr0\p=sJ(m%BFFCP6em"jqC3*J75KLDXT1[VrNeA9Dg^UMu^d.(Y5%QIE\<Aa.!%q'ha2LD8k6%bi\7m,f#fNL[S1Y5AjiPC&P0*bk$C@3b=^L.;)CgG'+^_2N^m2)>u/[ZMu7rY@K]L%o'*8X&3=`UM2_KC\,)nC(HS&>C(b?=T"-qgnV=emJtm%'S82I_jUK]USVFkbTs:#C.b&Smf,8"8\#?''E65b%43]0%V=qC^,skaXeLcH3^THK8d8ZLVBS)^'*V+BNnS+XI2I0fI:b;W4,f-K`PER+c4HrGd:Q^>R8[Y\\OH)<u\=K0nJV9V(-0`QZOub<;gaGlN#Dn(mpTuG4A#/_C'3IVgdT^dcMEh/h=UVd6c!5(//K,$+5G:Jg,"5g<%N2T3j*,T"K0/KA_&]3';iPlmZfA*JK=3joJoVU[=?YH#=55)^j[QrBbpPX6:"fdpUqja^h(3c]n'gYFqRnUO`>b\_p0VH)+L>hurqF0n0)BZFZqEhQ+2H9aT&oBTBjhQ^,Kp3)Mc6ZHs?WbtZ<IAlYmOL:t*h\t$]&rtg.fqT/n#%QD;3^dS2d,.5fVO9ZCFf?6Xkl;jLuAuS%0"qSb6k>'g&nZ@i>1d!);p]Y[)n!_uU(VE^8fU3?&OE@?Mr$HFX-*M^Opjc,m!9cOn1U@?r!3@0k0f+-EY8qlqWcc3niL.im>blPLdMTI[.R=!F]sMdH5//-[QR$oDmW\>\;&sc`7.<b(TO&3C0!&W^0F5N)mQi<")U*+"p1o\d8@R=7^6H9r6tC7.%8`1(mRBm*1`Z)j(Q/mnrd<IH\.4D6TfVDJD;.)c[=6J-.UHe-E9%'9[s(9hQU_"tT[[`f`nSjVG[E$sIiHq)N,O4/^Yo)5&T_]fC0n79ro@*Z*D;dC"Z27o]C:F(aBKtBDKF5+_KAdoG!gA4-sH[[A`SAQE+C2lME`GnFOM@+Y*SjBMq]nX!%h#q>r!SFNSd0D,e17,-&jm2pLsYc\o8-?q".&g@^iZ)eoF[Cp2=eKh7QXo"T%sP$-l[@0es4+n_mb?Foc`Bn`nP8g@b46[_,_Y4U"?G$>#4(/"*lZqVCD0^5K@L;K]P;-V0gbE0Wk%n^S(m8]=&R,O/`_`ZTe<:0h+M9ilOub(ZTqf]r1gF4n"MO;j@_0#(96B"6)Wpk"[fPBP&:D\Q%C$_qLs;UZ(2.ft`n`^p@Z'Ee<jXQGD#H`W;hk63(QYH[p5[pAM7pG.-kD:8$gI(+OCI^`%*l28iD6]YMeINd$.>I/cks1/Dnh3Ln,kT6!N%H><ur(bKqFY@=CDuYTG7pj;L_=[Q'rE9:-*g>p[72W4C)@tE*.G*\nh]Dc=i(sb_*V?cT359tl6b9WT4ifdA.A._gluL*oL2V?]>Dm8.DsPCr[jQA=LB_8l]"r(Rmenf25.LheM]ZOR5%+td!*_T41BejP?$U`UhK8P+M)&UCr3hng%4&?r5hk7q)\^2*AMeoYr>4BcmQ7mQE1Q0LOKW^BgTP+qf(sS+]jf8Q%ur4bP%eJQ<(2S>gl2/X@](gU4Z9\.?]=E=-+L@79Pqs)8au^,Qe!nuM!]r;D4ouJ!mUT[pKh#gaTV6GkCJ:haBOiQi%"IR=:"B-?K4:QcS[^-GqU6/]V>!8jQJC.hke*nTG%&0k7EB*V=^dnkT&L1m!A\8AS3KN&q9h's*]t:EdL?4c6s]^#NE0fbcjj8&-NHjn=rs#g"n2Ba2:8qTXT@bNY(c-ge2"-K!R)#5@k)B`NON:E;q![H#<,PF'%ntq)ndBBJqpI%tn-<@f~>endstream
+endobj
+43 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 3416
+>>
+stream
+Gb!#^gN)%.&q/)-T]RQGQHY07eUGV@VNP4\A]hRYAZPA'OV!A:">g607Jlb)\j926,29If:2M;;-!iiYpZ^/)Ru,)qIq&C9Xb:qG-!n?I7@]17V231>=Bp7cn#g!pp#6X6iqDYJ*f\1gnPm_f_^IMaNH"@&kuaIqiQ.+AeG0KR)g@@37J#b3>ZL^#=Z#)M`DJCaLRgE:oG^p`Z-g8scI^M*Wcl5ti<ps=nZ"Li8$Bk]2f\L$g>+.5h5B:[SB]?RanYQm7^M&%`j7V5CpMgK_/=I?M3GLFTWaXH]p\-W:5A3q'@)")f*d3AdqCk3cR,A!P@69fGMc'`jak%(H.UJH1S%3/pbV'7mgTnZ2!%cV_gt@5a^bB"SB%C)-"ahb*)E0Rh\SU[@]>>"Mc*U0jC0EN0C2SM:CsM6:6j"R=>X>hLs2<S?HBc[/Y!)4d`?Ip[%j+>>N4.N@VKUT25Sp*;MeRKB8o"AD/_7jAp;2c?L4;H[@N/`SiDQ/k-:PR4q*HuL`^3m/:9ilK_NOojGle//e+=PaL)XqXl*/qE%Z&SEmZE!hXl!94oB9:2=Xf`a,fmfEl9n\G\R2Z]A<+NJ0E0<Ut5<E"'$+9j9qUcIiG;O:!&CtY]MHT[_<Ma:KFmoIOjboX_i\@QU%D\:0/sA<a)Hog+a3jWQgEf#68B`3&XO^Hukur'n(KV/sj)RWLXrLO"\=3=O:0bMoU[mRbqq`nT7rk\"6_G;r>[%jNk3f6Bs'Y3^0DMT&XcWDaL#?-N3K6UnEa>-`Csc70)8'8mW_JLs:+h%SQb++V+!aR1X`>6@qM9.)?6s/;P@u>&@5n8gIq?(30H4OHjYk;j#[sH35-lQk6;t;V2PYOA6V;29H6*EN-&iKq+mf\fg.XW*5LCqI;j4r.<#nFlW9g).o?'JF[143V\L+s8)\-GKYiP<Z%gfW]ef_Fs8hu11;1iVHd4Wpnf0_;Oh_RG9'*aE8f+AOA/2-c+h40IA(fB?b1FL8Auo-6Ir1U^QF+S>BA)@hqCQPCUkaWAUDD:cX[c#irBi)L]J7sV7sanKp(+3pkk@kFq]*]/P%4"_V:>N>9;23H!K4bb,lA<K%gm3)TZ2T7uuNT[fr]NbiIW:X-R%]XVABQ-j_s8CLSNF=Fa2+gV>/5&m`0T7o@h(+-'dX;[#;gNIQP*2[8VN[7.4ZbB!\)+A!=[rH23L>/?Cm0>n%u%^DZ0-E7Pa(^Q&KogV#3Qa!>0eY,pTP$[f>HSUYS;&Oeeb[2WR'It?G2Xa%1W92)XH%F4eX\9)NiIgikWc5>t'!$/Fe_dZP?]G$&r&Ud.Y)meI*9(H\L2E`CQTmE:l`V\?O%LP8%n.0eD^kgt/-1H@$]^r-rbAfAJX6?C><t\uJ0XTMAL*t$F,N!e3Kp0a_o:\%atlCFMR/Q8["Ecac;ENs3t\+QWiPmf#4Wt-5J9#NAs^s%h\8cHBF<n8D2Y$m.6)-VHHZ$Pg"it4Dpm;4p+!cM3u^Co$3,YK`OD#O2)X]bQ:s1ZrK&FrW`'],cGkB#%$2W$VO'qd"k[mM@^&b07l'alrcg2E`e*\>G`7f@,PM/A"WO3?q^'b)dg^s=5QIOg4N,+]Q@,kPW=L@6%@RcAA)C"os)@eq9B`?UUnHY3M^=Zch`V8`ns01am&b%"%1`cp9sTK(<M`Wr$GqZ8/QqItR2$W`8rF4aUf2.#!7]tQD:[FI>3#"G[OcDkbt!AIQ\PX!HN_J2DX1,,9VrSB`Mg$,Wra;2V=ObC;gqU?Z]Vkp[:05[ImlGfb^*mF]`B/`UJXh"VUlBLV93iL(<Hbq7]@6AF/FM?<+IaE1(r(tld4mX&(Pkq6?kcO0_N+#5;^s7<2qag%GeCARh</,bhEnAgpIEu[FseBf?U#Z_E[c+Gg9*/]fRMLBBu1m*ZVd-mG.Ef]">K-]UFN7Bi#%!hZOrd.cf]os6Dcn"U"t]&#W6I"J@K*1u[1UVfP3Z+J`gq=c-I0DDkY_&?:R$g7B@FL8o=1m.0H4hpf3&)=@r?DZ`8\/J,\;rsCcm7Y5['lp_Rm81[,U,O:f[0EfmsGf7RnQi0cBRQb67+$XT83_K5aR9T=6.#t1r-gRhZ8=sq7.diF$POn;Y$L=dsFideaE9iZA2@X\fB/goj9P.C>3]f;jL-E!s((DZ(M+c4W.8/LDA3]Q4.r'(o'")VNGR2*A@Y/FRdCWmG4s9"T>SfO!c_HZR8Y&][+oaTBB3\a$kJ^K'D:oJpG>gHS<[i*-IF1*AZDK3Q?2Mtp&#JHg6Pk>Kn+V"3ZE]B%PYOYVB8<cL?=#%TQFa2!prs7L2a#%-CK7Al,p&-HHH1MUp>CPla?$Lig(frT7kHJ4D),^=)[+V6OsoMHRbD>A;0W^5D!<^&B+NsJW-o$g.^"Q7cL\[LXB=p1e8HU,_n@`![8:"HdC&l!C"nG@FkYC+/mS%i8oASDSLMlO[-BKPYA?S6Je[NXKp1TV<VXs:LO3(Q^o<hF:b7mLG+B-..L_=>#"d'UW0d77"HP)?Uac`j%*gHcb(V[IEL$<;;sG*YOGkZ'\C;"e;?TJ#J7_<B^g@P)#jtkE<#6PH1^5]1^9EutWMi84rXGMsE@k=fs!bABV@=\nW9"a_[bD)tg5DM\f[W)&RKlFjdSTA/0+I"k&%j+VYr1g$r1j5"1E=eCf\X2")>5Xf[oA8r(l]26nC2c(D/2Q$GdW@>L-.Xqc;6.Q@:/okq;#!IVj6EEcjZIQ"+j43$NnArD?<Q^/rP?+@.K*gMd8[%e"eh5O:*:/dZ2fXD3_3=ZgZHrNr4'3C!k_E>en3[MN(Nc^!eo0gY'mX:E<Y*RI04!kmXLqQ)"Bdf0SQPG%OK@J8tiTCo=f%[ZK08ZkbSTIR&ZK8ae_$fA?0*X+N^,Ot0;ZD2$Dkbh0[Z+S"jQZIDXn^7GmU*#cVF;EWDcGn*So]eek0ku,e`j>5+G]X;*RoaaV,s-f$Sn-n?]eGRf*&3N`]C%BmJl%m-!jO?jb@V-0&]aM2?\7AHNO8-Nn1e8Z-'JF>E\K=<;DPZt2*H)MTm?A2Ug2a;N#Rg36a;kW)re8i#I?CCs!2!.ITmSlgPBR.9KuEc]RF+t`)C]@W.O/>3J[MpNjH7p%iS')iVQrV!9h`a=0G+/uCRtuDQ(f8TGM$JOTg0iI\tf<*e!MrK`kSaQ%Fa,8C!&N8O/WI8W]U=t"`7Gam#\L_YiGFLV"N^f=A!.qgS:se8DFpWJg*&'oSMHm[ZKM-KUA8rEC'/;iMRhi%U<SQb]A5s88i0&k!_OL;b8+Y<[aUl0:J=4nRB]#Cno&$Q-ROlgBr,$gg]]qjuEnL(qX?6%4T9Wr53kCIN*F&$P#=>h#@:Oneq$d&"#JVDG;5(;NAeG0mfB\5QR>O%3iW*ObD8G,2r:E3eZ`Qol^A%5<D[LUEQUjpo'nG`W#q9>r=&~>endstream
+endobj
+44 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1489
+>>
+stream
+Gb!;e9lK&M&A@sBbcPTa@JM('d]$oLG)K`9C_EFgab?$p>E(1F74PJ?I7Njp]TjJZZ%4`d%##D;2imQBL,&jg+4bfe$\2Snq!iP4N'f]2jq/-`:[hRNqDu4*Mf#'J+VA&="V=R(GU*EPD07YEB'U3VWF4M:jTm5G]<rmj"!?M+0Li8_Q`(^c`337=c)7)J<BO%df]"nc@&XR5aqb@rdmRd#$BhJEH3+\4M-=?NeER\5>XPBIKi1-J.fs'7V"mYu26;ZBVh3o2kF`sLbK[ui[-=$[(Cein`!K'2>%qKq+u`>_O;*V,cE/8I6i8m]5LaN)2/M&jF!>0dW-=1658*NOSD\AFnV.`QfS1*#c0UOVH^uUDL,\U].k!W@8@/K,SSbaiDVAnchei'.((3G3Ht^^W=o,VZheoVF8E`^hYq;QS2k,#-G&>RVSEn(TIF^-FTM=d4+=Zh`j?%q*8%2*ufu#ohgB1An6'rGlDs!4(7kXg6p!U4XClRc^km<4t"`NR%0YsRnaIa-8U,5qg10]BXE8os_osCn'>^+tQ*9HjQNu]C4L$GB@n*tSQQGGrG3"1?:H<@joJ9Tb6HI)Zt9G5@*"uXu!r<4F)Y!WeUW1pY\)M?uQe4c^LZ!/udb0&B&9]\'.Pd@!NjrJS7"HSldaN`R2N;)\+M>h:!HYq_HB@"kR)3mTFSCV[aLB1S*RWpDVmc)=L0Eb_W$As8!\/^B1Pujtj@As2+SFUQ,=qgA"JroZlRqE90%F`klC()i3GseDF&Jjmm8F_nPhdM)0Z6rK/U9^GU_Q8^HMk(8(78h\#?e+hb&/A)$3(WEgoE>iC0af"eW:IU"njGD?bR'GSg=fL'OAY;Eaif6sJTM^i`F.J%=Nu^mO5+$%<&AZ>8l@]]n6S[qoEbcc7pbB!1MAP`$@](Y+pSDc52YfTWQ-L1oDgTMEbL-[gEl,er,sC;Vhch[<]bq5kdHtYG[BG^_Fn?GbZ0:^6ZJkU8<36(a&jo]ef>O;KG[+Q:PR`j)N5r5f(e/APnM6bOVi"9q#la[C/mD@&Tc/<0ZBf+/P/Wl4!gnS!]NPW8El^N-jVOe3k`/LkchIm\=r)c`s]!kpd2QLnNmd^Y#'gZ]2`3tqN_eiUr43UUGf#DFp9DpWLhOc#5TFBb?SUt?aUB##Lt7Sp"6&Uc]XY[n`^(;]Z.`as0;TBQ?:m@;`q@t.-ms60*NM^JU<sam`pjj5a?Q,Y:*sIJg9`I]AFa?TLLg2*T#Y5X%+Mg;%E,<HM3e_@.2qEs/hT*gjB"pX7*FI0)eAGE%bMkg]R[gd!Oin_g0n&\G9--4Y+\B$eA_pq38+-krg*!Fa+[N5$$o9B5)f-58^,iGNhD<3fCL1NsEY8>Snldn=[sk1c\!=/Y9Nq@)5]1la5>TkQ>[sV,-TjheTUj:Lp)UV(VED`[f]p\uFXeP8%#2^>\#8"-s23_Fpnq3,Y/<3S^VNooPF&ZNZo#EMb+SYoQ=6!jDe9])~>endstream
+endobj
+xref
+0 45
+0000000000 65535 f 
+0000000073 00000 n 
+0000000136 00000 n 
+0000000243 00000 n 
+0000000355 00000 n 
+0000000549 00000 n 
+0000000726 00000 n 
+0000000918 00000 n 
+0000001093 00000 n 
+0000001271 00000 n 
+0000001448 00000 n 
+0000001564 00000 n 
+0000001759 00000 n 
+0000001865 00000 n 
+0000002054 00000 n 
+0000002249 00000 n 
+0000002437 00000 n 
+0000002719 00000 n 
+0000002914 00000 n 
+0000003102 00000 n 
+0000003293 00000 n 
+0000003482 00000 n 
+0000003671 00000 n 
+0000003924 00000 n 
+0000004156 00000 n 
+0000004389 00000 n 
+0000004616 00000 n 
+0000004843 00000 n 
+0000005064 00000 n 
+0000005286 00000 n 
+0000005511 00000 n 
+0000005737 00000 n 
+0000005976 00000 n 
+0000006215 00000 n 
+0000006392 00000 n 
+0000006690 00000 n 
+0000006777 00000 n 
+0000007133 00000 n 
+0000007207 00000 n 
+0000007372 00000 n 
+0000007493 00000 n 
+0000007577 00000 n 
+0000007652 00000 n 
+0000011108 00000 n 
+0000014616 00000 n 
+trailer
+<<
+/ID 
+[<68f8751306484440ab3c2b9a5a36cd33><68f8751306484440ab3c2b9a5a36cd33>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 36 0 R
+/Root 35 0 R
+/Size 45
+>>
+startxref
+16197
+%%EOF

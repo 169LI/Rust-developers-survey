@@ -1,0 +1,322 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 6 0 R /F4 11 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/ewan15)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 741.3646 55.61146 752.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/Cerber-Ursi)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 677.3646 68.09146 688.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://manishearth.github.io/blog/2015/05/17/the-problem-with-shared-mutability/)
+>> /Border [ 0 0 0 ] /Rect [ 207.329 537.8646 222.3365 549.1146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/afetisov)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 517.1146 55.19146 528.3646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://doc.rust-lang.org/std/cell/struct.UnsafeCell.html)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 496.3646 74.34646 507.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://doc.rust-lang.org/stable/reference/items/type-aliases.html#type-aliases)
+>> /Border [ 0 0 0 ] /Rect [ 171.9065 441.8646 203.5865 453.1146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://lib.rs/crates/glommio)
+>> /Border [ 0 0 0 ] /Rect [ 323.4815 344.1146 351.8165 355.3646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/Cerber-Ursi)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 312.1146 68.09146 323.3646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://docs.rs/tokio/latest/tokio/task/struct.LocalSet.html)
+>> /Border [ 0 0 0 ] /Rect [ 204.854 257.3646 240.854 268.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/afetisov)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 236.6146 55.19146 247.8646 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://docs.rs/tokio/latest/tokio/task/fn.block_in_place.html)
+>> /Border [ 0 0 0 ] /Rect [ 127.8065 193.3646 190.8065 204.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/u/system)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 159.3646 53.09896 170.6146 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/sending-rc-objects-to-another-thread/130941)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 84.76456 128.8165 96.01456 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/sending-rc-objects-to-another-thread/130941)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 73.51456 49.60896 84.76456 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/Annots [ 4 0 R 5 0 R 7 0 R 8 0 R 9 0 R 10 0 R 12 0 R 13 0 R 14 0 R 15 0 R 
+  16 0 R 17 0 R 18 0 R 19 0 R ] /Contents 39 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 38 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/why-must-local-variables-in-async-functions-satisfy-send/58348)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 807.2208 119.2015 818.4708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/why-must-local-variables-in-async-functions-satisfy-send/58348)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 795.9708 132.139 807.2208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/alternative-to-mutexs-when-code-is-sound-without-them/84680)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 773.4708 122.134 784.7208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/alternative-to-mutexs-when-code-is-sound-without-them/84680)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 762.2208 119.224 773.4708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+25 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/shared-resources-generic-bound-for-rc-refcell-t-and-arc-mutex-t/102698)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 750.9708 116.299 762.2208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+26 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/shared-resources-generic-bound-for-rc-refcell-t-and-arc-mutex-t/102698)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 739.7208 122.9665 750.9708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+27 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/shared-resources-generic-bound-for-rc-refcell-t-and-arc-mutex-t/102698)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 728.4708 103.7965 739.7208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+28 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/questions-about-tokio-futures-and-rwlock/11260)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 717.2208 125.899 728.4708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+29 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://users.rust-lang.org/t/questions-about-tokio-futures-and-rwlock/11260)
+>> /Border [ 0 0 0 ] /Rect [ 28.34646 705.9708 69.61146 717.2208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+30 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.discourse.org)
+>> /Border [ 0 0 0 ] /Rect [ 71.03146 621.9708 104.369 633.2208 ] /Subtype /Link /Type /Annot
+>>
+endobj
+31 0 obj
+<<
+/Annots [ 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R ] /Contents 40 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 38 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+32 0 obj
+<<
+/Outlines 34 0 R /PageMode /UseNone /Pages 38 0 R /Type /Catalog
+>>
+endobj
+33 0 obj
+<<
+/Author () /CreationDate (D:20251207211039+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20251207211039+08'00') /Producer (xhtml2pdf <https://github.com/xhtml2pdf/xhtml2pdf/>) 
+  /Subject () /Title (Unsafe Cell async - help - The Rust Programming Language Forum) /Trapped /False
+>>
+endobj
+34 0 obj
+<<
+/Count 3 /First 35 0 R /Last 35 0 R /Type /Outlines
+>>
+endobj
+35 0 obj
+<<
+/Count -1 /Dest [ 20 0 R /Fit ] /First 36 0 R /Last 36 0 R /Parent 34 0 R /Title (Unsafe Cell async )
+>>
+endobj
+36 0 obj
+<<
+/Count -1 /Dest [ 20 0 R /Fit ] /First 37 0 R /Last 37 0 R /Parent 35 0 R /Title (Related topics )
+>>
+endobj
+37 0 obj
+<<
+/Dest [ 20 0 R /Fit ] /Parent 36 0 R /Title (Related topics )
+>>
+endobj
+38 0 obj
+<<
+/Count 2 /Kids [ 20 0 R 31 0 R ] /Type /Pages
+>>
+endobj
+39 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 3519
+>>
+stream
+Gb!#^D/\/u')q<+Z07N6L!9*fP`4o3\R'>2O>`*Y??&5\?q%5oXne]1QWA7Drgqdh.I&L^mJ,B<;5>L^G@l$\R:h9HR#A_Nq+PhKrc,iiHfHj,B/anoKhf^,hQe5Ac9@l6a$6c<gRgGk3"EuFijt.7%0Fc@?1up)B1JKE%6QjalSEnLqHmk=^5SU:R`#f]R2:gQfYc<a-t=@E+GA@g'g%V!`,9Opk?oTl6NY8&6k\4CWWbK!=UK=X/'WOBb!j;@>S[_@Q5>IJ0*HW#<d"D)h>D/&\28ioHqT@12i>:5Y$N+F:>k0U.J9QX0_$Ofl:i73'TAs:D_c=0mWe)8`srgU>fZF<2_[9^:,MKE21<%OOB$I'rO#IL0%^[Yb8=<M,'eiNiPZU0@dijM(-5g_e<V:_4[SufEl-`@dedOp+$X%WZ0$`VmE0q(IP1(W4qeY=g_'-`h]Leo07A%ujikC?1`T;>`uB+aa1gs)'#948XGiGA\"tKTXXJ"E;mB$A.UG]?R%1KW=YmJFl[j+WLc*Xdh3u0fKGTqqNQFhB-^ZMh.X6\f]js];,^!+D,2"ZL</n:"I[>2>dQVt+(&N6iY4ua#^Lb5f=4Wkes(;<.WRg'iSWU\Ur:f`X_li.gMQOG+hQ;4Pb9G\CJN+mF1.\jT"A_J/YZiFfY%:aDGMtfKnlD&-kC7lb2lZ8ZO"VZ)SY`\MjCA"?h8("WQB;eQ?I;)2<@ZNMX@R^XRO0e$TeqL2Oa*m:lfEkt-!!q_(@1$tD.`Lo=l@h<?\uIo77/bKipc3[n:R[tobYAD9(%JQ5=K$K_J:C5^[sXK5THk91`7,A%hmdd"nLb_@=i`s`I#I(#mLadF(t@"ETP%1EJNQFM.?.SNopj*dsh?_Bj&*q*VMbrABEtF`Jh%Y]a<CqkI"0c)=A8%B,=8,(Q+&9b=]S".i:Uu1:(5f`8O&7]+B*:k%(<ZYtmloWk[es`DkR,*pQ1<W-Yc_J5iD/V+Bn\@:P>K3L%H%p7Xq[HOk"c$a/efYjX[Cq52Tt*7!\8b)0)H@0)+>(O;Qcfa*#9b/]hn5b>nsUnpn06C%=N_n\0g5g+FIM]!%t*AR*i;5=Gt3^Z%aRY1e=c2ResU2f*bT+ru%P7.6p8L4_VJMJ<A04#V[dto1>)'^QSFF$!k*0'dP:tKWt@,(3T0Soj67O_Y\i51uV;S^s6`/HQQR>VjHnlc_#_,sqMLYWLLU$;&lV(7sIJA>f:'n`NB_\KA"QALQW5=AD=d0h(n?kWB,-5bn@.^L;1)p2H^oll^ie3KG%KFBkX/@DFd#%Yj8Nb:+)E:0q@U'Z`A?*;+pDC)CECf-KI"Bf<KYgWh!1orhkZ(Bt'OYce?li@TrV(1s%V[gP>)hL*R6T#;4l!lRB@U-,e6G;e'l1^:@'ca6b%EElUmcb0.P?P4(N4\USA:MtsAHe_'YKcjQ8=$oM.N]PTDNP\\DoE(npIRu=mmIrt$RY:,dE,PbdnPlj.$//cKq-s*KMbY0p/95#ZZ:JV@BGL5C7,qX5Kh41[Y9&6Mk$):ecP3C=Vj`-L_gD^S.[DcjX&n"\'AahQ<_55Rs"N8;90CqcNmOlm?-b>/IQ_f5V%uA#Q&u6&'Ya]_-Q7ddCAX#?5u"T365r'cP[6:4'+(UMc#^kf1W7QGRR]jjoE!8Q<5N?s8@Z%brqR#^-Pj)k?,X(!4&r:encW^3*"7^7(d!4l+@%SW!:AMp,t"*4\=?F=)b2KU<b=j#R6?j3Y+$BjoW#"``gTR&f&(,(7M4ib5upFR;.FM=BVJp;?XZn?f4Nc2`%&%,lf#AEqS8#<cEY,X>DFB!ALCH,0:BGjCteGH.IlW:nKN+6>5])pb)4F;`Vf#1.IDsC)[W3EH9^D3>(UMM31@h#tL8NXnbFD3tQJj6ZU*7!;9[b"(%$*EgDMRF$u/(SRnYc.mn;HU%J2JX&hi%7`;ECGtY[rib\C"V,J8S"K6kVS#VR(pukT1pHCecebX<L-Apij3]J&u^]CIPLU*-LZq_fp)#a<AeAA^d;ggMQLRlT46)[.TR(2OOr'>FLFQug;!\)"O$5]">[Iml\),6,eR3`S?/de(.5`s-K;E:A%@2-<A3JtIY94[`S12aEVe`HKm>H3aC-&=\"3jtGeR2OmAlpi;1FnMc3Gfd$=D"!5798^Tq.sW`@Jq)LVD5:=G>6mOM#>([(F4Q(8>L:6g%8m3oMi7$"eN4t*_@"WGID>jL#spQ5+HmQCAt.pf.?`GR%<'Go09eVH0[;ur;OOs1'!UVS@9,="gRVLS$TfTnr?sbH*DJ4/5R1ag%1*2QiaYIMEh8Q)5V2f0h:!+W;$)[e4Y,\7=p?7YbjI/UYd,f[[h4e*[(CI$nk><#P^WKS/b$d_UUQS)rFtJ?6.F5gJaY[/r-4*B/D$>(kqrO2rempo8j.Me!!bFH`amr#*,)8++T$Dd5hNMVr\db-Z80aq14Let("fir[upVN3=2sCobN:XZI+Y1"d=Qt)u1CQ\Ku>QQb$UTK29c55HSVo1KogdAO(B*3)iJA$J'uum=T`kD7qa8Mr;WC*sk'<MsqNW@tP4)4e`JT`K:hEEPGB0_b*!X&,4?R7#iccnVFPg;Ppt5gUMD"[jA?G#GFp0NM`b$"U\"pR&Fb(!+q_:N?:B(TCugb:Zr#doP?)tWZcuX_;4@N>#-LU27p=<Y-HS#37*':PIU=Z]?G1q#_BHVfuH/%2?@)i)D:NY/.NnhR$fD1W'#@!c#</@e8S$WVKp.c;9cF*SW0"N8XZX"43s7[VO;e,;RG58h[3;_!&_.I&rrap&HOPIpDSl^0Tc%hB'?b)E0"78_PXiDVT2L/hbo4oh;k)>-]5feKusGh.+i!$V4,;.K<spOf,l?O@:[s5[R4m>:W"mrW3ps,TAM6PD0#,[H+#nT:JVau<Z0QQQf?fAfKOa)_%QBSVAmYE6W`(t69<K1&k'Q>k8Fc0hK\sWX`TW;Q+(5,/5boT#QK>g8,gub8Ss\-q*$_8OHgNZ5Og4+2Y[t'I.De`j2"=lr\GJJ7&DS<W-7D#,"G@mKDjK?/[5XV>pODdIQg7FA316*;,OjG:qHU;C'[57EBnh8\J!_6!G:<1faVScf+f("\q[d?;un!sXEV/fHL<p$++^F4fEBZUco4DpH0X7dR5j'+;6E>W9hm4Q)VdB7Z$bmrD[3\NS[GXt\`OVV^O(O3QO(Y?G?(?_0:d"1So,B)P:1U&N8:<.ZhBHM26#&>F0RguP]@g.\dc<MalkdJ2iS$`GR^R66>`RSR<q9C!-.@Ze+$?gl2(Q7q/7_5Wc-#9bS)ad8G<dDoBV7!%"JTQ&/eh&=s>LVI8fhdT+KIg<kV;Ch.It[[aFKRVYH13(>h3[_B-[>r%W'p:Hf2Gn#Onh%TDA`b]]P]EqVS^Y3GRt'Z.YUD+E9T_85T.\a71U>l*JDbUh`PlZ"<FMk8o#37!STfYb#4%eO3#1th`^(YDpdGWm!saaFnOLCVWX`!<Qq[LAi<O$%p)qWKNe_1>0Jc(4R2pLijZJ+<7V])~>endstream
+endobj
+40 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1126
+>>
+stream
+Gb!;d?#Q2d'Re<2\<#=mGo.J>VJ4MnVlGrH"DKN9#U)s\7UY7$=oSB&+X*X*.<Il@=uB-+>g>Jra1d4YJ\SSeoN)$2?$Q@2!]@f"!9JldHNPAF_=,2Gs6+@-BbSJi(EdOL8;ApiMqpkMS_O_K;2c]V=iI&ae#5QhBpI02&I*%odU3c92hSDGr+Q`,)[e`DBu(,rK@lK4BF/*fC)5r>Q'8/_&1ijo2sFHN[>%9d8hG"%C]P&dlT?GtF<]hFj;*L-Q<RJQBa/#4HQfK(,k,E>8g0"^JGTH(V_IbkD</SYO8LPbUD-TZ$e!!0V@s]hVlu"uHbr%o5__`3bG-;b%8=2L:UQ-AU%1mk(9p;dFI+KTeJ^(u,`reY[Tqg0J;U68WO\r&":,[+_&9#]K!9*;%h*&*6Fe?;KQ3Q<>G1<i9Z*ZcG\U)96fSG<_(g)nh9\20Tc`c3>GAt+>rQ,*1WshpD/7<R@A]1nIC<1<`UG2"e=Z@?^+ImOQ@:qt&>1'(4IX/7aHgh;6+0anmL#;j\im/FD_(;u1#Q6BeT['&5,qbKHc[&r?"fb9f!o[TF[G0uL"]DdVBF/ZYdVJS*)SSaOa5b'S-ZHr2^C$I)/&/c\BPLI=aGpn6_[ENM6G>DE2t1J"FfHj=lG-)SA95O[LQZ1Qa'`,;djq#k*D?88!iK!m))ZK2p$'0_N$4B>]htLmmh]K;JRsp?dEBZSTC%sHU:PsO,Cf%c.c-[q3\!!f'GTsDm^[]eF)X7,`^1b(H>no\Ot%scC5Or8,P0!T.fad7ro[g@(a%,rLY+q]OqF'oFLmbbJ!l^/Z3a!f,FoHH#muU<:'9ZlZl@l7^M,PG[0WqmdaGmc:L;Q^42]SQ5H4\,^G&GmP3=d3Z<<upLM>64-aCEN-H7P?1K*fBf#^;XlYSObMfat^-BXgeQUi8D?M2]o,,$s(l)FRRs/29DW<"pm:G)jZ>]nmPj74Z#l>hDI*.)P$A7P.r%M"FZK*b1K.hY5.5.G==!am]iWW"TZ4?ef33C2!o)L8c$EZ$q/-(?/:DulA_`VcTj8O^)[_Kg$V2OZm(91V4.c(E0O7d[BLP+P#bclnRFeCXmHj>@@Ds^9s,l!XUMY)*ao>\Ha#(HZd]JHD~>endstream
+endobj
+xref
+0 41
+0000000000 65535 f 
+0000000073 00000 n 
+0000000135 00000 n 
+0000000242 00000 n 
+0000000354 00000 n 
+0000000542 00000 n 
+0000000735 00000 n 
+0000000840 00000 n 
+0000001072 00000 n 
+0000001262 00000 n 
+0000001471 00000 n 
+0000001703 00000 n 
+0000001819 00000 n 
+0000002001 00000 n 
+0000002195 00000 n 
+0000002406 00000 n 
+0000002597 00000 n 
+0000002812 00000 n 
+0000003001 00000 n 
+0000003227 00000 n 
+0000003453 00000 n 
+0000003767 00000 n 
+0000004012 00000 n 
+0000004256 00000 n 
+0000004497 00000 n 
+0000004738 00000 n 
+0000004990 00000 n 
+0000005243 00000 n 
+0000005496 00000 n 
+0000005724 00000 n 
+0000005953 00000 n 
+0000006130 00000 n 
+0000006418 00000 n 
+0000006505 00000 n 
+0000006820 00000 n 
+0000006894 00000 n 
+0000007018 00000 n 
+0000007139 00000 n 
+0000007223 00000 n 
+0000007291 00000 n 
+0000010902 00000 n 
+trailer
+<<
+/ID 
+[<e672611280ccbecd2bd2961635176be7><e672611280ccbecd2bd2961635176be7>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 33 0 R
+/Root 32 0 R
+/Size 41
+>>
+startxref
+12120
+%%EOF
